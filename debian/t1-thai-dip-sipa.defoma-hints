@@ -1,0 +1,441 @@
+category type1
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam-BoldItalic.pfb
+  FontName = THBaijam-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THBaijam
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam-Bold.pfb
+  FontName = THBaijam-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THBaijam
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam-Italic.pfb
+  FontName = THBaijam-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THBaijam
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam.pfb
+  FontName = THBaijam
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THBaijam
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THBaijam.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch-BoldItalic.pfb
+  FontName = THChakraPetch-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THChakraPetch
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch-Bold.pfb
+  FontName = THChakraPetch-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THChakraPetch
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch-Italic.pfb
+  FontName = THChakraPetch-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THChakraPetch
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch.pfb
+  FontName = THChakraPetch
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THChakraPetch
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THChakraPetch.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang-BoldItalic.pfb
+  FontName = THFahkwang-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THFahkwang
+  GeneralFamily = Decorative
+  Weight = Bold
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang-Bold.pfb
+  FontName = THFahkwang-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THFahkwang
+  GeneralFamily = Decorative
+  Weight = Bold
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang-Italic.pfb
+  FontName = THFahkwang-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THFahkwang
+  GeneralFamily = Decorative
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang.pfb
+  FontName = THFahkwang
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THFahkwang
+  GeneralFamily = Decorative
+  Weight = Medium
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THFahkwang.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8-BoldItalic.pfb
+  FontName = THK2DJuly8-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THK2DJuly8
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8-Bold.pfb
+  FontName = THK2DJuly8-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THK2DJuly8
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8-Italic.pfb
+  FontName = THK2DJuly8-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THK2DJuly8
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8.pfb
+  FontName = THK2DJuly8
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THK2DJuly8
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THK2DJuly8.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal-BoldItalic.pfb
+  FontName = THKodchasal-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKodchasal
+  GeneralFamily = Comic
+  Weight = Bold
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal-Bold.pfb
+  FontName = THKodchasal-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKodchasal
+  GeneralFamily = Comic
+  Weight = Bold
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal-Italic.pfb
+  FontName = THKodchasal-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKodchasal
+  GeneralFamily = Comic
+  Weight = Medium
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal.pfb
+  FontName = THKodchasal
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKodchasal
+  GeneralFamily = Comic
+  Weight = Medium
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKodchasal.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo-BoldItalic.pfb
+  FontName = THKoHo-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKoHo
+  GeneralFamily = Decorative
+  Weight = Bold
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo-Bold.pfb
+  FontName = THKoHo-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKoHo
+  GeneralFamily = Decorative
+  Weight = Bold
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo-Italic.pfb
+  FontName = THKoHo-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKoHo
+  GeneralFamily = Decorative
+  Weight = Medium
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo.pfb
+  FontName = THKoHo
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKoHo
+  GeneralFamily = Decorative
+  Weight = Medium
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKoHo.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub-BoldItalic.pfb
+  FontName = THKrub-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKrub
+  GeneralFamily = Decorative
+  Weight = Bold
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub-Bold.pfb
+  FontName = THKrub-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKrub
+  GeneralFamily = Decorative
+  Weight = Bold
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub-Italic.pfb
+  FontName = THKrub-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKrub
+  GeneralFamily = Decorative
+  Weight = Medium
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub.pfb
+  FontName = THKrub
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THKrub
+  GeneralFamily = Decorative
+  Weight = Medium
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THKrub.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6-BoldItalic.pfb
+  FontName = THMaliGrade6-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THMaliGrade6
+  GeneralFamily = Comic
+  Weight = Semibold
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6-Bold.pfb
+  FontName = THMaliGrade6-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THMaliGrade6
+  GeneralFamily = Comic
+  Weight = Semibold
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6-Italic.pfb
+  FontName = THMaliGrade6-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THMaliGrade6
+  GeneralFamily = Comic
+  Weight = Light
+  Width = Variable
+  Shape = Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6.pfb
+  FontName = THMaliGrade6
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THMaliGrade6
+  GeneralFamily = Comic
+  Weight = Light
+  Width = Variable
+  Shape = Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THMaliGrade6.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS-BoldItalic.pfb
+  FontName = THNiramitAS-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THNiramitAS
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS-Bold.pfb
+  FontName = THNiramitAS-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THNiramitAS
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS-Italic.pfb
+  FontName = THNiramitAS-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THNiramitAS
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS.pfb
+  FontName = THNiramitAS
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THNiramitAS
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THNiramitAS.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK-BoldItalic.pfb
+  FontName = THSarabunPSK-BoldItalic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THSarabunPSK
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK-BoldItalic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK-Bold.pfb
+  FontName = THSarabunPSK-Bold
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THSarabunPSK
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK-Bold.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK-Italic.pfb
+  FontName = THSarabunPSK-Italic
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THSarabunPSK
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Oblique
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK-Italic.afm
+end
+begin /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK.pfb
+  FontName = THSarabunPSK
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  Family = THSarabunPSK
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright
+  Priority = 20
+  AFM = /usr/share/fonts/X11/type1/ttf-thai-dip-sipa/THSarabunPSK.afm
+end

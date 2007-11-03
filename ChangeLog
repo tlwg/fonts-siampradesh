@@ -1,0 +1,13 @@
+2007-03-21  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* */-[Bold]Italic.sfd: Set ItalicAngle for fonts that miss it.
+
+2007-03-20  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* First created the fontforge project from TTF files:
+	  - Relicense to GPL with font exception, as agreed by DIP & SIPA.
+	  - Ensure that common fields in TTF Names are extracted from
+	    Postscript Names, for consistency.
+	  - Set Manufacturer (Foundry) to IPTH, retaining previous info in
+	    Designer field. Also update UniqueID accordingly.
+
