@@ -1,5 +1,11 @@
 2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 04-TH-Niramit-AS/*.sfd: Scale by 149.47% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 02-TH-Krub/*.sfd: Scale by 147.32% (for Garuda X-Height
 	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
 	faces. Apply AutoHint and AutoInstr to all glyphs.
