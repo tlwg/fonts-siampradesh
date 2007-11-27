@@ -1,5 +1,11 @@
 2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 08-TH-K2D-July8/*.sfd: Scale by 150.73% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 07-TH-Sarabun-PSK/*.sfd: Scale by 150.42% (for Garuda X-Height
 	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
 	faces. Apply AutoHint and AutoInstr to all glyphs.
