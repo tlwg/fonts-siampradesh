@@ -1,3 +1,9 @@
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/*.sfd: Scale by 147.32% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
 2007-03-21  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* */-[Bold]Italic.sfd: Set ItalicAngle for fonts that miss it.
