@@ -1,5 +1,11 @@
 2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 11-TH-Baijam/*.sfd: Scale by 150.74% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 10-TH-Chakra-Petch/*.sfd: Scale by 166.12% (for Garuda X-Height
 	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
 	faces. Apply AutoHint and AutoInstr to all glyphs.
