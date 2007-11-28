@@ -1,3 +1,13 @@
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 09-TH-Mali-Grade-6/THMaliGrade6-Italic.sfd: Remove junk reference in
+	uni1EAF with large translation vector that caused weird line height.
+	Fix OS/2 WinAscent/WinDescent/HHeadAscent/HHeadDescent accordingly.
+
+	* 09-TH-Mali-Grade-6/*.sfd: Scale by 176.88% (for Garuda X-Height
+	compatibility). Add ForceBold for bold faces. Apply AutoHint and
+	AutoInstr to all glyphs.
+
 2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 08-TH-K2D-July8/*.sfd: Scale by 150.73% (for Garuda X-Height
