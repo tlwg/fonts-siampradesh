@@ -1,5 +1,11 @@
 2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 13-TH-Fah-Kwang/*.sfd: Scale by 153.32% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 12-TH-KoHo/THKoHo-Bold[Italic].sfd: Remove junk in '7' glyph, which
 	caused absurdly large line height. Fix OS/2 WinAscent/WinDescent/
 	HHeadAscent/HHeadDescent accordingly.
