@@ -1,5 +1,11 @@
 2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 10-TH-Chakra-Petch/*.sfd: Scale by 166.12% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 09-TH-Mali-Grade-6/THMaliGrade6-Italic.sfd: Remove junk reference in
 	uni1EAF with large translation vector that caused weird line height.
 	Fix OS/2 WinAscent/WinDescent/HHeadAscent/HHeadDescent accordingly.
