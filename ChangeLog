@@ -1,3 +1,17 @@
+2007-12-04  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 06-TH-Kodchasal/THKhodchasal-Bold.sfd: Convert splines to cubic,
+	for editing convenience. Add extremas. Simplify splines. Adjust some
+	glyphs as necessary (mostly for those that were too high). Apply
+	autohint.
+
+	* 06-TH-Kodchasal/THKhodchasal-BoldItalic.sfd: Convert splines to
+	cubic. Re-skew glyphs from upright face. Add extremas. Simplify
+	splines. Apply autohint.
+
+	* 06-TH-Kodchasal/THKhodchasal[-Italic].sfd: Simplify 'X' and 'x'
+	glyphs more.
+
 2007-12-01  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 06-TH-Kodchasal/THKhodchasal.sfd: Convert splines to cubic, for

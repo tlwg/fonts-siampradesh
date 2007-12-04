@@ -17,7 +17,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1157456700
-ModificationTime: 1196508103
+ModificationTime: 1196764948
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -220,7 +220,7 @@ EndTtf
 TtfTable: cvt  12
 rql`s!Y,91!mLg4
 EndTtf
-LangName: 1033 "" "" "" "IPTH: TH Kodchasal Italic: 2006" "" "" "" "TH Kodchasal Italic is a trademark of Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group.." "IPTH" "Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group." "AS;Aksaramatee is a trademark of Kansuda Peamprajakpong,  AS Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+------66)  Tel. 0 1562 1554+AA0ACgAA-e-mail : noppavorn@yahoo.com+AA0ACgANAAoA-Typeface (c) Kansuda Peamprajakpong.+AA0ACgAA-Data (c) Kansuda Peamprajakpongl.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com" "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "" "TH Kodchasal" "Italic" "TH Kodchasal Italic" 
+LangName: 1033 "" "" "" "IPTH: TH Kodchasal Italic: 2006" "" "" "" "TH Kodchasal Italic is a trademark of Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group.." "IPTH" "Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group." "AS;Aksaramatee is a trademark of Kansuda Peamprajakpong,  AS Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+-------66)  Tel. 0 1562 1554+AA0ACgAA-e-mail : noppavorn@yahoo.com+AA0ACgANAAoA-Typeface (c) Kansuda Peamprajakpong.+AA0ACgAA-Data (c) Kansuda Peamprajakpongl.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com" "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "" "TH Kodchasal" "Italic" "TH Kodchasal Italic" 
 GaspTable: 3 8 2 16 1 65535 3
 Encoding: UnicodeBmp
 Compacted: 1
@@ -229,7 +229,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 336 24 7
+WinInfo: 24 24 7
 BeginPrivate: 2
 BlueValues 38 [-8 1 526 532 595 610 717 722 832 862]
 OtherBlues 11 [-299 -260]
@@ -1982,10 +1982,9 @@ Fore
  76 9 l 2
  69 -2 57 -8 47 -8 c 0
  34 -8 24 1 24 15 c 0
- 24 19 25 26 29 34 c 1
- 200 270 l 1
- 225 300 l 2
- 251 332 273 351 305 367 c 1
+ 24 17 25 28 29 34 c 2
+ 200 270 l 2
+ 236 313 258 344 305 367 c 1
  278 386 256 419 237 467 c 2
  166 676 l 2
  165 681 165 685 165 689 c 1
@@ -2919,8 +2918,6 @@ Fore
  550 40 551 36 551 32 c 0
  551 15 534 -4 517 -4 c 0
  507 -4 500 1 496 9 c 2
- 448 108 l 2
- 438 132 429 148 424 159 c 2
  414 180 l 2
  401 203 373 239 332 239 c 256
  295 239 254 210 227 181 c 2
@@ -2934,7 +2931,6 @@ Fore
  126 480 l 2
  113 505 138 529 158 529 c 0
  172 529 177 521 179 517 c 2
- 251 371 l 1
  262 351 l 2
  275 327 303 295 344 295 c 256
  381 295 422 319 448 349 c 2
