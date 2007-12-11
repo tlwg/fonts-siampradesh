@@ -1,3 +1,8 @@
+2007-12-12  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/THKrub*.sfd: Convert splines to cubic, for editing
+	convenience. Add extremas. Simplify splines. Apply autohint.
+
 2007-12-04  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 06-TH-Kodchasal/THKhodchasal-Bold.sfd: Convert splines to cubic,
