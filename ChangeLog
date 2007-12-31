@@ -1,3 +1,8 @@
+2007-12-31  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 04-TH-Niramit-AS/THNiramitAS*.sfd: Convert splines to cubic.
+	Add extremas. Simplify splines. Use more references. Autohint.
+
 2007-12-12  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 02-TH-Krub/THKrub*.sfd: Convert splines to cubic, for editing
