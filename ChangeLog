@@ -1,3 +1,8 @@
+2008-01-16  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 08-TH-K2D-July8/THK2DJuly8*.sfd: Convert splines to cubic.
+	Add extremas. Simplify splines. Autohint.
+
 2008-01-14  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 07-TH-Sarabun-PSK/THSarabunPSK*.sfd: Convert splines to cubic.
