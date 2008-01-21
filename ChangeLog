@@ -1,3 +1,10 @@
+2008-01-21  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 09-TH-Mali-Grade-6/THMaliGrade6.sfd: Convert splines to cubic.
+	Add extremas. Simplify splines. Use more references. Autohint.
+	Translate glyphs and set widths of ZWNJ, ZWJ, LRM, RLM to zero.
+	Flip quoteright vertically.
+
 2008-01-16  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 08-TH-K2D-July8/THK2DJuly8*.sfd: Convert splines to cubic.
