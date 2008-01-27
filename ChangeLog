@@ -1,3 +1,8 @@
+2008-01-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 10-TH-Chakra-Petch/THChakraPetch*.sfd: Convert splines to cubic.
+	Simplify. Auto/manual hint.
+
 2008-01-21  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 09-TH-Mali-Grade-6/THMaliGrade6.sfd: Convert splines to cubic.
