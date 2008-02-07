@@ -1,3 +1,11 @@
+2008-02-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 11-TH-Baijam/THBaijam*.sfd: Convert splines to cubic. Add extremas.
+	Simplify. Autohint.
+	
+	* 11-TH-Baijam/THBaijam-Bold*.sfd: Add missing glyphs for quotedblbase.
+	Set unicode value for lower SARA UU.
+
 2008-01-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 10-TH-Chakra-Petch/THChakraPetch*.sfd: Convert splines to cubic.
