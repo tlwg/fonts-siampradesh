@@ -1,3 +1,9 @@
+2008-03-04  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 12-TH-KoHo/THKoHo*.sfd: Convert splines to cubic. Add extremas.
+	Simplify. Autohint. Re-encode as compacted UnicodeBMP. Fix unicodes
+	for zerowidth[non]joiner, righttoleftmark, lefttorightmark.
+
 2008-02-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 11-TH-Baijam/THBaijam*.sfd: Convert splines to cubic. Add extremas.
