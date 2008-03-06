@@ -17,7 +17,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1157457519
-ModificationTime: 1199018073
+ModificationTime: 1204786751
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -205,7 +205,7 @@ MacName: 0 0 12 "All Features"
 MacFeat: 1 0 0
 MacName: 0 0 16 "Common Ligatures"
 EndMacFeatures
-LangName: 1033 "" "" "" "IPTH: TH Niramit AS Italic: 2006" "" "" "" "TH Niramit AS Italic is a trademark of Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group." "IPTH" "Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group" "AS;Aksaramatee is a trademark of Pairoj Peamprajakpong & Borwon Joradol, AS-Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+------66)  Tel. 0 1832 6682, 0 9824 6600+AA0ACgAA-e-mail : noppavorn@yahoo.com , borwornjoradol@yahoo.com+AA0ACgANAAoA-Typeface (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-Data (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com, borwornjoradol@yahoo.com" "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "" "TH Niramit AS" "Italic" "TH Niramit AS Italic" 
+LangName: 1033 "" "" "" "IPTH: TH Niramit AS Italic: 2006" "" "" "" "TH Niramit AS Italic is a trademark of Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group." "IPTH" "Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group" "AS;Aksaramatee is a trademark of Pairoj Peamprajakpong & Borwon Joradol, AS-Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+--------66)  Tel. 0 1832 6682, 0 9824 6600+AA0ACgAA-e-mail : noppavorn@yahoo.com , borwornjoradol@yahoo.com+AA0ACgANAAoA-Typeface (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-Data (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com, borwornjoradol@yahoo.com" "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "" "TH Niramit AS" "Italic" "TH Niramit AS Italic" 
 GaspTable: 3 8 2 16 1 65535 3
 Encoding: UnicodeBmp
 Compacted: 1
@@ -214,10 +214,14 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 360 24 6
-BeginPrivate: 2
+WinInfo: 120 24 6
+BeginPrivate: 6
 BlueValues 39 [-19 0 520 537 598 610 709 727 743 755]
 OtherBlues 11 [-235 -223]
+StdHW 4 [49]
+StemSnapH 13 [21 49 54 58]
+StdVW 4 [53]
+StemSnapV 7 [53 63]
 EndPrivate
 BeginChars: 65542 497
 StartChar: .notdef
@@ -654,7 +658,7 @@ Encoding: 51 51 20
 Width: 594
 VWidth: 1494
 Flags: W
-HStem: -9 51<218.491 390.448> 415 63<417 482.461> 644 63<282 526 606 629.59>
+HStem: -9 51<218.491 390.448> 415 63<417 482.461> 646 63<282 526 606 629.754>
 VStem: 77 61<123.865 194> 536 60<202.673 361.987>
 Fore
 596 311 m 0
@@ -668,16 +672,16 @@ Fore
  342 401 301 359 289 359 c 0
  281 359 259 380 259 394 c 0
  259 399 264 405 268 408 c 2
- 526 644 l 1
- 282 644 l 1
- 232 553 l 1
- 183 580 l 1
- 249 707 l 1
- 631 707 l 2
- 647 707 650 703 650 697 c 0
- 650 687 633 651 630 648 c 0
- 628 645 623 644 614 644 c 2
- 606 644 l 1
+ 526 646 l 1
+ 282 646 l 1
+ 232 555 l 1
+ 184 582 l 1
+ 250 709 l 1
+ 632 709 l 2
+ 647 709 651 706 651 700 c 0
+ 651 692 634 654 630 650 c 1
+ 629 647 623 646 614 646 c 2
+ 606 646 l 1
  417 478 l 1
  488 478 596 443 596 311 c 0
 EndSplineSet
@@ -1040,14 +1044,14 @@ Encoding: 66 66 35
 Width: 584
 VWidth: 1494
 Flags: W
-HStem: 0 58<156 417.744> 341 55<229 355 437 441.992> 650 59<283 512.23>
+HStem: 0 58<156 417.744> 341 55<228 355 437 441.992> 650 59<282 512.23>
 VStem: 507 58<146.118 294.166> 538 58<486.71 625.417>
 Fore
 353 396 m 2xe8
  457 396 538 466 538 570 c 0
  538 630 497 650 418 650 c 2
- 283 650 l 1
- 229 396 l 1
+ 282 650 l 1
+ 228 396 l 1
  353 396 l 2xe8
 317 58 m 2
  486 58 507 187 507 228 c 0xf0
@@ -1322,17 +1326,17 @@ StartChar: N
 Encoding: 78 78 47
 Width: 636
 VWidth: 1494
-Flags: W
-HStem: 0 21G<81 142.255 496.241 560.26> 705 20<237 250.5 645.752 707>
+Flags: MW
+HStem: 0 21G<81 142.255 496.241 560.26> 689 20G<650 707 707 707> 705 20<237 250.5 645.752 707>
 Fore
 217 640 m 2
  218 644 218 648 218 652 c 0
  218 672 205 676 205 687 c 0
- 205 698 226 725 248 725 c 0
+ 205 698 226 725 248 725 c 0xa0
  253 725 264 719 270 707 c 2
  520 97 l 1
  650 709 l 1
- 707 709 l 1
+ 707 709 l 1xc0
  556 0 l 1
  505 0 l 1
  258 564 l 1
@@ -1938,25 +1942,25 @@ StartChar: h
 Encoding: 104 104 73
 Width: 530
 VWidth: 1494
-Flags: W
-HStem: -15 21<70 128.27 426 482> 462 49<300.759 437.961> 723 20G<223.747 284>
-VStem: 420 55<11.7678 66.8084 59.4996 74.1172 74.1172 88 88 104.429> 479 54<323.669 420.476>
+Flags: MW
+HStem: 0 21G<70 128.232 426 482> 474 49<303.372 440.234> 723 20G<223.747 284>
+VStem: 420 55<11.7678 66.8084 59.4996 74.1172 74.1172 88 88 104.608> 481 54<335.798 432.701>
 Fore
 429 -15 m 1
  423 11 420 28 420 43 c 0
  420 57 422 70 426 88 c 2
- 475 318 l 2
- 478 331 479 344 479 355 c 0
- 479 434 414 462 373 462 c 0
- 283 462 204 377 184 281 c 2
+ 477 330 l 2
+ 480 344 481 356 481 367 c 0
+ 481 446 417 474 376 474 c 0
+ 286 474 207 389 186 293 c 2
  124 0 l 1
  70 0 l 1
  228 743 l 1
  284 743 l 1
- 215 417 l 1
- 234 444 296 511 387 511 c 0
- 480 511 533 449 533 364 c 0
- 533 349 531 334 528 318 c 2
+ 217 429 l 1
+ 237 456 298 523 389 523 c 0
+ 482 523 535 461 535 377 c 0
+ 535 362 533 346 530 330 c 2
  479 88 l 2
  476 74 475 60 475 48 c 0
  475 23 479 5 482 4 c 1
@@ -2010,7 +2014,7 @@ Encoding: 107 107 76
 Width: 463
 VWidth: 1494
 Flags: MW
-HStem: -15 21<75 134.245 389.324 455> 509 20G<453.488 525> 723 20G<228.747 288>
+HStem: 0 21G<75 134.245 389.324 455> 509 20G<453.488 525> 723 20G<228.747 288>
 Fore
 455 3 m 1
  404 -15 l 1
@@ -3708,7 +3712,7 @@ Encoding: 209 209 146
 Width: 642
 VWidth: 1494
 Flags: W
-HStem: 0 21<81 142.255 496.241 560.26> 705 20<237 250.5 645.752 707> 814 47<508.774 585.586> 858 48<414.174 488.143>
+HStem: 0 21<81 142.255 496.241 560.26> 689 20<650 707 707 707> 705 20<237 250.5 645.752 707> 814 47<508.774 585.586> 858 48<414.174 488.143>
 VStem: 363 41<816.239 843.068> 604 40<857.258 909>
 Refer: 47 78 N 1 0 0 1 0 0 2
 Refer: 492 771 N 1 0 0 1 200 203 2
