@@ -1,5 +1,21 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 04-TH-Niramit-AS/THNiramitAS*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 04-TH-Niramit-AS/THNiramitAS[-Italic].sfd:
+	  - Lift up '3' and 'h' tips to reach the blue zone
+	  - Adjust 'B' vertical stem.
+	  - Manually hint 'H', 'I', 'N', 'k'.
+	* 04-TH-Niramit-AS/THNiramitAS-Bold[Italic].sfd:
+	  - Move bottom horizontal stem of Kho Khai, Kho Khuat, Cho Chang,
+	    So So, Tho Thong, Bo Baimai, Po Pla, Yo Yak, So Rusi, O Ang,
+	    Ho Nokhuk to base line
+	  - Lower down blue zone to touch 'u', 'i', 'j' tips
+	  - Extend blue zone to cover Cho Ching tip
+	  - Manually hint 'I', Tho Phuthao, Yo Yak
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 02-TH-Krub/THKrub*.sfd: Add StdHW, StemSnapH, StdVW, StemSnapV.
 	* 02-TH-Krub/THKrub[-Italic].sfd: Adjust 'B' vertical stem width.
 	* 02-TH-Krub/THKrub-Bold[Italic].sfd: Adjust 'a' vertical stem width.
