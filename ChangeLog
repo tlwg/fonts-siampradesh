@@ -1,5 +1,11 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 11-TH-Baijam/THBaijam*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	  - Manually hint Maiyamok
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 10-TH-Chakra-Petch/THChakraPetch*.sfd:
 	  - Add StdHW, StemSnapH, StdVW, StemSnapV
 	* 10-TH-Chakra-Petch/THChakraPetch-Bold.sfd:

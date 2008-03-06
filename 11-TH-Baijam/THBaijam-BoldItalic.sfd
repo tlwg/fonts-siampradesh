@@ -17,7 +17,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1154329018
-ModificationTime: 1202364496
+ModificationTime: 1204808721
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -215,11 +215,15 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 336 24 7
-BeginPrivate: 3
+WinInfo: 216 24 7
+BeginPrivate: 7
 BlueValues 31 [-15 0 529 537 612 614 737 754]
 OtherBlues 11 [-202 -184]
 ForceBold 4 true
+StdHW 4 [83]
+StemSnapH 7 [20 83]
+StdVW 5 [113]
+StemSnapV 12 [66 113 375]
 EndPrivate
 BeginChars: 65543 497
 StartChar: .notdef
@@ -7339,8 +7343,8 @@ StartChar: uni0E46
 Encoding: 3654 3654 277
 Width: 584
 VWidth: 1507
-Flags: W
-HStem: -253 90<267 336.287> 262 47<169.415 254.976> 418 45<235 268.956>
+Flags: MW
+HStem: -253 90<267 336.287> 262 47<169.415 254.976> 418 45<235 268.956> 511 86<304 304>
 VStem: 105 59<315.071 398.076> 275 45<329.609 412.204> 486 111<448.153 497.326>
 Fore
 479 600 m 1
