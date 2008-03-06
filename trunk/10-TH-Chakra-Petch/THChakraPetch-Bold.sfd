@@ -10,14 +10,13 @@ UnderlinePosition: -35
 UnderlineWidth: 30
 Ascent: 800
 Descent: 200
-NeedsXUIDChange: 1
 XUID: [1021 375 425136265 4400732]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158666600
-ModificationTime: 1201448519
+ModificationTime: 1204803833
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -214,11 +213,15 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 24 7
-BeginPrivate: 3
+WinInfo: 24 24 7
+BeginPrivate: 7
 BlueValues 29 [0 0 507 508 656 658 716 716]
 OtherBlues 11 [-209 -209]
 ForceBold 4 true
+StdHW 4 [90]
+StemSnapH 4 [90]
+StdVW 4 [90]
+StemSnapV 4 [90]
 EndPrivate
 BeginChars: 65542 497
 StartChar: .notdef
@@ -1362,7 +1365,7 @@ Encoding: 73 73 42
 Width: 222
 VWidth: 1661
 Flags: MW
-HStem: 696 20G<43 133 133 133>
+HStem: 0 21G<43 43 43 133> 696 20G<43 133 133 133>
 VStem: 43 90<0 716>
 Fore
 43 0 m 1
@@ -3989,7 +3992,7 @@ Encoding: 204 204 141
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: 696 20<43 133 133 133> 784 179<48 164 48 48>
+HStem: 0 21<43 43 43 133> 696 20<43 133 133 133> 784 179<48 164 48 48>
 VStem: -15 211<815 900 900 900> 43 90<0 716>
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 -75 28 2
@@ -4001,7 +4004,7 @@ Encoding: 205 205 142
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: 696 20<43 133 133 133> 784 179<17 133 133 133>
+HStem: 0 21<43 43 43 133> 696 20<43 133 133 133> 784 179<17 133 133 133>
 VStem: -15 211<815 900 815 815> 43 90<0 716>
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 -73 28 2
@@ -4013,7 +4016,7 @@ Encoding: 206 206 143
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: 696 20<43 133 133 133> 784 179<125 241 125 125>
+HStem: 0 21<43 43 43 133> 696 20<43 133 133 133> 784 179<125 241 125 125>
 VStem: -86 359<815 815 815 815> 43 90<0 716>
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -146 28 2
@@ -4023,7 +4026,7 @@ Encoding: 207 207 144
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: 696 20<43 133 133 133> 818 134<-35 19 159 214>
+HStem: 0 21<43 43 43 133> 696 20<43 133 133 133> 818 134<-35 19 159 214>
 VStem: -75 329<856 912 801 856> 43 90<0 716>
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 -135 37 2
@@ -11479,7 +11482,7 @@ Encoding: 7880 7880 417
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: 696 20<43 133 133 133> 784 179<90 135 135 135>
+HStem: 0 21<43 43 43 133> 696 20<43 133 133 133> 784 179<90 135 135 135>
 VStem: -10 185<885 917 885 885> 43 90<0 716>
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 -68 28 2
@@ -11503,7 +11506,7 @@ Encoding: 7882 7882 419
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: -193 133<63 118 63 118 63 63> 696 20<43 133 133 133>
+HStem: -193 133<63 118 63 118 63 63> 0 21<43 43 43 133> 696 20<43 133 133 133>
 VStem: 23 135<-154 -98 -154 -98 -154 -154> 43 90<0 716>
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 -35 0 2
@@ -12315,7 +12318,7 @@ Encoding: 296 296 479
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: 696 20<43 133 133 133> 817 138<45 133 45 45>
+HStem: 0 21<43 43 43 133> 696 20<43 133 133 133> 817 138<45 133 45 45>
 VStem: -66 314<860 913 860 860> 43 90<0 716>
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 -126 38 2
@@ -12339,7 +12342,7 @@ Encoding: 304 304 481
 Width: 222
 VWidth: 1661
 Flags: W
-HStem: 696 20<43 133 133 133> 784 132<61 116 61 116 61 61>
+HStem: 0 21<43 43 43 133> 696 20<43 133 133 133> 784 132<61 116 61 116 61 61>
 VStem: 21 135<822 878 822 878 822 822> 43 90<0 716>
 Refer: 206 729 N 1 0 0 1 -37 26 2
 Refer: 42 73 N 1 0 0 1 0 0 3
