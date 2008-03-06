@@ -1,5 +1,17 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 06-TH-Kodchasal/THKodchasal*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 06-TH-Kodchasal/THKodchasal[-Italic].sfd:
+	  - Lift up 'J', 'N', 'V' tips to reach blue zone
+	  - Extend blue zone to cover 'M' tips
+	* 06-TH-Kodchasal/THKodchasal-Bold[Italic].sfd:
+	  - Lift up dotlessi, Mo Ma to reach blue zone
+	  - Extend blue zone to cover 'c' bottom
+	  - Manually hint 'i'
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 04-TH-Niramit-AS/THNiramitAS*.sfd:
 	  - Add StdHW, StemSnapH, StdVW, StemSnapV
 	* 04-TH-Niramit-AS/THNiramitAS[-Italic].sfd:
