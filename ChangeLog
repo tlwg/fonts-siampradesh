@@ -1,5 +1,13 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 09-TH-Mali-Grade-6/THMaliGrade6*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	  - Refine many glyphs
+	* 09-TH-Mali-Grade-6/THMaliGrade6-BoldItalic.sfd:
+	  - Re-encode as compacted UnicodeBMP
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 08-TH-K2D-July8/THK2DJuly8*.sfd:
 	  - Add StdHW, StemSnapH, StdVW, StemSnapV
 
