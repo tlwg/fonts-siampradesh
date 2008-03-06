@@ -1,5 +1,12 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 10-TH-Chakra-Petch/THChakraPetch*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 10-TH-Chakra-Petch/THChakraPetch-Bold.sfd:
+	  - Manually hint 'I'
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 09-TH-Mali-Grade-6/THMaliGrade6*.sfd:
 	  - Add StdHW, StemSnapH, StdVW, StemSnapV
 	  - Refine many glyphs
