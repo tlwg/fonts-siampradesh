@@ -10,14 +10,13 @@ UnderlinePosition: -35
 UnderlineWidth: 30
 Ascent: 800
 Descent: 200
-NeedsXUIDChange: 1
 XUID: [1021 375 425136265 6626681]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1154326861
-ModificationTime: 1202364368
+ModificationTime: 1204808531
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -215,11 +214,15 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 336 24 7
-BeginPrivate: 3
+WinInfo: 264 24 7
+BeginPrivate: 7
 BlueValues 31 [-15 0 529 537 612 617 737 754]
 OtherBlues 11 [-202 -184]
 ForceBold 4 true
+StdHW 4 [83]
+StemSnapH 7 [20 83]
+StdVW 5 [110]
+StemSnapV 5 [110]
 EndPrivate
 BeginChars: 65542 497
 StartChar: .notdef
@@ -7017,8 +7020,8 @@ StartChar: uni0E46
 Encoding: 3654 3654 277
 Width: 584
 VWidth: 1507
-Flags: W
-HStem: -253 90<301 364.665> 262 47<100.117 185.79> 418 45<137.615 186.324>
+Flags: MW
+HStem: -253 90<301 364.665> 262 47<100.117 185.79> 418 45<137.615 186.324> 511 86<196 196>
 VStem: 24 65<320.862 406.498> 197 44<320.478 407.025> 390 110<-138.218 499.172>
 Fore
 353 600 m 1
