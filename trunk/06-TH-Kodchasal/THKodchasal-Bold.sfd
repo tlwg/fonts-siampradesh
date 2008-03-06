@@ -10,14 +10,13 @@ UnderlinePosition: -35
 UnderlineWidth: 30
 Ascent: 800
 Descent: 200
-NeedsXUIDChange: 1
 XUID: [1021 375 425136265 3044999]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1157457032
-ModificationTime: 1196764012
+ModificationTime: 1204793002
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -220,7 +219,7 @@ EndTtf
 TtfTable: cvt  12
 rqZTq!Y5?1!mC``
 EndTtf
-LangName: 1033 "" "" "" "IPTH: TH Kodchasal Bold: 2006" "" "" "" "TH Kodchasal Bold is a trademark of Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group.." "IPTH" "Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group." "AS;Aksaramatee is a trademark of Kansuda Peamprajakpong,  AS Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+---------66)  Tel. 0 1562 1554+AA0ACgAA-e-mail : noppavorn@yahoo.com+AA0ACgANAAoA-Typeface (c) Kansuda Peamprajakpong.+AA0ACgAA-Data (c) Kansuda Peamprajakpongl.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com" "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "" "TH Kodchasal" "Bold" "TH Kodchasal Bold" 
+LangName: 1033 "" "" "" "IPTH: TH Kodchasal Bold: 2006" "" "" "" "TH Kodchasal Bold is a trademark of Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group.." "IPTH" "Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group." "AS;Aksaramatee is a trademark of Kansuda Peamprajakpong,  AS Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+----------66)  Tel. 0 1562 1554+AA0ACgAA-e-mail : noppavorn@yahoo.com+AA0ACgANAAoA-Typeface (c) Kansuda Peamprajakpong.+AA0ACgAA-Data (c) Kansuda Peamprajakpongl.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com" "This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.+AAoACgAA-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.+AAoACgAA-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA+AAoACgAA-As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version." "" "" "TH Kodchasal" "Bold" "TH Kodchasal Bold" 
 GaspTable: 3 8 2 16 1 65535 3
 Encoding: UnicodeBmp
 Compacted: 1
@@ -229,11 +228,15 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 336 24 7
-BeginPrivate: 3
-BlueValues 39 [-10 1 527 535 594 610 716 730 792 856]
+WinInfo: 168 24 7
+BeginPrivate: 7
+BlueValues 39 [-13 1 527 535 594 610 716 730 792 856]
 OtherBlues 11 [-312 -262]
 ForceBold 4 true
+StdHW 5 [109]
+StemSnapH 22 [72 87 97 103 109 146]
+StdVW 5 [109]
+StemSnapV 5 [109]
 EndPrivate
 BeginChars: 65543 499
 StartChar: .notdef
@@ -2299,21 +2302,21 @@ StartChar: i
 Encoding: 105 105 74
 Width: 237
 VWidth: 1473
-Flags: W
-HStem: 585 132<66.0703 168.805>
+Flags: MW
+HStem: -6 21G<98 126> 507 20G<98 140> 585 132<66.0703 168.805>
 VStem: 52 131<599.374 704.396> 66 105<4.78247 59 463 517.143>
 Fore
-119 -6 m 0xa0
+119 -6 m 0
  133 -6 171 2 171 59 c 2
  171 463 l 2
  171 494 161 527 119 527 c 0
  77 527 66 492 66 463 c 2
  66 59 l 2
- 66 29 77 -6 119 -6 c 0xa0
+ 66 29 77 -6 119 -6 c 0
 118 717 m 0
  146 717 183 705 183 653 c 0
  183 611 159 585 118 585 c 0
- 65 585 52 622 52 653 c 0xc0
+ 65 585 52 622 52 653 c 0
  52 682 65 717 118 717 c 0
 EndSplineSet
 EndChar
@@ -4615,8 +4618,8 @@ Encoding: 236 236 173
 Width: 238
 VWidth: 1473
 Flags: W
-HStem: -6 21<97.8 125.972> 589 149<-36 178 -36 -36>
-VStem: 66 105<4.74494 514.552 59 460 59 59>
+HStem: -6 21<97.8 125.973> 509 20<97.7998 139.8> 589 149<-36 178 -36 -36>
+VStem: 66 105<4.74499 519.552 59 465 59 59>
 Refer: 482 305 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 -99 16 2
 LCarets2: 1 0 
@@ -4627,8 +4630,8 @@ Encoding: 237 237 174
 Width: 238
 VWidth: 1473
 Flags: W
-HStem: -6 21<97.8 125.972> 594 149<132 140 140 140>
-VStem: 66 105<4.74494 514.552 59 460 59 59>
+HStem: -6 21<97.8 125.973> 509 20<97.7998 139.8> 594 149<132 140 140 140>
+VStem: 66 105<4.74499 519.552 59 465 59 59>
 Refer: 482 305 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 -15 21 2
 LCarets2: 1 0 
@@ -4639,8 +4642,8 @@ Encoding: 238 238 175
 Width: 237
 VWidth: 1473
 Flags: W
-HStem: -6 21<97.8 125.972> 595 146<164 286 164 164>
-VStem: -46 332<595 595 595 595> 66 105<4.74494 514.552 59 460 59 59>
+HStem: -6 21<97.8 125.973> 509 20<97.7998 139.8> 595 146<164 286 164 164>
+VStem: -46 332<595 595 595 595> 66 105<4.74499 519.552 59 465 59 59>
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 -109 -180 2
 EndChar
@@ -4649,8 +4652,8 @@ Encoding: 239 239 176
 Width: 237
 VWidth: 1473
 Flags: W
-HStem: -6 21<97.8 125.972> 575 138<-36.5879 66.8537 181.109 282.854>
-VStem: -56 142<593.731 693.064> 66 105<4.74494 514.552 59 460 59 59> 161 141<593.731 693.064>
+HStem: -6 21<97.8 125.973> 509 20<97.7998 139.8> 575 138<-36.5879 66.854 181.109 282.854>
+VStem: -56 142<593.731 693.064> 66 105<4.74499 519.552 59 465 59 59> 161 141<593.731 693.064>
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 107 168 N 1 0 0 1 -78 0 2
 EndChar
@@ -6684,41 +6687,41 @@ Encoding: 3617 3617 244
 Width: 777
 VWidth: 1473
 Flags: W
-HStem: -9 108<495.851 586.612> -7 88<167.562 240.818> 196 87<166.959 230.486> 357 72<142.285 225.406> 519 72<142.418 233.891>
-VStem: 59 75<437.514 509.178> 74 84<102.157 187.554> 231 106<280 362> 249 81<88.7227 138.225 441.986 503.875> 598 107<107.716 583.968>
+HStem: -6 108<495.851 586.612> -4 88<167.562 240.818> 199 87<166.959 230.486> 363 72<142.285 225.406> 525 72<142.418 233.891>
+VStem: 59 75<443.514 515.178> 74 84<105.157 190.554> 231 106<283 368> 249 81<91.7227 141.225 447.986 509.875> 598 107<110.716 589.968>
 Fore
-552 99 m 0xbd40
- 570 99 598 112 598 172 c 2
- 598 548 l 2
- 598 582 630 591 651 591 c 256
- 673 591 705 582 705 548 c 2
- 705 162 l 2
- 705 69 657 -9 555 -9 c 0xbd40
- 508 -9 482 -2 414 58 c 0
- 377 91 354 118 330 140 c 1
- 330 132 l 2
- 330 50 286 -7 210 -7 c 0
- 162 -7 74 16 74 133 c 0x7ac0
- 74 239 143 283 206 283 c 0
- 215 283 223 282 231 280 c 1
- 231 362 l 1
- 220 359 206 357 189 357 c 0
- 115 357 59 407 59 473 c 256
- 59 538 114 591 189 591 c 0
- 280 591 337 545 337 454 c 2
- 337 249 l 1
- 356 238 373 226 390 212 c 0
- 517 106 505 99 552 99 c 0xbd40
-189 429 m 0
- 218 429 243 447 243 473 c 256
- 243 499 218 519 189 519 c 0
- 158 519 134 500 134 473 c 256
- 134 447 158 429 189 429 c 0
-203 81 m 0x7ac0
- 227 81 244 89 249 134 c 0
- 249 180 231 196 205 196 c 0
- 186 196 158 186 158 134 c 0
- 158 122 166 81 203 81 c 0x7ac0
+552 102 m 0xbd40
+ 570 102 598 115 598 175 c 2
+ 598 554 l 2
+ 598 588 630 597 651 597 c 256
+ 673 597 705 588 705 554 c 2
+ 705 165 l 2
+ 705 72 657 -6 555 -6 c 0xbd40
+ 508 -6 482 1 414 61 c 0
+ 377 94 354 121 330 143 c 1
+ 330 135 l 2
+ 330 53 286 -4 210 -4 c 0
+ 162 -4 74 19 74 136 c 0x7ac0
+ 74 242 143 286 206 286 c 0
+ 215 286 223 285 231 283 c 1
+ 231 368 l 1
+ 220 365 206 363 189 363 c 0
+ 115 363 59 413 59 479 c 256
+ 59 544 114 597 189 597 c 0
+ 280 597 337 551 337 460 c 2
+ 337 252 l 1
+ 356 241 373 229 390 215 c 0
+ 517 109 505 102 552 102 c 0xbd40
+189 435 m 0
+ 218 435 243 453 243 479 c 256
+ 243 505 218 525 189 525 c 0
+ 158 525 134 506 134 479 c 256
+ 134 453 158 435 189 435 c 0
+203 84 m 0x7ac0
+ 227 84 244 92 249 137 c 0
+ 249 183 231 199 205 199 c 0
+ 186 199 158 189 158 137 c 0
+ 158 125 166 84 203 84 c 0x7ac0
 EndSplineSet
 EndChar
 StartChar: uni0E22
@@ -12051,8 +12054,8 @@ Encoding: 7881 7881 418
 Width: 238
 VWidth: 1473
 Flags: W
-HStem: -6 21<97.8 125.972> 721 21<40 76> 747 72<75.496 153.485>
-VStem: 66 105<4.74494 514.552 59 460 59 59> 161 70<656.366 739.391>
+HStem: -6 21<97.8 125.973> 509 20<97.7998 139.8> 721 21<40 76> 747 72<75.496 153.485>
+VStem: 66 105<4.74499 519.552 59 465 59 59> 161 70<656.366 739.391>
 Refer: 482 305 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 -136 -133 2
 LCarets2: 1 0 
@@ -12075,7 +12078,7 @@ Encoding: 7883 7883 420
 Width: 237
 VWidth: 1473
 Flags: W
-HStem: -200 144<65.8234 173.062> 585 132<66.0703 168.805>
+HStem: -200 144<65.8234 173.062> -6 21<98 126> 507 20<98 140> 585 132<66.0703 168.805>
 VStem: 44 151<-178.597 -77.8018> 52 131<599.374 704.396> 66 105<4.78247 59 463 517.143>
 Refer: 74 105 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 -19 0 2
@@ -12931,8 +12934,8 @@ Encoding: 297 297 480
 Width: 234
 VWidth: 1473
 Flags: W
-HStem: -6 21<97.8 125.972> 588 84<143.49 241.073> 639 84<24.1603 122.334>
-VStem: 66 105<4.74494 514.552 59 460 59 59> 245 72<675.308 713>
+HStem: -6 21<97.8 125.973> 509 20<97.7998 139.8> 588 84<143.49 241.073> 639 84<24.16 122.334>
+VStem: 66 105<4.74499 519.552 59 465 59 59> 245 72<675.308 713>
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 209 732 N 1 0 0 1 -91 3 2
 LCarets2: 1 0 
@@ -12960,16 +12963,16 @@ Encoding: 305 305 482
 Width: 238
 VWidth: 1473
 Flags: W
-HStem: -6 21G<97.8 125.972>
-VStem: 66 105<4.74494 514.552 59 460 59 59>
+HStem: -6 21G<97.8 125.973> 509 20G<97.7998 139.8>
+VStem: 66 105<4.74499 519.552 59 465 59 59>
 Fore
-119 524 m 0
- 160.6 524 171 490.881 171 460 c 2
+119 529 m 0
+ 160.6 529 171 495.881 171 465 c 2
  171 59 l 2
- 171 1.35312 132.945 -6 119 -6 c 0
- 76.6 -6 66 28.8387 66 59 c 2
- 66 460 l 2
- 66 488.892 76.6 524 119 524 c 0
+ 171 1.35352 132.945 -6 119 -6 c 0
+ 76.6 -6 66 28.8389 66 59 c 2
+ 66 465 l 2
+ 66 493.892 76.5996 529 119 529 c 0
 EndSplineSet
 EndChar
 StartChar: Scedilla
