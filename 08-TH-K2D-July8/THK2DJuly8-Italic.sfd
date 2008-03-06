@@ -10,14 +10,13 @@ UnderlinePosition: -55
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
-NeedsXUIDChange: 1
 XUID: [1021 375 425136265 5951318]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158666240
-ModificationTime: 1200360580
+ModificationTime: 1204797361
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -214,10 +213,14 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 24 7
-BeginPrivate: 2
+WinInfo: 24 24 7
+BeginPrivate: 6
 BlueValues 31 [-10 0 519 521 604 606 716 727]
 OtherBlues 11 [-214 -214]
+StdHW 4 [50]
+StemSnapH 10 [45 50 54]
+StdVW 4 [55]
+StemSnapV 13 [46 55 62 69]
 EndPrivate
 BeginChars: 65542 496
 StartChar: .notdef

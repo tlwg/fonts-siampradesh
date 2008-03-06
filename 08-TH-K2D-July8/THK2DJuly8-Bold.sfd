@@ -10,14 +10,13 @@ UnderlinePosition: -55
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
-NeedsXUIDChange: 1
 XUID: [1021 375 425136265 10138363]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158666300
-ModificationTime: 1200372098
+ModificationTime: 1204797384
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -215,10 +214,14 @@ DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 24 24 7
-BeginPrivate: 3
+BeginPrivate: 7
 BlueValues 31 [-17 0 522 526 606 607 717 728]
 OtherBlues 11 [-213 -213]
 ForceBold 4 true
+StdHW 4 [56]
+StemSnapH 10 [48 56 60]
+StdVW 4 [89]
+StemSnapV 7 [89 95]
 EndPrivate
 BeginChars: 65542 496
 StartChar: .notdef
