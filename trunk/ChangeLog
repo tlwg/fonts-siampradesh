@@ -1,5 +1,11 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 02-TH-Krub/THKrub*.sfd: Add StdHW, StemSnapH, StdVW, StemSnapV.
+	* 02-TH-Krub/THKrub[-Italic].sfd: Adjust 'B' vertical stem width.
+	* 02-TH-Krub/THKrub-Bold[Italic].sfd: Adjust 'a' vertical stem width.
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 13-TH-Fah-Kwang/THFahkwang*.sfd: Convert splines to cubic. Add
 	extremas. Simplify. Autohint. Use references. Fix unicodes for
 	zerowidth[non]joiner, righttoleftmark, lefttorightmark. Re-encode as
