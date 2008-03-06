@@ -1,5 +1,11 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 13-TH-Fah-Kwang/THFahkwang*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	  - Manually hint Pho Phung, Fo Fa, Lo Chula
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 12-TH-KoHo/THKoHo*.sfd:
 	  - Add StdHW, StemSnapH, StdVW, StemSnapV
 	* 12-TH-KoHo/THKoHo[-Italic].sfd:
