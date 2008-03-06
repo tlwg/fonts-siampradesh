@@ -16,7 +16,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158862012
-ModificationTime: 1200230207
+ModificationTime: 1204796826
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -368,10 +368,14 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 360 24 7
-BeginPrivate: 2
+WinInfo: 0 24 7
+BeginPrivate: 6
 BlueValues 39 [-15 0 511 522 590 602 714 728 733 760]
 OtherBlues 11 [-236 -223]
+StdHW 4 [50]
+StemSnapH 4 [50]
+StdVW 4 [54]
+StemSnapV 7 [54 59]
 EndPrivate
 BeginChars: 65542 506
 StartChar: .notdef
