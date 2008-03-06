@@ -1,5 +1,19 @@
 2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 12-TH-KoHo/THKoHo*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 12-TH-KoHo/THKoHo[-Italic].sfd:
+	  - Extend blue zone to cover To Tao tips
+	  - Manually hint To Tao, Pho Phung, Fo Fa, Lo Ling, So Sua,
+	    Thai Digit Three, Thai Digit Seven, Thai Digit Eight
+	  - Lift up Mo Ma to reach blue zone
+	  - Adjust Thai Digit Two base to lie on base line
+	* 12-TH-KoHo/THKoHo-Bold[Italic].sfd:
+	  - Manually hint Pho Phung, Fo Fa
+	  - Lower down Thai Digit Nine to base line
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 11-TH-Baijam/THBaijam*.sfd:
 	  - Add StdHW, StemSnapH, StdVW, StemSnapV
 	  - Manually hint Maiyamok
