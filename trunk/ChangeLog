@@ -1,3 +1,10 @@
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 13-TH-Fah-Kwang/THFahkwang*.sfd: Convert splines to cubic. Add
+	extremas. Simplify. Autohint. Use references. Fix unicodes for
+	zerowidth[non]joiner, righttoleftmark, lefttorightmark. Re-encode as
+	compacted UnicodeBMP.
+
 2008-03-04  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 12-TH-KoHo/THKoHo*.sfd: Convert splines to cubic. Add extremas.
