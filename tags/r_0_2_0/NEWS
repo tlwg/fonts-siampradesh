@@ -1,0 +1,12 @@
+0.2.0 (2008-03-10)
+=====
+* First release for fonts modified from DIP-SIPA contested fonts
+* Create Fontforge spline files for editing
+* Rename fonts as required by the license
+* Convert splines to cubic
+* Scale up to match western fonts at the same point size
+* Refine splines and remove glitches
+* Postscript hints and TrueType instructions
+* Use more references
+* Various bug fixes
+
