@@ -106,16 +106,16 @@ AC_CHECK_PROG(FCCACHE,fc-cache,[fc-cache])
 
 
 AC_CONFIG_FILES([Makefile
-                 02-TH-Krub/Makefile
-                 04-TH-Niramit-AS/Makefile
-                 06-TH-Kodchasal/Makefile
-                 07-TH-Sarabun-PSK/Makefile
-                 08-TH-K2D-July8/Makefile
-                 09-TH-Mali-Grade-6/Makefile
-                 10-TH-Chakra-Petch/Makefile
-                 11-TH-Baijam/Makefile
-                 12-TH-KoHo/Makefile
-                 13-TH-Fah-Kwang/Makefile
+                 02-SP-Thotsakan/Makefile
+                 04-SP-Rama/Makefile
+                 06-SP-Sinsamut/Makefile
+                 07-SP-Laksaman/Makefile
+                 08-SP-Sida/Makefile
+                 09-SP-Sutsakhorn/Makefile
+                 10-SP-Ramasun/Makefile
+                 11-SP-Laweng/Makefile
+                 12-SP-Aphaimanee/Makefile
+                 13-SP-Hanuman/Makefile
                  scripts/Makefile
                  scripts/gen.mk])
 
