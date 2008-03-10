@@ -19,9 +19,7 @@ export DH_OPTIONS
 config.status: configure
 	dh_testdir
 	# Add here commands to configure the package.
-	./configure --enable-pfb \
-	  --with-type1dir=/usr/share/fonts/type1/t1-thai-dip-sipa \
-	  --with-ttfdir=/usr/share/fonts/truetype/ttf-thai-dip-sipa
+	./configure
 
 #Architecture 
 build: build-indep
@@ -39,7 +37,7 @@ clean:
 	rm -f build-arch-stamp build-indep-stamp #CONFIGURE-STAMP#
 
 	# Add here commands to clean up after the build process.
-	-$(MAKE) distclean
+	[ ! -f Makefile ] || $(MAKE) distclean
 
 	dh_clean 
 
@@ -60,7 +58,6 @@ binary-common:
 	dh_installchangelogs ChangeLog
 	dh_installdocs
 	dh_installdefoma
-	dh_installxfonts -pt1-thai-dip-sipa
 	dh_link
 	dh_compress 
 	dh_fixperms

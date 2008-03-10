@@ -1,28 +1,18 @@
-Source: thaifonts-dip-sipa
+Source: thaifonts-siampradesh
 Section: x11
 Priority: optional
 Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
 Build-Depends: debhelper (>= 5.0.35)
 Build-Depends-Indep: defoma (>= 0.7.0), fontforge, xfonts-utils
-Standards-Version: 3.7.2
+Standards-Version: 3.7.3
 
-Package: ttf-thai-dip-sipa
+Package: ttf-thai-siampradesh
 Architecture: all
 Depends: defoma (>= 0.7.0), x-ttcidfont-conf
-Description: Thai fonts from DIP/SIPA in TrueType format
- This package provides Thai fonts that win a font contest arranged by
- Department of Intellectual Properties and Software Industry Promotion
- Agency, Thailand, in TrueType format. It includes fonts with new
+Description: Thai TrueType fonts derived from DIP/SIPA contest
+ This package provides Thai fonts derived from winning fonts of a contest
+ arranged by Department of Intellectual Properties and Software Industry
+ Promotion Agency, Thailand, in TrueType format. It includes fonts with new
  original designs for use in normal texts as well as decorative and
  hand-writing fonts.
-
-Package: t1-thai-dip-sipa
-Architecture: all
-Depends: defoma (>= 0.7.0), xfonts-utils (>= 1:1.0.0-4)
-Description: Thai fonts from DIP/SIPA in Type1 format
- This package provides Thai fonts that win a font contest arranged by
- Department of Intellectual Properties and Software Industry Promotion
- Agency, Thailand, in Type1 format. It includes fonts with new original
- designs for use in normal texts as well as decorative and hand-writing
- fonts.
 

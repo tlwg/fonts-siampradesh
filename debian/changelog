@@ -1,3 +1,36 @@
+thaifonts-siampradesh (0.2.0-0thep1) unstable; urgency=low
+
+  * New upstream release
+    - rename to thaifonts-siampradesh
+    - license reverted to original license
+    - fonts renamed as required by the license
+  * debian/copyright:
+    - rewrite in machine-interpretable format
+    - change the license back to original terms
+  * Drop meaningless Type 1 package
+    - debian/control: drop entry
+    - debian/t1-thai-*.*: remove
+    - debian/rules:
+      + remove dh_installxfonts
+      + remove --enable-pfb and --with-type1dir configure options
+      + also remove --with-ttfdir configure option, as we don't actually do
+        'make install' anyway
+  * Rename package
+    - debian/control:
+      + rename source and binary packages
+      + adjust package description
+    - debian/ttf-thai-dip-sipa.* -> ttf-thai-siampradesh.*
+    - debian/fontconfig/65-ttf-thai-dip-sipa.conf
+      -> 65-ttf-thai-siampradesh.conf
+  * Rename fonts
+    - debian/ttf-thai-siampradesh.install: rename font dirs
+    - debian/ttf-thai-siampradesh.defoma-hints: rename fonts
+    - debian/fontconfig/ttf-thai-siampradesh.conf: ditto
+  * debian/rules: do not ignore 'make distclean' errors
+  * Bump Standards-Version to 3.7.3, no additional changes needed.
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Mon, 10 Mar 2008 17:09:02 +0700
+
 thaifonts-dip-sipa (0.1.0-0thep1) unstable; urgency=low
 
   * Initial release.

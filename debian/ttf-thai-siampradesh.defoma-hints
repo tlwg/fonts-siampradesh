@@ -1,7 +1,7 @@
 category truetype
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam-BoldItalic.ttf
-  Family = THBaijam
-  FontName = THBaijam-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaweng-BoldOblique.ttf
+  Family = SPLaweng
+  FontName = SPLaweng-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -12,9 +12,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam-Bold.ttf
-  Family = THBaijam
-  FontName = THBaijam-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaweng-Bold.ttf
+  Family = SPLaweng
+  FontName = SPLaweng-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -25,9 +25,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam-Italic.ttf
-  Family = THBaijam
-  FontName = THBaijam-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaweng-Oblique.ttf
+  Family = SPLaweng
+  FontName = SPLaweng-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -38,9 +38,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam.ttf
-  Family = THBaijam
-  FontName = THBaijam
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaweng.ttf
+  Family = SPLaweng
+  FontName = SPLaweng
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -51,9 +51,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THBaijam.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch-BoldItalic.ttf
-  Family = THChakraPetch
-  FontName = THChakraPetch-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRamasun-BoldOblique.ttf
+  Family = SPRamasun
+  FontName = SPRamasun-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -64,9 +64,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch-Bold.ttf
-  Family = THChakraPetch
-  FontName = THChakraPetch-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRamasun-Bold.ttf
+  Family = SPRamasun
+  FontName = SPRamasun-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -77,9 +77,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch-Italic.ttf
-  Family = THChakraPetch
-  FontName = THChakraPetch-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRamasun-Oblique.ttf
+  Family = SPRamasun
+  FontName = SPRamasun-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -90,9 +90,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch.ttf
-  Family = THChakraPetch
-  FontName = THChakraPetch
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRamasun.ttf
+  Family = SPRamasun
+  FontName = SPRamasun
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -103,9 +103,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THChakraPetch.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang-BoldItalic.ttf
-  Family = THFahkwang
-  FontName = THFahkwang-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPHanuman-BoldOblique.ttf
+  Family = SPHanuman
+  FontName = SPHanuman-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -116,9 +116,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang-Bold.ttf
-  Family = THFahkwang
-  FontName = THFahkwang-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPHanuman-Bold.ttf
+  Family = SPHanuman
+  FontName = SPHanuman-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -129,9 +129,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang-Italic.ttf
-  Family = THFahkwang
-  FontName = THFahkwang-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPHanuman-Oblique.ttf
+  Family = SPHanuman
+  FontName = SPHanuman-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -142,9 +142,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang.ttf
-  Family = THFahkwang
-  FontName = THFahkwang
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPHanuman.ttf
+  Family = SPHanuman
+  FontName = SPHanuman
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -155,9 +155,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THFahkwang.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8-BoldItalic.ttf
-  Family = THK2DJuly8
-  FontName = THK2DJuly8-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSida-BoldOblique.ttf
+  Family = SPSida
+  FontName = SPSida-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -168,9 +168,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8-Bold.ttf
-  Family = THK2DJuly8
-  FontName = THK2DJuly8-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSida-Bold.ttf
+  Family = SPSida
+  FontName = SPSida-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -181,9 +181,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8-Italic.ttf
-  Family = THK2DJuly8
-  FontName = THK2DJuly8-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSida-Oblique.ttf
+  Family = SPSida
+  FontName = SPSida-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -194,9 +194,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8.ttf
-  Family = THK2DJuly8
-  FontName = THK2DJuly8
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSida.ttf
+  Family = SPSida
+  FontName = SPSida
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -207,9 +207,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THK2DJuly8.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal-BoldItalic.ttf
-  Family = THKodchasal
-  FontName = THKodchasal-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSinsamut-BoldOblique.ttf
+  Family = SPSinsamut
+  FontName = SPSinsamut-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -220,9 +220,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal-Bold.ttf
-  Family = THKodchasal
-  FontName = THKodchasal-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSinsamut-Bold.ttf
+  Family = SPSinsamut
+  FontName = SPSinsamut-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -233,9 +233,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal-Italic.ttf
-  Family = THKodchasal
-  FontName = THKodchasal-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSinsamut-Oblique.ttf
+  Family = SPSinsamut
+  FontName = SPSinsamut-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -246,9 +246,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal.ttf
-  Family = THKodchasal
-  FontName = THKodchasal
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSinsamut.ttf
+  Family = SPSinsamut
+  FontName = SPSinsamut
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -259,9 +259,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKodchasal.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo-BoldItalic.ttf
-  Family = THKoHo
-  FontName = THKoHo-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPAphaimanee-BoldOblique.ttf
+  Family = SPAphaimanee
+  FontName = SPAphaimanee-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -272,9 +272,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo-Bold.ttf
-  Family = THKoHo
-  FontName = THKoHo-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPAphaimanee-Bold.ttf
+  Family = SPAphaimanee
+  FontName = SPAphaimanee-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -285,9 +285,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo-Italic.ttf
-  Family = THKoHo
-  FontName = THKoHo-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPAphaimanee-Oblique.ttf
+  Family = SPAphaimanee
+  FontName = SPAphaimanee-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -298,9 +298,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo.ttf
-  Family = THKoHo
-  FontName = THKoHo
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPAphaimanee.ttf
+  Family = SPAphaimanee
+  FontName = SPAphaimanee
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -311,9 +311,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKoHo.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub-BoldItalic.ttf
-  Family = THKrub
-  FontName = THKrub-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPThotsakan-BoldOblique.ttf
+  Family = SPThotsakan
+  FontName = SPThotsakan-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -324,9 +324,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub-Bold.ttf
-  Family = THKrub
-  FontName = THKrub-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPThotsakan-Bold.ttf
+  Family = SPThotsakan
+  FontName = SPThotsakan-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -337,9 +337,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub-Italic.ttf
-  Family = THKrub
-  FontName = THKrub-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPThotsakan-Oblique.ttf
+  Family = SPThotsakan
+  FontName = SPThotsakan-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -350,9 +350,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub.ttf
-  Family = THKrub
-  FontName = THKrub
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPThotsakan.ttf
+  Family = SPThotsakan
+  FontName = SPThotsakan
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -363,9 +363,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THKrub.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6-BoldItalic.ttf
-  Family = THMaliGrade6
-  FontName = THMaliGrade6-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSutsakhorn-BoldOblique.ttf
+  Family = SPSutsakhorn
+  FontName = SPSutsakhorn-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -376,9 +376,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6-Bold.ttf
-  Family = THMaliGrade6
-  FontName = THMaliGrade6-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSutsakhorn-Bold.ttf
+  Family = SPSutsakhorn
+  FontName = SPSutsakhorn-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -389,9 +389,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6-Italic.ttf
-  Family = THMaliGrade6
-  FontName = THMaliGrade6-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSutsakhorn-Oblique.ttf
+  Family = SPSutsakhorn
+  FontName = SPSutsakhorn-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -402,9 +402,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6.ttf
-  Family = THMaliGrade6
-  FontName = THMaliGrade6
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPSutsakhorn.ttf
+  Family = SPSutsakhorn
+  FontName = SPSutsakhorn
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -415,9 +415,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THMaliGrade6.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THNiramitAS-BoldItalic.ttf
-  Family = THNiramitAS
-  FontName = THNiramitAS-BoldItalic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRama-BoldOblique.ttf
+  Family = SPRama
+  FontName = SPRama-BoldOblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -428,61 +428,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THNiramitAS-BoldItalic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THNiramitAS-Bold.ttf
-  Family = THNiramitAS
-  FontName = THNiramitAS-Bold
-  Encoding = Unicode
-  Location = English Thai
-  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
-  GeneralFamily = SansSerif
-  Weight = Bold
-  Width = Variable
-  Shape = NoSerif Upright
-  Foundry = IPTH
-  Priority = 20
-end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THNiramitAS-Italic.ttf
-  Family = THNiramitAS
-  FontName = THNiramitAS-Italic
-  Encoding = Unicode
-  Location = English Thai
-  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
-  GeneralFamily = SansSerif
-  Weight = Medium
-  Width = Variable
-  Shape = NoSerif Oblique
-  Foundry = IPTH
-  Priority = 20
-end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THNiramitAS.ttf
-  Family = THNiramitAS
-  FontName = THNiramitAS
-  Encoding = Unicode
-  Location = English Thai
-  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
-  GeneralFamily = SansSerif
-  Weight = Medium
-  Width = Variable
-  Shape = NoSerif Upright
-  Foundry = IPTH
-  Priority = 20
-end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THSarabunPSK-BoldItalic.ttf
-  Family = THSarabunPSK
-  FontName = THSarabunPSK-BoldItalic
-  Encoding = Unicode
-  Location = English Thai
-  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
-  GeneralFamily = SansSerif
-  Weight = Bold
-  Width = Variable
-  Shape = NoSerif Oblique
-  Foundry = IPTH
-  Priority = 20
-end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THSarabunPSK-Bold.ttf
-  Family = THSarabunPSK
-  FontName = THSarabunPSK-Bold
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRama-Bold.ttf
+  Family = SPRama
+  FontName = SPRama-Bold
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -493,9 +441,9 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THSarabunPSK-Bold.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THSarabunPSK-Italic.ttf
-  Family = THSarabunPSK
-  FontName = THSarabunPSK-Italic
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRama-Oblique.ttf
+  Family = SPRama
+  FontName = SPRama-Oblique
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
@@ -506,9 +454,61 @@ begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THSarabunPSK-Italic.ttf
   Foundry = IPTH
   Priority = 20
 end
-begin /usr/share/fonts/truetype/ttf-thai-dip-sipa/THSarabunPSK.ttf
-  Family = THSarabunPSK
-  FontName = THSarabunPSK
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPRama.ttf
+  Family = SPRama
+  FontName = SPRama
+  Encoding = Unicode
+  Location = English Thai
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright
+  Foundry = IPTH
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaksaman-BoldItalic.ttf
+  Family = SPLaksaman
+  FontName = SPLaksaman-BoldItalic
+  Encoding = Unicode
+  Location = English Thai
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Italic
+  Foundry = IPTH
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaksaman-Bold.ttf
+  Family = SPLaksaman
+  FontName = SPLaksaman-Bold
+  Encoding = Unicode
+  Location = English Thai
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright
+  Foundry = IPTH
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaksaman-Italic.ttf
+  Family = SPLaksaman
+  FontName = SPLaksaman-Italic
+  Encoding = Unicode
+  Location = English Thai
+  Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Italic
+  Foundry = IPTH
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-thai-siampradesh/SPLaksaman.ttf
+  Family = SPLaksaman
+  FontName = SPLaksaman
   Encoding = Unicode
   Location = English Thai
   Charset = ISO8859-1 ISO8859-11 TIS620 ISO10646-1
