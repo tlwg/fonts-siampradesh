@@ -1,3 +1,28 @@
+2008-03-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/THKrub*.sfd -> 02-TH-Krub/SPThotsakan*.sfd:
+	* 04-TH-Niramit-AS/THNiramitAS*.sfd -> 04-TH-Niramit-AS/SPRama*.sfd:
+	* 06-TH-Khodchasal/THKodchasal*.sfd -> 06-TH-Khodchasal/SPSinsamut*.sfd:
+	* 07-TH-Sarabun-PSK/THSarabunPSK*.sfd
+	  -> 07-TH-Sarabun-PSK/SPLaksaman*.sfd:
+	* 08-TH-K2D-July8/THK2DJuly8*.sfd -> 08-TH-K2D-July8/SPSida*.sfd:
+	* 09-TH-Mali-Grade-6/THMaliGrade6*.sfd
+	  -> 09-TH-Mali-Grade-6/SPSutsakhorn*.sfd:
+	* 10-TH-Chakra-Petch/THChakraPetch*.sfd
+	  -> 10-TH-Chakra-Petch/SPRamasun*.sfd:
+	* 11-TH-Baijam/THBaijam*.sfd -> 11-TH-Baijam/SPLaweng*.sfd:
+	* 12-TH-KoHo/THKoHo*.sfd -> 12-TH-KoHo/SPAphaimanee*.sfd:
+	* 13-TH-Fah-Kwang/THFahkwang*.sfd -> 13-TH-Fah-Kwang/SPHanuman*.sfd:
+	  - Rename fonts as required by the license.
+	  - Set Fontname, Family Name, Name for Humans, Preferred Family,
+	    Preferred Styles, Compaitlble Full.
+	  - Change Italic style to Oblique for all fonts, except SPLaksaman,
+	    which is real Italic.
+	  - Set font version to 2.0.
+	
+	* */Makefile.am: Update source lists.
+	* AUTHORS: Change font names.
+
 2008-03-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* COPYING, */*.sfd: Replace license text with DIP & SIPA original

@@ -1,8 +1,8 @@
 FONTSOURCES = \
-	THNiramitAS-BoldItalic.sfd	\
-	THNiramitAS-Bold.sfd		\
-	THNiramitAS-Italic.sfd		\
-	THNiramitAS.sfd
+	SPRama-BoldOblique.sfd	\
+	SPRama-Bold.sfd		\
+	SPRama-Oblique.sfd	\
+	SPRama.sfd
 
 TTFFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.ttf/g')
 AFMFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.afm/g')

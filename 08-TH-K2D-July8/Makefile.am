@@ -1,8 +1,8 @@
 FONTSOURCES = \
-	THK2DJuly8-BoldItalic.sfd	\
-	THK2DJuly8-Bold.sfd		\
-	THK2DJuly8-Italic.sfd		\
-	THK2DJuly8.sfd
+	SPSida-BoldOblique.sfd	\
+	SPSida-Bold.sfd		\
+	SPSida-Oblique.sfd		\
+	SPSida.sfd
 
 TTFFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.ttf/g')
 AFMFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.afm/g')

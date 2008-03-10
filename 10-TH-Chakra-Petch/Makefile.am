@@ -1,8 +1,8 @@
 FONTSOURCES = \
-	THChakraPetch-BoldItalic.sfd	\
-	THChakraPetch-Bold.sfd		\
-	THChakraPetch-Italic.sfd	\
-	THChakraPetch.sfd
+	SPRamasun-BoldOblique.sfd	\
+	SPRamasun-Bold.sfd		\
+	SPRamasun-Oblique.sfd		\
+	SPRamasun.sfd
 
 TTFFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.ttf/g')
 AFMFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.afm/g')
