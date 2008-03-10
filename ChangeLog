@@ -1,5 +1,12 @@
 2008-03-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* README: Write project info.
+	* NEWS, configure.ac:
+
+	=== thaifonts-siampradesh Version 0.2.0 ===
+
+2008-03-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 02-TH-Krub/ -> 02-SP-Thotsakan/:
 	* 04-TH-Niramit-AS/ -> 04-SP-Rama/:
 	* 06-TH-Khodchasal/ -> 06-SP-Sinsamut/:
