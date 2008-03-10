@@ -1,8 +1,8 @@
 FONTSOURCES = \
-	THFahkwang-BoldItalic.sfd	\
-	THFahkwang-Bold.sfd		\
-	THFahkwang-Italic.sfd		\
-	THFahkwang.sfd
+	SPHanuman-BoldOblique.sfd	\
+	SPHanuman-Bold.sfd		\
+	SPHanuman-Oblique.sfd		\
+	SPHanuman.sfd
 
 TTFFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.ttf/g')
 AFMFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.afm/g')

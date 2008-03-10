@@ -1,8 +1,8 @@
 FONTSOURCES = \
-	THMaliGrade6-BoldItalic.sfd	\
-	THMaliGrade6-Bold.sfd		\
-	THMaliGrade6-Italic.sfd		\
-	THMaliGrade6.sfd
+	SPSutsakhorn-BoldOblique.sfd	\
+	SPSutsakhorn-Bold.sfd		\
+	SPSutsakhorn-Oblique.sfd	\
+	SPSutsakhorn.sfd
 
 TTFFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.ttf/g')
 AFMFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.afm/g')
