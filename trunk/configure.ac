@@ -65,10 +65,6 @@ else
   AC_MSG_RESULT([$FONTFORGE_VER found, ok])
 fi
 
-if test "x$FONTFORGE" = "xno"; then
-  AC_MSG_ERROR([You need fontforge to generate fonts.])
-fi
-
 dnl prefer mkfontscale over ttmkfdir
 AC_CHECK_PROG(MKFONTSCALE,mkfontscale,mkfontscale)
 
