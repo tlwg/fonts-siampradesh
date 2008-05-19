@@ -1,5 +1,9 @@
 2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* */*.sfd: Add ZWSP.
+
+2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* configure.ac: Also remove old fontforge check block.
 
 2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
