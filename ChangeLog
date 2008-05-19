@@ -1,3 +1,10 @@
+2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* */*.sfd:
+	  - Clear ZWNJ, ZWJ, LRM, RLM glyphs
+	  - Save as SplineFontDB 3.0
+	  - Bump font version to 2.1
+
 2008-03-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* README: Write project info.
