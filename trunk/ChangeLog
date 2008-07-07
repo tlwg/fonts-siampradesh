@@ -1,3 +1,7 @@
+2008-07-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* README: Fix link to DIP/SIPA's font contest project.
+
 2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* */*.sfd: Add ZWSP.
