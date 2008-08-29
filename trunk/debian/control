@@ -1,10 +1,10 @@
 Source: thaifonts-siampradesh
-Section: x11
+Section: non-free/x11
 Priority: optional
 Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
 Build-Depends: debhelper (>= 5.0.35)
 Build-Depends-Indep: defoma (>= 0.7.0), fontforge, xfonts-utils
-Standards-Version: 3.7.3
+Standards-Version: 3.8.0
 
 Package: ttf-thai-siampradesh
 Architecture: all
