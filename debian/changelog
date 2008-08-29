@@ -1,3 +1,15 @@
+thaifonts-siampradesh (0.2.0-0thep2) unstable; urgency=low
+
+  * Move to non-free section, due to requirement for written notification
+    before modifying.
+  * debian/copyright:
+    - Update format to recent proposal
+  * Bump Standards-Version to 3.8.0, with following changes:
+    - Add Disclaimer field to debian/copyright, explaining why the package
+      is non-free [12.5]
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Fri, 29 Aug 2008 15:39:37 +0700
+
 thaifonts-siampradesh (0.2.0-0thep1) unstable; urgency=low
 
   * New upstream release
