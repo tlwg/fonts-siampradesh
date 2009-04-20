@@ -1,21 +1,11 @@
-Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=196
+Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=454
+Upstream-Name: thaifonts-siampradesh
 Upstream-Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
 Upstream-Source:
  ftp://linux.thai.net/pub/thailinux/software/thaifonts-siampradesh
-Packaged-By: Theppitak Karoonboonyanan <thep@linux.thai.net>
-Packaged-Date: Tue, 20 Mar 2007 18:08:49 +0700
 Disclaimer:
  This package is *not* part of the Debian GNU/Linux distribution. It is
  non-free because the license requires written notification before modifying.
-
-Files: debian/*
-Copyright: © 2007-2008 Theppitak Karoonboonyanan <thep@linux.thai.net>
-License: GPL-2+
- This package was debianized by Theppitak Karoonboonyanan <thep@linux.thai.net>
- on Tue, 20 Mar 2007 18:08:49 +0700.
- .
- On Debian systems, the complete text of the GNU General Public License,
- version 2, can be found in /usr/share/common-licenses/GPL-2.
 
 Files: *
 Copyright: © 2006 Department of Intellectual Property (DIP), Ministry of
@@ -72,4 +62,10 @@ License: other
  WARRANTY OF ANY KIND.  NO GUARANTEES ARE MADE THAT THIS FONT COMPUTER PROGRAM
  WILL WORK AS EXPECTED OR WILL BE DEVELOPED FURTHUR IN ANY SPECIFIC WAY.
  THERE IS NO OFFER OR GUARANTEE OF TECHNICAL SUPPORT.  
+
+Files: debian/*
+Copyright: © 2007-2009 Theppitak Karoonboonyanan <thep@linux.thai.net>
+License: GPL-2+
+ On Debian systems, the complete text of the GNU General Public License,
+ version 2, can be found in /usr/share/common-licenses/GPL-2.
 
