@@ -4,6 +4,9 @@ Priority: optional
 Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
 Build-Depends: debhelper (>= 7)
 Build-Depends-Indep: defoma (>= 0.7.0), fontforge, xfonts-utils
+Vcs-Svn: http://linux.thai.net/svn/software/thaifonts-dip-sipa
+Vcs-Browser: http://linux.thai.net/websvn/wsvn/software.thaifonts-dip-sipa/?sc=0
+Homepage: http://linux.thai.net/projects/thaifonts-siampradesh
 Standards-Version: 3.8.1
 
 Package: ttf-thai-siampradesh
