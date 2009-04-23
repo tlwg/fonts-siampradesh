@@ -125,6 +125,7 @@ AC_CONFIG_FILES([Makefile
                  11-SP-Laweng/Makefile
                  12-SP-Aphaimanee/Makefile
                  13-SP-Hanuman/Makefile
+                 fontconfig/Makefile
                  scripts/Makefile
                  scripts/gen.mk])
 
