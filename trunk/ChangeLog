@@ -1,5 +1,14 @@
 2009-04-23  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 02-SP-Thotsakan/SPThotsakan*.sfd:
+	  - Find & fix problems (round to int, add extremas)
+	  - Remove blue zone at alignment area
+	  - Lower So Rusi head into blue zone (for normal weight)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-23  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* configure.ac, Makefile.am, +fontconfig/Makefile.am:
 	* +fontconfig/64-ttf-thai-siampradesh.conf:
 	* +fontconfig/90-ttf-thai-siampradesh-synthetic.conf:
