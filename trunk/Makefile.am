@@ -1,4 +1,5 @@
 SUBDIRS = \
+	fontconfig 		\
 	scripts 		\
 	02-SP-Thotsakan		\
 	04-SP-Rama		\

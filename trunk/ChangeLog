@@ -1,3 +1,11 @@
+2009-04-23  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* configure.ac, Makefile.am, +fontconfig/Makefile.am:
+	* +fontconfig/64-ttf-thai-siampradesh.conf:
+	* +fontconfig/90-ttf-thai-siampradesh-synthetic.conf:
+	Add fontconfig files for registering fonts to generic families, and for
+	synthesizing DIP/SIPA original counterpart families.
+
 2008-07-13  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* README: Yet another change for DIP/SIPA's font contest project URL..
