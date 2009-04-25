@@ -1,3 +1,15 @@
+2009-04-25  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 06-SP-Sinsamut/SPSinsamut*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions,
+	    fix self-intersections)
+	  - Remove blue zone at alignment area
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+	* 06-SP-Sinsamut/SPSinsamut-Oblique.sfd:
+	  - Hack glyphs to fix broken lower stem tips when hinted for
+	    Tho Nangmontho, To Tao, Pho Samphao, Sara Aa and Sara Am
+
 2009-04-24  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 04-SP-Rama/SPRama*.sfd:
