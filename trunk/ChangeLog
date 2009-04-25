@@ -1,5 +1,17 @@
 2009-04-25  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	* 07-SP-Laksaman/SPLaksaman*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions,
+	    fix self-intersections)
+	  - Remove top blue zone
+	  - Re-apply autohint to all glyphs
+	  - Add alternate glyphs for Do Chada, To Patak, Lo Chula, as required
+	    by the substitution rules
+	  - Remove watermark from Khomut, as it over-complicates auto-hinting
+	  - Bump font version to 2.2
+
+2009-04-25  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* 06-SP-Sinsamut/SPSinsamut*.sfd:
 	  - Find & fix problems (round to int, add extremas, fix directions,
 	    fix self-intersections)
