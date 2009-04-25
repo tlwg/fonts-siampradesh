@@ -4,23 +4,22 @@ FullName: SP Sida Bold Oblique
 FamilyName: SP Sida
 Weight: Bold
 Copyright: Copyright (c) 2006 by Department of Intellectual Property (DIP), Ministry of Commerce and Software Industry Promotion Agency (Public Organization) (SIPA). All rights reserved.
-Version: 2.1
+Version: 2.2
 ItalicAngle: -12
 UnderlinePosition: -55
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
 LayerCount: 2
-Layer: 0 0 "Back" 
-Layer: 1 0 "Fore" 
-NeedsXUIDChange: 1
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
 XUID: [1021 375 425136265 9899040]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158666360
-ModificationTime: 1211190305
+ModificationTime: 1240666950
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -75,7 +74,7 @@ Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 19"  {"'liga' Standard 
 Lookup: 1 0 0 "Single Substitution lookup 20"  {"Single Substitution lookup 20 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 21"  {"Single Substitution lookup 21 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 22"  {"Single Substitution lookup 22 subtable"  } []
-DEI: 0
+DEI: 91125
 ChainSub2: coverage "'liga' Standard Ligatures in Latin lookup 18 subtable"  0 0 0 1
  1 0 1
   Coverage: 64 uni0E48.alt2 uni0E49.alt2 uni0E4A.alt2 uni0E4B.alt2 uni0E4C.alt2
@@ -218,7 +217,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 336 24 7
+WinInfo: 96 24 7
 BeginPrivate: 7
 BlueValues 31 [-17 0 522 531 606 607 717 732]
 OtherBlues 11 [-213 -213]
@@ -250,6 +249,7 @@ SplineSet
  909 1048 l 1
  687 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: .null
@@ -281,12 +281,13 @@ Encoding: 35 35 4
 Width: 652
 VWidth: 1507
 Flags: W
-HStem: 220 54<107.469 225 327 398 502 622.459> 434 53<175.816 295 398 469 571 692.742>
+HStem: -10 21G<171.5 196 344.5 369> 220 54<127.615 225 327 398 502 601.726> 434 53<197.32 295 398 469 571 671.432> 706 20G<432 457 604.5 629>
 LayerCount: 2
 Fore
 SplineSet
 549 677 m 2
- 561 716 595 732 651 724 c 1
+ 559 709 584 726 625 726 c 0
+ 633 726 642 725 651 724 c 1
  571 487 l 1
  708 487 l 1
  700 452 675 434 632 434 c 2
@@ -296,11 +297,13 @@ SplineSet
  631 238 605 220 562 220 c 2
  485 220 l 1
  425 38 l 2
- 413 -1 378 -16 321 -8 c 1
+ 415 6 389 -10 349 -10 c 0
+ 340 -10 331 -9 321 -8 c 1
  398 220 l 1
  311 220 l 1
  252 38 l 2
- 239 -1 205 -16 148 -8 c 1
+ 241 6 216 -10 176 -10 c 0
+ 167 -10 158 -9 148 -8 c 1
  225 220 l 1
  92 220 l 1
  99 256 124 274 167 274 c 2
@@ -310,7 +313,8 @@ SplineSet
  168 469 194 487 237 487 c 2
  312 487 l 1
  375 677 l 2
- 387 715 421 731 478 724 c 1
+ 385 709 411 726 453 726 c 0
+ 461 726 469 725 478 724 c 1
  398 487 l 1
  485 487 l 1
  549 677 l 2
@@ -320,6 +324,7 @@ SplineSet
  381 434 l 1
  327 274 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dollar
@@ -365,6 +370,7 @@ SplineSet
  291 464 311 432 396 410 c 1
  451 660 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: percent
@@ -421,6 +427,7 @@ SplineSet
  230 -39 214 -34 197 -23 c 1
  730 724 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -463,6 +470,7 @@ SplineSet
  301 354 l 1
  269 336 165 276 165 158 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quotesingle
@@ -481,6 +489,7 @@ SplineSet
  284 548 253 503 187 503 c 1
  210 651 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenleft
@@ -503,6 +512,7 @@ SplineSet
  216 249 210 196 210 147 c 0
  210 77 227 -22 280 -109 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: parenright
@@ -514,6 +524,7 @@ VStem: 242.013 92.9943<354.061 599.826>
 LayerCount: 2
 Fore
 Refer: 9 40 N -0.999939 0 0 -0.999939 452 616 0
+Validated: 1
 EndChar
 
 StartChar: asterisk
@@ -550,6 +561,7 @@ SplineSet
  543 531 l 1
  392 540 l 1x40
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: plus
@@ -575,6 +587,7 @@ SplineSet
  374 62 338 42 276 42 c 1
  326 271 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: comma
@@ -596,6 +609,7 @@ SplineSet
  68 -106 97 -62 110 -9 c 1
  73 -9 48 9 48 37 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hyphen
@@ -613,6 +627,7 @@ SplineSet
  106 309 134 329 181 329 c 2
  410 329 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -631,6 +646,7 @@ SplineSet
  198 31 168 -9 110 -9 c 256
  73 -9 48 9 48 37 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: slash
@@ -649,6 +665,7 @@ SplineSet
  13 -42 -3 -37 -20 -26 c 1
  512 720 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zero
@@ -680,6 +697,7 @@ SplineSet
  653 520 l 2
  655 529 656 537 656 546 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: one
@@ -702,6 +720,7 @@ SplineSet
  373 706 373 711 374 716 c 1
  543 716 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: two
@@ -732,6 +751,7 @@ SplineSet
  200 537 l 1
  252 655 392 725 515 725 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: three
@@ -763,6 +783,7 @@ SplineSet
  432 665 330 611 330 511 c 1
  255 511 241 536 241 553 c 0xfa
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: four
@@ -794,6 +815,7 @@ SplineSet
  220 238 l 1
  512 238 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: five
@@ -827,6 +849,7 @@ SplineSet
  219 401 221 408 225 416 c 2
  375 690 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: six
@@ -834,14 +857,14 @@ Encoding: 54 54 23
 Width: 723
 VWidth: 1507
 Flags: W
-HStem: -9 60<293.735 453.576> 458 59<448.809 534.302>
-VStem: 130 96<122.237 269.584> 600 98<206.346 388.313>
+HStem: -9 60<293.735 453.576> 458 59<448.809 534.302> 710 20G<606.5 623.5>
+VStem: 130 96<122.237 298.252> 600 98<206.346 388.313>
 LayerCount: 2
 Fore
 SplineSet
 357 -9 m 256
  214 -9 130 92 130 202 c 0
- 130 222 128 324 259 443 c 2
+ 130 222 133 333 259 443 c 2
  559 704 l 2
  579 721 598 730 615 730 c 0
  632 730 648 722 663 705 c 1
@@ -855,6 +878,7 @@ SplineSet
  337 458 226 332 226 208 c 0
  226 125 278 51 371 51 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: seven
@@ -878,6 +902,7 @@ SplineSet
  243 706 243 711 244 716 c 1
  751 716 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: eight
@@ -910,6 +935,7 @@ SplineSet
  541 421 620 493 620 569 c 0xfa
  620 621 572 665 500 665 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: nine
@@ -938,6 +964,7 @@ SplineSet
  534 259 646 387 646 509 c 0
  646 591 593 665 500 665 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: colon
@@ -951,6 +978,7 @@ LayerCount: 2
 Fore
 Refer: 15 46 N 1 0 0 1 0 0 1
 Refer: 15 46 N 1 0 0 1 81 384 0
+Validated: 1
 EndChar
 
 StartChar: semicolon
@@ -964,6 +992,7 @@ LayerCount: 2
 Fore
 Refer: 15 46 N 1 0 0 1 81 384 1
 Refer: 13 44 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: less
@@ -987,6 +1016,7 @@ SplineSet
  110 304 119 312 136 321 c 2
  702 601 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: equal
@@ -1009,6 +1039,7 @@ SplineSet
  630 200 603 181 556 181 c 2
  81 181 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greater
@@ -1020,6 +1051,7 @@ HStem: 580.001 20.9987<181.536 221.962>
 LayerCount: 2
 Fore
 Refer: 29 60 N -0.999939 0 0 -0.999939 764 598 0
+Validated: 1
 EndChar
 
 StartChar: question
@@ -1052,6 +1084,7 @@ SplineSet
  346 28 312 -9 256 -9 c 0
  224 -9 195 7 195 37 c 0
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: at
@@ -1093,6 +1126,7 @@ SplineSet
  313 136 265 181 265 250 c 0
  265 355 397 577 591 577 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: A
@@ -1121,6 +1155,7 @@ SplineSet
  506 292 l 1
  454 586 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: B
@@ -1157,6 +1192,7 @@ SplineSet
  500 60 l 2
  583 60 637 158 637 239 c 0xf0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: C
@@ -1187,6 +1223,7 @@ SplineSet
  779 473 705 458 671 458 c 1
  671 458 683 495 683 521 c 0xe8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: D
@@ -1219,6 +1256,7 @@ SplineSet
  693 482 l 2
  695 493 697 504 697 514 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: E
@@ -1252,6 +1290,7 @@ SplineSet
  779 473 705 458 671 458 c 1
  671 458 683 495 683 521 c 0xf4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: F
@@ -1279,6 +1318,7 @@ SplineSet
  779 473 700 458 671 458 c 1
  671 458 683 495 683 521 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: G
@@ -1314,6 +1354,7 @@ SplineSet
  433 370 461 390 509 390 c 2
  704 390 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: H
@@ -1339,6 +1380,7 @@ SplineSet
  739 706 775 727 838 727 c 1
  695 54 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: I
@@ -1356,6 +1398,7 @@ SplineSet
  237 706 273 727 338 727 c 1
  194 54 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: J
@@ -1384,6 +1427,7 @@ SplineSet
  197 -9 101 69 101 185 c 0
  101 240 166 261 211 261 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: K
@@ -1418,6 +1462,7 @@ SplineSet
  568 188 l 2
  571 201 572 214 572 226 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: L
@@ -1440,6 +1485,7 @@ SplineSet
  136 0 l 2
  113 0 92 11 92 28 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: M
@@ -1468,6 +1514,7 @@ SplineSet
  185 12 149 -9 86 -9 c 1
  229 663 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: N
@@ -1492,6 +1539,7 @@ SplineSet
  185 12 149 -9 84 -9 c 1
  228 663 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: O
@@ -1515,6 +1563,7 @@ SplineSet
  640 51 811 238 811 429 c 0
  811 558 726 666 580 666 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: P
@@ -1543,6 +1592,7 @@ SplineSet
  570 390 l 2
  622 390 702 464 702 557 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Q
@@ -1576,6 +1626,7 @@ SplineSet
  528 184 443 243 332 243 c 0
  301 243 267 236 229 222 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: R
@@ -1611,6 +1662,7 @@ SplineSet
  632 196 l 2xf0
  635 211 637 226 637 238 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: S
@@ -1642,6 +1694,7 @@ SplineSet
  208 -9 98 72 98 185 c 0
  98 246 172 261 206 261 c 1xe8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: T
@@ -1663,6 +1716,7 @@ SplineSet
  146 698 175 717 222 717 c 2
  745 717 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: U
@@ -1689,6 +1743,7 @@ SplineSet
  733 228 l 2
  698 76 523 -9 383 -9 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: V
@@ -1712,6 +1767,7 @@ SplineSet
  231 728 263 718 270 687 c 2
  365 131 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: W
@@ -1742,6 +1798,7 @@ SplineSet
  730 -7 675 -9 650 -9 c 1
  597 491 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: X
@@ -1771,6 +1828,7 @@ SplineSet
  360 369 l 1
  182 714 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Y
@@ -1795,6 +1853,7 @@ SplineSet
  442 369 l 1
  374 54 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Z
@@ -1822,6 +1881,7 @@ SplineSet
  179 705 179 711 181 717 c 1
  737 717 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketleft
@@ -1844,6 +1904,7 @@ SplineSet
  300 -116 299 -122 298 -128 c 1
  59 -128 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: backslash
@@ -1862,6 +1923,7 @@ SplineSet
  219 756 234 744 241 720 c 2
  458 -26 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bracketright
@@ -1873,6 +1935,7 @@ HStem: -127.955 59.9963<-9.23474 128.02> 683.996 58.9964<158.764 288.01>
 LayerCount: 2
 Fore
 Refer: 60 91 N -0.999939 0 0 -0.999939 454 615 0
+Validated: 1
 EndChar
 
 StartChar: asciicircum
@@ -1897,6 +1960,7 @@ SplineSet
  142 203 129 207 118 214 c 1
  440 702 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: underscore
@@ -1914,6 +1978,7 @@ SplineSet
  514 -280 l 1
  -59 -280 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: grave
@@ -1932,6 +1997,7 @@ SplineSet
  312 719 338 709 345 690 c 2
  404 558 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: a
@@ -1967,6 +2033,7 @@ SplineSet
  445 230 413 282 336 282 c 0
  259 282 179 216 179 142 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E38
 Substitution2: "Single Substitution lookup 22 subtable" uni0E38
 EndChar
@@ -2002,6 +2069,7 @@ SplineSet
  280 488 l 1
  323 511 369 522 418 522 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E39
 Substitution2: "Single Substitution lookup 22 subtable" uni0E39
 EndChar
@@ -2033,6 +2101,7 @@ SplineSet
  485 167 524 148 524 120 c 0
  524 94 444 -9 289 -9 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E3A
 Substitution2: "Single Substitution lookup 22 subtable" uni0E3A
 EndChar
@@ -2069,6 +2138,7 @@ SplineSet
  428 23 l 1
  391 4 343 -9 289 -9 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: e
@@ -2105,6 +2175,7 @@ SplineSet
  497 348 l 2
  499 357 500 365 500 373 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: f
@@ -2134,6 +2205,7 @@ SplineSet
  462 725 469 701 469 686 c 0
  469 675 465 664 457 653 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: g
@@ -2172,6 +2244,7 @@ SplineSet
  65 -64 119 -36 154 -36 c 1
  152 -45 151 -53 151 -61 c 0xf0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: h
@@ -2200,6 +2273,7 @@ SplineSet
  512 348 l 2
  514 357 515 365 515 373 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: i
@@ -2223,6 +2297,7 @@ SplineSet
  339 635 312 597 259 597 c 256
  213 597 199 624 199 643 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: j
@@ -2250,6 +2325,7 @@ SplineSet
  339 635 312 597 259 597 c 256
  213 597 199 624 199 643 c 0xe8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: k
@@ -2282,6 +2358,7 @@ SplineSet
  479 193 l 2
  481 202 482 210 482 218 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: l
@@ -2306,6 +2383,7 @@ SplineSet
  273 47 293 53 320 65 c 1
  321 60 322 56 322 51 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: m
@@ -2342,6 +2420,7 @@ SplineSet
  716 383 l 2
  717 389 718 395 718 401 c 0xd0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: n
@@ -2370,6 +2449,7 @@ SplineSet
  512 348 l 2
  514 357 515 365 515 373 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: o
@@ -2393,6 +2473,7 @@ SplineSet
  473 47 588 172 588 305 c 0
  588 397 527 467 436 467 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: p
@@ -2427,6 +2508,7 @@ SplineSet
  561 163 l 2
  539 63 423 -9 304 -9 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: q
@@ -2460,29 +2542,31 @@ SplineSet
  146 348 l 2
  170 458 297 522 402 522 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: r
 Encoding: 114 114 83
 Width: 408
 VWidth: 1507
-Flags: MW
-HStem: -9 21G<88.2526 114.5> 467 55<330.336 439.734>
+Flags: W
+HStem: -9 21G<88.2526 114.5> 467 55<328.421 474.247>
 LayerCount: 2
 Fore
 SplineSet
 488 512 m 1
- 477 474 435 466 404 467 c 0
- 329 463 264 409 252 348 c 2
+ 478 476 439 467 409 467 c 0
+ 337 467 266 414 252 348 c 2
  187 48 l 2
  179 10 145 -9 84 -9 c 1
  185 466 l 2
  193 503 227 522 288 522 c 1
  280 487 l 1
  321 510 367 522 418 522 c 0
- 439 522 459 520 475 515 c 2
+ 439 522 459 520 475 515 c 1
  488 512 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: s
@@ -2515,6 +2599,7 @@ SplineSet
  139 439 247 522 371 522 c 0
  512 522 537 437 537 385 c 0xd4
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: t
@@ -2547,6 +2632,7 @@ SplineSet
  286 50 305 56 332 68 c 1
  333 63 334 59 334 54 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: u
@@ -2575,6 +2661,7 @@ SplineSet
  213 164 l 2
  211 155 210 147 210 139 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: v
@@ -2599,6 +2686,7 @@ SplineSet
  309 9 l 2
  304 2 286 -9 264 -9 c 256xe0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: w
@@ -2628,6 +2716,7 @@ SplineSet
  559 2 531 -9 482 -9 c 1
  446 321 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: x
@@ -2657,6 +2746,7 @@ SplineSet
  372 273 l 1
  515 9 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: y
@@ -2685,6 +2775,7 @@ SplineSet
  270 -53 l 2
  243 -96 213 -130 181 -156 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: z
@@ -2712,43 +2803,45 @@ SplineSet
  137 56 l 1
  407 56 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceleft
 Encoding: 123 123 92
 Width: 318
 VWidth: 1507
-Flags: MW
-HStem: -127 53<221.139 298.281> 285 45<97.967 164.249> 689 54<382.173 468.162>
-VStem: 116 93<-72.7094 -6.65649> 167 94<179.375 185 196 217.39 217.39 226.538 221.964 272.974>
+Flags: W
+HStem: -127 53<209.956 298.333> 285 45<97.967 164.45> 689 54<362.532 447.875>
+VStem: 116 93<-72.7156 73.8516> 167 94<121.727 282.757>
 LayerCount: 2
 Fore
 SplineSet
-97 302 m 0
+97 302 m 0xe8
  97 313 107 330 139 330 c 0
- 167 330 192 343 210 421 c 2
+ 167 330 193 343 210 421 c 2
  250 610 l 2
- 264 687 311 743 395 743 c 2
+ 266 687 311 743 395 743 c 2
  484 743 l 1
- 477 707 451 689 407 689 c 0
- 388 689 364 693 347 624 c 2
+ 474 689 425 689 402 689 c 0
+ 383 689 360 687 347 624 c 2
  306 431 l 2
- 291 366 264 327 203 307 c 1
- 260 290 261 256 261 236 c 0
+ 292 366 264 327 203 307 c 1
+ 260 290 261 256 261 236 c 0xe8
  261 222 259 205 255 185 c 2
  213 -8 l 2
  210 -21 209 -33 209 -41 c 0
- 209 -75 228 -74 244 -74 c 0
- 282 -74 302 -87 302 -113 c 0
+ 209 -73 226 -74 241 -74 c 0
+ 275 -74 302 -82 302 -113 c 0
  302 -117 301 -122 300 -127 c 1
  211 -127 l 2
- 135 -127 116 -81 116 -38 c 0
+ 135 -127 116 -81 116 -38 c 0xf0
  116 -25 118 -10 121 6 c 2
  161 196 l 2
  165 215 167 231 167 244 c 0
  167 270 159 285 130 285 c 0
- 104 285 97 295 97 302 c 0
+ 104 285 97 295 97 302 c 0xe8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bar
@@ -2766,18 +2859,20 @@ SplineSet
  143 -137 111 -155 54 -155 c 1
  244 740 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: braceright
 Encoding: 125 125 94
 Width: 318
 VWidth: 1507
-Flags: W
+Flags: HW
 HStem: -126.955 53.9967<-14.1336 71.8506> 286.02 44.9973<289.761 356.039> 689.995 52.9968<155.737 232.875>
 VStem: 193.016 93.9943<343.042 394.05 389.476 398.624 398.624 420.012 431.011 436.636> 245.013 92.9943<622.656 688.705>
 LayerCount: 2
 Fore
 Refer: 92 123 N -0.999939 0 0 -0.999939 454 616 0
+Validated: 1
 EndChar
 
 StartChar: asciitilde
@@ -2799,6 +2894,7 @@ SplineSet
  697 269 597 234 517 234 c 0
  406 234 343 304 256 304 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E33.alt1
@@ -2812,6 +2908,7 @@ LayerCount: 2
 Fore
 Refer: 284 3661 N 1 0 0 1 -196 0 0
 Refer: 261 3634 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: quotedbl
@@ -2835,6 +2932,7 @@ SplineSet
  445 548 412 503 347 503 c 1
  369 651 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: exclam
@@ -2858,6 +2956,7 @@ SplineSet
  211 29 174 -9 122 -9 c 0
  85 -9 60 9 60 37 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E4E.alt1
@@ -2870,6 +2969,7 @@ VStem: -313 73<721.202 798.89> -220 73<875.475 935.456> -36 59<930.923 963.152>
 LayerCount: 2
 Fore
 Refer: 285 3662 N 1 0 0 1 -149 0 1
+Validated: 1
 EndChar
 
 StartChar: exclamdown
@@ -2893,6 +2993,7 @@ SplineSet
  150 492 191 522 238 522 c 0
  272 522 299 503 299 474 c 0xd0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cent
@@ -2930,6 +3031,7 @@ SplineSet
  196 118 209 74 259 56 c 1
  347 463 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: sterling
@@ -2964,6 +3066,7 @@ SplineSet
  525 349 498 329 449 329 c 2
  351 329 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: currency
@@ -3003,6 +3106,7 @@ SplineSet
  545 136 665 273 665 410 c 0
  665 509 602 582 508 582 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: yen
@@ -3043,6 +3147,7 @@ SplineSet
  335 396 l 1
  164 396 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: brokenbar
@@ -3064,6 +3169,7 @@ SplineSet
  143 -137 111 -155 54 -155 c 1
  133 216 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: section
@@ -3104,6 +3210,7 @@ SplineSet
  264 338 319 317 363 303 c 0
  431 277 443 279 467 264 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dieresis
@@ -3127,6 +3234,7 @@ SplineSet
  483 630 445 601 401 601 c 256
  357 601 343 628 343 645 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: copyright
@@ -3168,6 +3276,7 @@ SplineSet
  636 426 628 427 620 428 c 1
  621 434 622 440 622 446 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ordfeminine
@@ -3202,6 +3311,7 @@ SplineSet
  281 669 227 611 206 582 c 1
  187 597 176 615 176 634 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guillemotleft
@@ -3215,6 +3325,7 @@ LayerCount: 2
 Fore
 Refer: 318 8249 N 1 0 0 1 0 0 0
 Refer: 318 8249 N 1 0 0 1 160 0 0
+Validated: 1
 EndChar
 
 StartChar: logicalnot
@@ -3234,6 +3345,7 @@ SplineSet
  128 399 155 418 199 418 c 2
  675 418 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: registered
@@ -3279,6 +3391,7 @@ SplineSet
  619 45 800 228 800 424 c 0
  800 566 707 671 567 671 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: macron
@@ -3296,6 +3409,7 @@ SplineSet
  448 632 l 1
  173 632 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: degree
@@ -3319,6 +3433,7 @@ SplineSet
  338 497 385 552 385 606 c 0
  385 646 360 675 320 675 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: plusminus
@@ -3349,6 +3464,7 @@ SplineSet
  53 36 86 60 130 60 c 2
  603 60 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: twosuperior
@@ -3378,6 +3494,7 @@ SplineSet
  219 567 187 589 187 604 c 0
  187 627 260 720 375 720 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: threesuperior
@@ -3411,6 +3528,7 @@ SplineSet
  381 555 414 590 414 626 c 0
  414 652 395 671 365 671 c 0xea
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: acute
@@ -3429,6 +3547,7 @@ SplineSet
  258 561 225 558 179 558 c 1
  295 690 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: mu
@@ -3457,6 +3576,7 @@ SplineSet
  529 10 495 -9 436 -9 c 1
  443 23 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: paragraph
@@ -3481,6 +3601,7 @@ SplineSet
  344 -122 300 -137 247 -137 c 1
  335 270 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: periodcentered
@@ -3499,6 +3620,7 @@ SplineSet
  368 257 305 199 231 199 c 256
  160 199 134 247 134 279 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: cedilla
@@ -3524,6 +3646,7 @@ SplineSet
  155 -42 l 1
  218 -50 233 -86 233 -105 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: onesuperior
@@ -3545,6 +3668,7 @@ SplineSet
  360 324 328 306 271 306 c 1
  347 665 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ordmasculine
@@ -3568,6 +3692,7 @@ SplineSet
  382 359 469 449 469 549 c 0
  469 620 426 669 360 669 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guillemotright
@@ -3581,6 +3706,7 @@ LayerCount: 2
 Fore
 Refer: 318 8249 N -0.999939 0 0 -0.999939 460 598 0
 Refer: 318 8249 N -0.999939 0 0 -0.999939 620 598 0
+Validated: 1
 EndChar
 
 StartChar: onequarter
@@ -3588,45 +3714,47 @@ Encoding: 188 188 126
 Width: 884
 VWidth: 1507
 Flags: W
-HStem: -5 21G<687.2 711.5> 95 51<597 704 800 825.258> 665 51<305.933 353>
+HStem: -5 21G<687.2 711.5> 95 51<598 704 801 833.373> 665 51<306.972 354>
 LayerCount: 2
 Fore
 SplineSet
-353 665 m 1
- 310 665 302 688 302 704 c 0
- 302 708 302 712 303 716 c 1
- 404 716 l 2
- 435 716 446 701 446 692 c 0
- 446 690 445 689 445 687 c 1
- 375 360 l 2
- 367 324 334 306 277 306 c 1
- 353 665 l 1
-822 412 m 0
- 839 412 850 403 850 389 c 0
- 850 383 l 1
- 800 146 l 1
- 865 146 l 1
- 854 92 810 95 790 95 c 1
+405 716 m 2
+ 429 716 447 706 447 692 c 0
+ 447 690 446 689 446 687 c 2
+ 377 360 l 2
+ 369 324 336 306 278 306 c 1
+ 354 665 l 1
+ 313 665 303 686 303 705 c 0
+ 303 709 303 713 304 716 c 1
+ 405 716 l 2
+824 412 m 0
+ 841 412 851 403 851 389 c 0
+ 851 387 851 385 851 383 c 2
+ 801 146 l 1
+ 866 146 l 1
+ 859 112 836 95 799 95 c 2
+ 790 95 l 1
  778 39 l 2
  772 10 740 -5 683 -5 c 1
  704 95 l 1
  525 95 l 2
- 494 95 490 114 490 119 c 0
- 490 125 493 131 499 137 c 2
- 770 390 l 2
- 783 400 801 412 822 412 c 0
-714 146 m 1
- 743 282 l 1
- 597 146 l 1
- 714 146 l 1
-730 724 m 2
- 754 755 780 759 792 759 c 0
- 806 759 822 754 838 745 c 1
- 304 -2 l 2
- 287 -27 267 -39 244 -39 c 0
- 230 -39 214 -34 197 -23 c 1
- 730 724 l 2
+ 501 95 490 109 490 120 c 0
+ 490 126 493 131 499 137 c 2
+ 770 390 l 1
+ 795 411 819 412 824 412 c 0
+715 146 m 1
+ 744 282 l 1
+ 598 146 l 1
+ 715 146 l 1
+731 724 m 1
+ 754 754 779 759 793 759 c 0
+ 807 759 823 754 839 745 c 1
+ 306 -2 l 2
+ 288 -26 269 -38 246 -38 c 0
+ 231 -38 215 -33 197 -23 c 1
+ 731 724 l 1
 EndSplineSet
+Validated: 1
 LCarets2: 2 0 0 
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 0 subtable" one fraction four
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 0 subtable" one slash four
@@ -3675,6 +3803,7 @@ SplineSet
  230 -39 214 -34 197 -23 c 1
  730 724 l 2
 EndSplineSet
+Validated: 1
 LCarets2: 2 0 0 
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 0 subtable" one fraction two
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 0 subtable" one slash two
@@ -3685,17 +3814,18 @@ Encoding: 190 190 128
 Width: 884
 VWidth: 1507
 Flags: W
-HStem: -5 21G<687.2 711.5> 95 51<597 704 800 825.258> 306 50<251.098 366.162> 505 50<299.314 389.432> 671 49<320.217 414.224>
-VStem: 153 83<371.403 437.389> 219 78<594.207 648.069> 404 85<393.095 490.74> 422 85<592.483 664.119>
+HStem: -5 21G<687.2 711.5> 95 51<597 704 800 833.891> 306 50<251.098 366.162> 505 50<299.314 389.432> 671 49<320.217 414.224>
+VStem: 153 83<371.403 443.731> 219 78<594.207 648.069> 404 85<393.095 490.74> 422 85<576.723 664.119>
 LayerCount: 2
 Fore
 SplineSet
 819 412 m 0xf8
- 838 412 850 403 850 386 c 0
- 850 383 l 2
+ 838 412 850 403 850 386 c 2
+ 850 383 l 1
  800 146 l 1
  865 146 l 1
- 854 92 810 95 790 95 c 1
+ 855 97 818 95 797 95 c 2
+ 790 95 l 1
  778 39 l 2
  772 10 740 -5 683 -5 c 1
  704 95 l 1
@@ -3729,13 +3859,14 @@ SplineSet
  291 590 283 589 275 589 c 0
  242 589 219 600 219 619 c 0xfa80
 730 724 m 2
- 754 755 780 759 792 759 c 0
+ 753 756 780 759 792 759 c 0
  806 759 822 754 838 745 c 1
  304 -2 l 2
  287 -27 267 -39 244 -39 c 0
  230 -39 214 -34 197 -23 c 1
  730 724 l 2
 EndSplineSet
+Validated: 1
 LCarets2: 2 0 0 
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 0 subtable" three fraction four
 Ligature2: "'frac' Diagonal Fractions in Latin lookup 0 subtable" three slash four
@@ -3770,6 +3901,7 @@ SplineSet
  294 493 339 522 381 522 c 0
  429 522 444 493 444 474 c 0xf0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Aacute
@@ -3782,6 +3914,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 262 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A acutecomb
 EndChar
@@ -3797,6 +3930,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 130 211 2
+Validated: 1
 EndChar
 
 StartChar: Atilde
@@ -3810,6 +3944,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 185 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A tildecomb
 EndChar
@@ -3825,6 +3960,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 199 211 2
+Validated: 1
 EndChar
 
 StartChar: Aring
@@ -3838,6 +3974,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 1
 Refer: 207 730 N 1 0 0 1 151 211 0
+Validated: 1
 EndChar
 
 StartChar: AE
@@ -3873,6 +4010,7 @@ SplineSet
  559 292 l 1
  588 585 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ccedilla
@@ -3886,6 +4024,7 @@ LayerCount: 2
 Fore
 Refer: 36 67 N 1 0 0 1 0 0 3
 Refer: 122 184 N 1 0 0 1 235 0 2
+Validated: 5
 EndChar
 
 StartChar: Egrave
@@ -3899,6 +4038,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 185 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E gravecomb
 EndChar
@@ -3914,6 +4054,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 304 205 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E acutecomb
 EndChar
@@ -3929,6 +4070,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 175 211 2
+Validated: 1
 EndChar
 
 StartChar: Edieresis
@@ -3942,6 +4084,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 244 211 2
+Validated: 1
 EndChar
 
 StartChar: Igrave
@@ -3954,6 +4097,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 -53 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I gravecomb
 EndChar
@@ -3968,6 +4112,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 65 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I acutecomb
 EndChar
@@ -3983,6 +4128,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -63 211 2
+Validated: 1
 EndChar
 
 StartChar: Idieresis
@@ -3996,6 +4142,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 3 211 2
+Validated: 1
 EndChar
 
 StartChar: Eth
@@ -4074,6 +4221,7 @@ SplineSet
  706 103 545 3 387 3 c 2
  137 3 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ntilde
@@ -4087,6 +4235,7 @@ LayerCount: 2
 Fore
 Refer: 47 78 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 241 211 2
+Validated: 1
 EndChar
 
 StartChar: Ograve
@@ -4100,6 +4249,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 250 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O gravecomb
 EndChar
@@ -4115,6 +4265,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 371 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O acutecomb
 EndChar
@@ -4130,6 +4281,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 240 211 2
+Validated: 1
 EndChar
 
 StartChar: Otilde
@@ -4143,6 +4295,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 295 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O tildecomb
 EndChar
@@ -4158,6 +4311,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 309 211 2
+Validated: 1
 EndChar
 
 StartChar: multiply
@@ -4187,6 +4341,7 @@ SplineSet
  326 297 l 1
  182 481 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Oslash
@@ -4200,6 +4355,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 1
 Refer: 16 47 N 1 0 0 1 217 0 0
+Validated: 5
 EndChar
 
 StartChar: Ugrave
@@ -4213,6 +4369,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 196 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U gravecomb
 EndChar
@@ -4228,6 +4385,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 317 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U acutecomb
 EndChar
@@ -4243,6 +4401,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 185 211 2
+Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -4256,6 +4415,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 255 211 2
+Validated: 1
 EndChar
 
 StartChar: Yacute
@@ -4268,6 +4428,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 246 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y acutecomb
 EndChar
@@ -4300,6 +4461,7 @@ SplineSet
  232 237 l 1
  258 233 286 231 315 231 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni00DF
@@ -4332,6 +4494,7 @@ SplineSet
  460 416 480 505 488 546 c 0
  491 562 493 577 493 590 c 0xe8
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: agrave
@@ -4345,6 +4508,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 59 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a gravecomb
 EndChar
@@ -4360,6 +4524,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 179 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a acutecomb
 EndChar
@@ -4375,6 +4540,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
+Validated: 1
 EndChar
 
 StartChar: atilde
@@ -4388,6 +4554,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 104 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a tildecomb
 EndChar
@@ -4403,6 +4570,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 118 0 2
+Validated: 1
 EndChar
 
 StartChar: aring
@@ -4416,6 +4584,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 207 730 N 1 0 0 1 71 0 2
+Validated: 1
 EndChar
 
 StartChar: ae
@@ -4468,6 +4637,7 @@ SplineSet
  832 348 l 2
  834 357 835 365 835 373 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ccedilla
@@ -4481,6 +4651,7 @@ LayerCount: 2
 Fore
 Refer: 68 99 N 1 0 0 1 0 0 3
 Refer: 122 184 N 1 0 0 1 152 0 2
+Validated: 5
 EndChar
 
 StartChar: egrave
@@ -4494,6 +4665,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 59 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e gravecomb
 EndChar
@@ -4509,6 +4681,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 179 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e acutecomb
 EndChar
@@ -4524,6 +4697,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
+Validated: 1
 EndChar
 
 StartChar: edieresis
@@ -4537,6 +4711,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 118 0 2
+Validated: 1
 EndChar
 
 StartChar: igrave
@@ -4549,6 +4724,7 @@ LayerCount: 2
 Fore
 Refer: 479 305 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 -101 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i gravecomb
 EndChar
@@ -4563,6 +4739,7 @@ LayerCount: 2
 Fore
 Refer: 479 305 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 18 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i acutecomb
 EndChar
@@ -4578,6 +4755,7 @@ LayerCount: 2
 Fore
 Refer: 479 305 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -110 0 2
+Validated: 1
 EndChar
 
 StartChar: idieresis
@@ -4591,6 +4769,7 @@ LayerCount: 2
 Fore
 Refer: 479 305 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 -42 0 2
+Validated: 1
 EndChar
 
 StartChar: eth
@@ -4629,6 +4808,7 @@ SplineSet
  288 469 194 315 194 197 c 0
  194 110 249 45 332 45 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ntilde
@@ -4642,6 +4822,7 @@ LayerCount: 2
 Fore
 Refer: 79 110 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 119 0 2
+Validated: 1
 EndChar
 
 StartChar: ograve
@@ -4655,6 +4836,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 2
 Refer: 492 768 N 1 0 0 1 104 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o gravecomb
 EndChar
@@ -4670,6 +4852,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 2
 Refer: 490 769 N 1 0 0 1 225 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o acutecomb
 EndChar
@@ -4685,6 +4868,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 93 0 2
+Validated: 1
 EndChar
 
 StartChar: otilde
@@ -4698,6 +4882,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 2
 Refer: 489 771 N 1 0 0 1 149 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o tildecomb
 EndChar
@@ -4713,6 +4898,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 2
 Refer: 107 168 N 1 0 0 1 163 0 2
+Validated: 1
 EndChar
 
 StartChar: divide
@@ -4741,6 +4927,7 @@ SplineSet
  416 98 372 66 329 66 c 0
  283 66 267 96 267 115 c 0xf0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oslash
@@ -4821,6 +5008,7 @@ SplineSet
  476 50 590 177 590 307 c 0
  590 350 577 388 554 416 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ugrave
@@ -4834,6 +5022,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 74 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u gravecomb
 EndChar
@@ -4849,6 +5038,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 194 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u acutecomb
 EndChar
@@ -4864,6 +5054,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 63 0 2
+Validated: 1
 EndChar
 
 StartChar: udieresis
@@ -4877,6 +5068,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 133 0 2
+Validated: 1
 EndChar
 
 StartChar: yacute
@@ -4890,6 +5082,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 154 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y acutecomb
 EndChar
@@ -4926,6 +5119,7 @@ SplineSet
  280 488 l 1
  323 511 369 522 418 522 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ydieresis
@@ -4939,6 +5133,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 92 0 2
+Validated: 1
 EndChar
 
 StartChar: Lslash
@@ -4988,6 +5183,7 @@ SplineSet
  627 13 627 8 626 3 c 1
  137 3 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lslash
@@ -5028,6 +5224,7 @@ SplineSet
  255 344 l 1
  194 57 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: OE
@@ -5074,6 +5271,7 @@ SplineSet
  219 228 l 2
  216 216 215 204 215 193 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oe
@@ -5123,6 +5321,7 @@ SplineSet
  847 348 l 2
  849 356 850 365 850 373 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Scaron
@@ -5136,6 +5335,7 @@ LayerCount: 2
 Fore
 Refer: 52 83 N 1 0 0 1 0 0 3
 Refer: 203 710 N -0.999939 0 0 -0.999939 918 1494 2
+Validated: 1
 EndChar
 
 StartChar: scaron
@@ -5149,6 +5349,7 @@ LayerCount: 2
 Fore
 Refer: 84 115 N 1 0 0 1 0 0 2
 Refer: 203 710 N -0.999939 0 0 -0.999939 782 1284 2
+Validated: 1
 EndChar
 
 StartChar: Ydieresis
@@ -5162,6 +5363,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 182 205 2
+Validated: 1
 EndChar
 
 StartChar: Zcaron
@@ -5175,6 +5377,7 @@ LayerCount: 2
 Fore
 Refer: 203 710 S -0.999939 0 0 -0.999939 918 1494 2
 Refer: 59 90 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: zcaron
@@ -5188,6 +5391,7 @@ LayerCount: 2
 Fore
 Refer: 203 710 N -0.999939 0 0 -0.999939 782 1284 2
 Refer: 91 122 N 1 0 0 1 0 0 2
+Validated: 1
 EndChar
 
 StartChar: florin
@@ -5195,15 +5399,15 @@ Encoding: 402 402 202
 Width: 605
 VWidth: 1507
 Flags: W
-HStem: -86 54<36.3731 155.597> -25 20G<22.5 41.5> 384 55<255 318 427 564.701> 671 56<538.935 659.983>
+HStem: -86 54<36.3731 155.527> -25 20G<22.5 41.5> 384 55<244.297 318 427 542.352> 671 56<544.154 685.741>
 LayerCount: 2
 Fore
 SplineSet
 623 727 m 0
  690 727 704 696 704 678 c 0
- 704 644 671 656 669 653 c 1
- 657 658 626 671 603 671 c 0
- 539 671 481 614 443 485 c 2
+ 704 656 690 653 680 653 c 0
+ 654 653 637 671 603 671 c 0
+ 539 671 487 612 443 485 c 2
  427 439 l 1
  582 439 l 1
  572 398 540 384 506 384 c 2
@@ -5214,15 +5418,15 @@ SplineSet
  24 -86 13 -61 13 -44 c 0
  13 -33 18 -20 27 -5 c 1
  56 -22 76 -32 102 -32 c 0
- 183 -32 229 105 237 134 c 2
+ 183 -32 228 105 237 134 c 2
  318 384 l 1
  205 384 l 1
  215 438 270 439 282 439 c 2
  335 439 l 1
- 336 444 340 456 344 461 c 1
- 352 508 388 598 453 660 c 0
- 499 705 556 727 623 727 c 0
+ 336 444 344 461 344 461 c 2
+ 374 535 423 727 623 727 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: circumflex
@@ -5247,6 +5451,7 @@ SplineSet
  365 711 l 2
  372 717 382 720 396 720 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: caron
@@ -5259,6 +5464,7 @@ VStem: 233.032 321.98<705.035 705.035 705.035 705.035>
 LayerCount: 2
 Fore
 Refer: 203 710 N -0.999939 0 0 -0.999939 761 1281 0
+Validated: 1
 EndChar
 
 StartChar: breve
@@ -5281,6 +5487,7 @@ SplineSet
  296 646 325 615 369 615 c 0x90
  430 615 476 666 488 725 c 1x50
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dotaccent
@@ -5299,6 +5506,7 @@ SplineSet
  349 666 312 638 268 638 c 256
  224 638 210 664 210 681 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ring
@@ -5322,6 +5530,7 @@ SplineSet
  393 633 416 678 416 705 c 0
  416 722 409 751 381 751 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ogonek
@@ -5347,6 +5556,7 @@ SplineSet
  228 -187 182 -210 125 -210 c 0
  69 -210 15 -179 15 -133 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: tilde
@@ -5373,6 +5583,7 @@ SplineSet
  217 595 205 593 195 593 c 0
  169 593 151 606 151 626 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hungarumlaut
@@ -5385,6 +5596,7 @@ LayerCount: 2
 Fore
 Refer: 118 180 N 1 0 0 1 211 0 0
 Refer: 118 180 N 1 0 0 1 0 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0E00
@@ -5426,6 +5638,7 @@ SplineSet
  271 298 l 1
  205 -9 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E02
@@ -5467,6 +5680,7 @@ SplineSet
  266 357 291 386 291 418 c 0xfb
  291 439 274 454 250 454 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E03
@@ -5512,6 +5726,7 @@ SplineSet
  266 357 291 386 291 418 c 0
  291 439 274 454 250 454 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E04
@@ -5550,6 +5765,7 @@ SplineSet
  442 307 468 334 468 365 c 0
  468 381 460 404 428 404 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E05
@@ -5592,6 +5808,7 @@ SplineSet
  443 294 466 325 466 355 c 0
  466 376 450 390 427 390 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E06
@@ -5644,6 +5861,7 @@ SplineSet
  211 42 238 70 238 101 c 0
  238 116 230 139 199 139 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E07
@@ -5675,6 +5893,7 @@ SplineSet
  503 463 533 487 533 520 c 0
  533 536 525 559 493 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E08
@@ -5711,6 +5930,7 @@ SplineSet
  386 309 410 339 410 370 c 0
  410 391 394 405 371 405 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E09
@@ -5760,6 +5980,7 @@ SplineSet
  537 39 566 68 566 102 c 0xfd
  566 124 550 142 525 142 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E0A
@@ -5812,6 +6033,7 @@ SplineSet
  266 357 291 386 291 418 c 0xfb80
  291 439 274 454 250 454 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E0B
@@ -5869,6 +6091,7 @@ SplineSet
  266 357 291 386 291 418 c 0xfb
  291 439 274 454 250 454 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E0C
@@ -5923,6 +6146,7 @@ SplineSet
  501 39 528 66 528 100 c 0
  528 122 512 136 488 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E0D
@@ -5985,6 +6209,7 @@ SplineSet
  559 -169 583 -139 583 -117 c 0xcf98
  583 -97 568 -81 547 -81 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E0D.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E0D.alt1
 EndChar
@@ -6047,6 +6272,7 @@ SplineSet
  352 -97 366 -73 383 -42 c 1
  409 -52 432 -72 432 -94 c 0
 EndSplineSet
+Validated: 517
 Substitution2: "Single Substitution lookup 22 subtable" uni0E0E.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E0E.alt1
 EndChar
@@ -6114,6 +6340,7 @@ SplineSet
  183 -149 167 -141 148 -141 c 0
  131 -141 83 -150 83 -187 c 0xfd
 EndSplineSet
+Validated: 513
 Substitution2: "Single Substitution lookup 22 subtable" uni0E0F.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E0F.alt1
 EndChar
@@ -6199,6 +6426,7 @@ SplineSet
  396 -148 417 -128 417 -102 c 0
  417 -84 404 -72 386 -72 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E10.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E10.alt1
 EndChar
@@ -6249,6 +6477,7 @@ SplineSet
  266 357 291 386 291 418 c 0
  291 439 274 454 250 454 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E12
@@ -6305,6 +6534,7 @@ SplineSet
  525 39 557 67 557 102 c 0
  557 125 541 142 515 142 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E13
@@ -6362,6 +6592,7 @@ SplineSet
  811 39 844 67 844 101 c 0
  844 123 827 142 802 142 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E14
@@ -6400,6 +6631,7 @@ SplineSet
  446 309 469 340 469 370 c 0
  469 391 453 405 430 405 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E15
@@ -6442,6 +6674,7 @@ SplineSet
  443 294 466 325 466 355 c 0
  466 376 450 390 427 390 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E16
@@ -6481,6 +6714,7 @@ SplineSet
  268 39 294 67 294 100 c 0
  294 115 286 136 255 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E17
@@ -6520,6 +6754,7 @@ SplineSet
  285 463 312 491 312 520 c 0
  312 543 295 559 271 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E18
@@ -6560,6 +6795,7 @@ SplineSet
  507 607 555 560 570 543 c 1
  618 607 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E19
@@ -6604,6 +6840,7 @@ SplineSet
  618 39 651 67 651 101 c 0
  651 123 634 142 609 142 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E1A
@@ -6639,6 +6876,7 @@ SplineSet
  285 463 312 491 312 520 c 0
  312 543 295 559 271 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E1B
@@ -6674,6 +6912,7 @@ SplineSet
  285 463 312 491 312 520 c 0
  312 543 295 559 271 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E1C
@@ -6711,6 +6950,7 @@ SplineSet
  330 463 357 491 357 520 c 0
  357 536 349 559 317 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E1D
@@ -6748,6 +6988,7 @@ SplineSet
  330 463 357 491 357 520 c 0
  357 536 349 559 317 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E1E
@@ -6786,6 +7027,7 @@ SplineSet
  285 463 312 491 312 520 c 0
  312 543 295 559 271 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E1F
@@ -6824,6 +7066,7 @@ SplineSet
  285 463 312 491 312 520 c 0
  312 543 295 559 271 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E20
@@ -6862,6 +7105,7 @@ SplineSet
  195 39 222 66 222 100 c 0
  222 122 206 136 182 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E21
@@ -6904,6 +7148,7 @@ SplineSet
  196 39 227 67 227 102 c 0
  227 126 208 142 185 142 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E22
@@ -6941,6 +7186,7 @@ SplineSet
  332 463 358 489 358 520 c 0
  358 536 350 559 318 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E23
@@ -6981,6 +7227,7 @@ SplineSet
  440 39 463 70 463 100 c 0
  463 115 455 136 424 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E24
@@ -7020,6 +7267,7 @@ SplineSet
  268 39 294 67 294 100 c 0
  294 115 286 136 255 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E25
@@ -7063,6 +7311,7 @@ SplineSet
  241 39 264 70 264 100 c 0
  264 115 256 136 225 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E26
@@ -7101,6 +7350,7 @@ SplineSet
  195 39 222 66 222 100 c 0
  222 122 206 136 182 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E27
@@ -7134,6 +7384,7 @@ SplineSet
  416 39 443 67 443 98 c 0
  443 113 435 136 404 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E28
@@ -7182,6 +7433,7 @@ SplineSet
  464 452 483 447 497 436 c 1
  506 439 537 449 585 484 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E29
@@ -7234,6 +7486,7 @@ SplineSet
  443 282 470 305 470 336 c 0
  470 348 463 369 436 369 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E2A
@@ -7285,6 +7538,7 @@ SplineSet
  562 413 562 415 561 418 c 1
  538 403 512 390 484 377 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E2B
@@ -7333,6 +7587,7 @@ SplineSet
  674 463 703 487 703 520 c 0
  703 536 695 559 663 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E2C
@@ -7383,6 +7638,7 @@ SplineSet
  674 463 703 487 703 520 c 0
  703 536 695 559 663 559 c 256
 EndSplineSet
+Validated: 513
 Substitution2: "Single Substitution lookup 22 subtable" uni0E2C.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E2C.alt1
 EndChar
@@ -7427,6 +7683,7 @@ SplineSet
  342 255 365 286 365 316 c 0
  365 337 349 351 326 351 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E2E
@@ -7475,6 +7732,7 @@ SplineSet
  526 533 481 552 436 552 c 0
  374 552 265 519 265 469 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E2F
@@ -7506,6 +7764,7 @@ SplineSet
  285 463 312 491 312 520 c 0
  312 543 295 559 271 559 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E30
@@ -7548,6 +7807,7 @@ SplineSet
  226 116 253 144 253 173 c 0
  253 189 245 213 213 213 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E31
@@ -7575,6 +7835,7 @@ SplineSet
  -78 790 -54 820 -54 850 c 0
  -54 864 -64 886 -95 886 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E31.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E31.alt1
 EndChar
@@ -7602,6 +7863,7 @@ SplineSet
  162 374 125 393 125 422 c 0
  125 471 219 607 386 607 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E33
@@ -7615,6 +7877,7 @@ LayerCount: 2
 Fore
 Refer: 284 3661 N 1 0 0 1 15 0 0
 Refer: 261 3634 N 1 0 0 1 0 0 0
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E33.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E33.alt1
 EndChar
@@ -7642,6 +7905,7 @@ SplineSet
  -32 781 -92 831 -154 831 c 0
  -207 831 -288 799 -330 743 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E34.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E34.alt1
 EndChar
@@ -7672,6 +7936,7 @@ SplineSet
  -32 781 -92 831 -154 831 c 0
  -207 831 -288 799 -330 743 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E35.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E35.alt1
 EndChar
@@ -7709,6 +7974,7 @@ SplineSet
  41 814 64 833 64 860 c 0
  64 873 58 891 33 891 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E36.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E36.alt1
 EndChar
@@ -7742,6 +8008,7 @@ SplineSet
  -32 781 -92 831 -154 831 c 0
  -207 831 -288 799 -330 743 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E37.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E37.alt1
 EndChar
@@ -7772,6 +8039,7 @@ SplineSet
  -203 -185 -178 -156 -178 -134 c 0
  -178 -114 -193 -98 -214 -98 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 21 subtable" a
 Substitution2: "Single Substitution lookup 22 subtable" uni0E38.alt1
 Substitution2: "Single Substitution lookup 21 subtable" a
@@ -7812,6 +8080,7 @@ SplineSet
  -331 -185 -306 -156 -306 -134 c 0
  -306 -114 -321 -98 -342 -98 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 21 subtable" b
 Substitution2: "Single Substitution lookup 22 subtable" uni0E39.alt1
 Substitution2: "Single Substitution lookup 21 subtable" b
@@ -7834,6 +8103,7 @@ SplineSet
  -89 -119 -117 -157 -170 -157 c 256
  -215 -157 -229 -129 -229 -111 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 21 subtable" c
 Substitution2: "Single Substitution lookup 22 subtable" uni0E3A.alt1
 Substitution2: "Single Substitution lookup 21 subtable" c
@@ -7892,6 +8162,7 @@ SplineSet
  323 657 l 1
  265 389 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E40
@@ -7919,6 +8190,7 @@ SplineSet
  244 39 267 70 267 100 c 0
  267 115 259 136 228 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E41
@@ -7932,6 +8204,7 @@ LayerCount: 2
 Fore
 Refer: 271 3648 N 1 0 0 1 0 0 0
 Refer: 271 3648 N 1 0 0 1 258 0 0
+Validated: 1
 EndChar
 
 StartChar: uni0E42
@@ -7972,6 +8245,7 @@ SplineSet
  342 39 369 67 369 98 c 0
  369 113 361 136 330 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E43
@@ -8013,6 +8287,7 @@ SplineSet
  350 742 374 772 374 803 c 0
  374 824 358 838 335 838 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E44
@@ -8056,6 +8331,7 @@ SplineSet
  342 39 369 67 369 98 c 0
  369 113 361 136 330 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E45
@@ -8081,6 +8357,7 @@ SplineSet
  162 374 125 393 125 422 c 0
  125 471 219 607 386 607 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E46
@@ -8122,6 +8399,7 @@ SplineSet
  273 323 297 353 297 384 c 0
  297 405 281 419 258 419 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E47
@@ -8163,6 +8441,7 @@ SplineSet
  -52 770 -40 758 -23 758 c 256
  3 758 24 781 24 804 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E47.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E47.alt1
 EndChar
@@ -8176,6 +8455,7 @@ HStem: 965.708 245.103<85.9027 103.78>
 LayerCount: 2
 Fore
 Refer: 350 63242 N 0.950012 0 0 0.950012 60 314 0
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E48.alt2
 Substitution2: "Single Substitution lookup 22 subtable" uni0E48.alt2
 EndChar
@@ -8190,6 +8470,7 @@ VStem: -81.7527 52.2372<1096.07 1160.83> 50.2651 52.2372<1113.57 1168.44> 193.68
 LayerCount: 2
 Fore
 Refer: 351 63243 N 0.949768 0 0 0.953186 112 309 0
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E49.alt2
 Substitution2: "Single Substitution lookup 22 subtable" uni0E49.alt2
 EndChar
@@ -8204,6 +8485,7 @@ VStem: -151.607 55.0057<1004.15 1084.71> -20.8553 47.7918<1011.33 1072.61> 128.8
 LayerCount: 2
 Fore
 Refer: 352 63244 N 0.901733 0 0 0.900574 164 347 0
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4A.alt2
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4A.alt2
 EndChar
@@ -8217,6 +8499,7 @@ HStem: 1053.05 51.3327<-33.4517 51.1807 140.44 222.475 -49.7998 238.716 24.1323 
 LayerCount: 2
 Fore
 Refer: 353 63245 N 0.901611 0 0 0.900574 62 347 0
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4B.alt2
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4B.alt2
 EndChar
@@ -8231,6 +8514,7 @@ VStem: -61.519 59.6635<965.656 1027.42> 72.2719 50.6236<972.684 1035.01>
 LayerCount: 2
 Fore
 Refer: 354 63246 N 0.903992 0 0 0.901001 56 306 0
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4C.alt2
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4C.alt2
 EndChar
@@ -8256,6 +8540,7 @@ SplineSet
  58 724 85 765 85 796 c 0
  85 812 77 841 41 841 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4D.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4D.alt1
 EndChar
@@ -8291,6 +8576,7 @@ SplineSet
  -60 862 l 1
  -67 872 -71 881 -71 891 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4E.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4E.alt1
 EndChar
@@ -8327,6 +8613,7 @@ SplineSet
  366 344 312 283 312 226 c 0
  312 184 342 151 390 151 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E50
@@ -8350,6 +8637,7 @@ SplineSet
  487 48 591 151 591 259 c 0
  591 336 538 402 445 402 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E51
@@ -8384,6 +8672,7 @@ SplineSet
  371 106 395 136 395 167 c 0
  395 188 379 202 356 202 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E52
@@ -8439,6 +8728,7 @@ SplineSet
  220 187 l 2
  218 178 217 169 217 161 c 0xf3
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E53
@@ -8482,6 +8772,7 @@ SplineSet
  244 41 268 72 268 100 c 0
  268 115 260 137 229 137 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E54
@@ -8520,6 +8811,7 @@ SplineSet
  468 176 490 208 490 238 c 0
  490 259 474 273 451 273 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E55
@@ -8566,6 +8858,7 @@ SplineSet
  520 442 547 470 547 499 c 0xfa80
  547 515 539 538 506 538 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E56
@@ -8602,6 +8895,7 @@ SplineSet
  240 480 183 520 160 532 c 1
  177 552 203 565 227 565 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E57
@@ -8655,6 +8949,7 @@ SplineSet
  362 460 392 451 413 433 c 1
  438 451 471 460 511 460 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E58
@@ -8696,6 +8991,7 @@ SplineSet
  582 118 606 148 606 179 c 0
  606 200 590 214 567 214 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E59
@@ -8740,6 +9036,7 @@ SplineSet
  252 153 310 216 386 216 c 0
  456 216 480 169 480 137 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E5A
@@ -8779,6 +9076,7 @@ SplineSet
  289 466 314 498 314 526 c 0
  314 548 298 562 274 562 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E5B
@@ -8837,6 +9135,7 @@ SplineSet
  419 264 443 287 443 314 c 0
  443 331 430 345 410 345 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: zerowidthnonjoiner
@@ -8943,6 +9242,7 @@ SplineSet
  107 299 134 329 184 329 c 2
  657 329 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: emdash
@@ -8960,6 +9260,7 @@ SplineSet
  1150 290 1123 271 1078 271 c 2
  101 271 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: quoteleft
@@ -8972,6 +9273,7 @@ VStem: 173.012 149.991<515.504 517.503> 173.012 87.9946<513.004 582.999>
 LayerCount: 2
 Fore
 Refer: 13 44 N -0.999939 0 0 -0.999939 371 574 0
+Validated: 1
 EndChar
 
 StartChar: quoteright
@@ -8984,6 +9286,7 @@ VStem: 197 150<677.5 679.5> 259 88<612 682>
 LayerCount: 2
 Fore
 Refer: 13 44 N 1 0 0 1 149 621 0
+Validated: 1
 EndChar
 
 StartChar: quotesinglbase
@@ -8996,6 +9299,7 @@ VStem: 66 150<56.5 58.5> 128 88<-9 61>
 LayerCount: 2
 Fore
 Refer: 13 44 N 1 0 0 1 18 0 0
+Validated: 1
 EndChar
 
 StartChar: quotedblleft
@@ -9009,6 +9313,7 @@ LayerCount: 2
 Fore
 Refer: 13 44 N -0.999939 0 0 -0.999939 372 574 0
 Refer: 13 44 N -0.999939 0 0 -0.999939 561 574 0
+Validated: 1
 EndChar
 
 StartChar: quotedblright
@@ -9022,6 +9327,7 @@ LayerCount: 2
 Fore
 Refer: 13 44 N 1 0 0 1 149 621 0
 Refer: 13 44 N 1 0 0 1 338 621 0
+Validated: 1
 EndChar
 
 StartChar: quotedblbase
@@ -9035,6 +9341,7 @@ LayerCount: 2
 Fore
 Refer: 13 44 N 1 0 0 1 18 0 2
 Refer: 13 44 N 1 0 0 1 207 0 2
+Validated: 1
 EndChar
 
 StartChar: dagger
@@ -9065,6 +9372,7 @@ SplineSet
  195 487 212 485 246 485 c 0
  314 483 314 482 360 482 c 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: daggerdbl
@@ -9106,6 +9414,7 @@ SplineSet
  598 485 616 487 650 487 c 1
  638 427 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: bullet
@@ -9124,6 +9433,7 @@ SplineSet
  500 242 413 163 317 163 c 0
  234 163 193 218 193 271 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ellipsis
@@ -9138,6 +9448,7 @@ Fore
 Refer: 15 46 N 1 0 0 1 0 0 0
 Refer: 15 46 N 1 0 0 1 301 0 0
 Refer: 15 46 N 1 0 0 1 603 0 0
+Validated: 1
 EndChar
 
 StartChar: perthousand
@@ -9212,6 +9523,7 @@ SplineSet
  230 -39 214 -34 197 -23 c 1
  730 724 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: minute
@@ -9230,6 +9542,7 @@ SplineSet
  256 546 218 503 154 503 c 1xc0
  202 651 l 2xa0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: second
@@ -9253,6 +9566,7 @@ SplineSet
  386 547 350 503 285 503 c 1x90
  332 651 l 2x88
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guilsinglleft
@@ -9278,6 +9592,7 @@ SplineSet
  101 285 98 290 98 295 c 0
  98 296 99 297 99 298 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: guilsinglright
@@ -9290,6 +9605,7 @@ VStem: 64.024 294.982<114.03 303.018 303.018 303.018>
 LayerCount: 2
 Fore
 Refer: 318 8249 N -0.999939 0 0 -0.999939 457 598 0
+Validated: 1
 EndChar
 
 StartChar: fraction
@@ -9300,6 +9616,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 16 47 N 1 0 0 1 -80 0 0
+Validated: 1
 EndChar
 
 StartChar: Euro
@@ -9307,8 +9624,8 @@ Encoding: 8364 8364 321
 Width: 729
 VWidth: 1507
 Flags: W
-HStem: -9 60<290.133 480.503> 262 59<108.376 128 237 511.624> 396 61<135.506 157 265 540.263> 665 60<410.942 603.424>
-VStem: 117 97<122.306 212.883 212.477 213.289 213.289 228 228 247.833> 627 80<181.359 245.397> 682 96<485.584 591.817>
+HStem: -9 60<290.133 480.503> 262 59<96.9394 128 237 488.129> 396 61<125.326 157 265 516.381> 665 60<411.755 603.424>
+VStem: 117 97<123.114 249.636> 627 80<181.359 230.546> 682 96<485.584 591.817>
 LayerCount: 2
 Fore
 SplineSet
@@ -9317,17 +9634,17 @@ SplineSet
  117 198 119 213 122 228 c 2
  128 262 l 1
  53 262 l 1
- 67 322 125 321 142 321 c 1
+ 67 321 122 321 142 321 c 1
  157 396 l 1
  81 396 l 1
- 95 458 151 457 170 457 c 1
+ 95 457 151 457 170 457 c 1
  178 490 l 2
- 202 620 364 725 525 725 c 0
+ 209 618 364 725 525 725 c 0
  639 725 778 669 778 534 c 0
  778 478 717 458 669 458 c 1
  669 458 682 495 682 521 c 0xfa
  682 579 634 665 511 665 c 256
- 386 665 289 573 273 490 c 2
+ 386 665 293 572 273 490 c 2
  265 457 l 1
  561 457 l 1
  552 416 523 396 476 396 c 2
@@ -9343,6 +9660,7 @@ SplineSet
  660 261 707 247 707 206 c 0
  707 136 561 -9 368 -9 c 0xfc
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni2113
@@ -9382,6 +9700,7 @@ SplineSet
  338 669 328 643 318 592 c 2
  291 467 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: trademark
@@ -9419,6 +9738,7 @@ SplineSet
  889 324 857 306 800 306 c 1
  844 512 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Ohm
@@ -9452,6 +9772,7 @@ SplineSet
  197 203 153 280 153 369 c 0
  153 558 331 727 515 727 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: estimated
@@ -9482,6 +9803,7 @@ SplineSet
  99 197 103 248 116 307 c 0
  155 492 244 588 381 588 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: partialdiff
@@ -9510,6 +9832,7 @@ SplineSet
  288 469 194 315 194 197 c 0
  194 110 249 45 332 45 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Delta
@@ -9530,6 +9853,7 @@ SplineSet
  476 764 l 1
  633 0 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: product
@@ -9551,6 +9875,7 @@ SplineSet
  326 686 l 1
  163 -78 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: summation
@@ -9581,6 +9906,7 @@ SplineSet
  756 -116 755 -122 754 -128 c 1
  48 -128 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: minus
@@ -9598,6 +9924,7 @@ SplineSet
  107 299 134 329 184 329 c 2
  657 329 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: radical
@@ -9624,6 +9951,7 @@ SplineSet
  691 720 705 718 720 713 c 1
  300 5 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: infinity
@@ -9631,16 +9959,11 @@ Encoding: 8734 8734 332
 Width: 967
 VWidth: 1507
 Flags: W
-HStem: 163 54<251.165 383.187 674.883 809.511> 452 50<298.145 421.619 723.77 849.988>
-VStem: 141 88<238.446 380.015> 506 2<338 339> 875 89<285.08 426.7>
+HStem: 163 54<251.165 383.187 673.689 810.92> 452 50<298.145 421.619 723.77 849.988>
+VStem: 141 88<238.446 380.015> 875 89<285.08 426.7>
 LayerCount: 2
 Fore
 SplineSet
-508 338 m 1
- 506 338 l 1
- 506 339 506 339 505 339 c 1
- 508 341 l 1
- 508 338 l 1
 229 299 m 0
  229 258 246 217 314 217 c 0
  380 217 467 292 505 339 c 1
@@ -9663,6 +9986,7 @@ SplineSet
  731 449 641 388 597 326 c 1
  662 223 713 214 742 214 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: integral
@@ -9688,6 +10012,7 @@ SplineSet
  307 607 l 2
  341 701 402 747 490 747 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: approxequal
@@ -9719,6 +10044,7 @@ SplineSet
  553 136 506 122 455 122 c 0
  350 122 295 188 219 188 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: notequal
@@ -9754,6 +10080,7 @@ SplineSet
  250 184 l 1
  83 184 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lessequal
@@ -9761,27 +10088,28 @@ Encoding: 8804 8804 336
 Width: 633
 VWidth: 1507
 Flags: W
-HStem: 2 58<67.8087 582.466>
+HStem: 2 58<92.4609 558.457>
 LayerCount: 2
 Fore
 SplineSet
 139 321 m 2
  689 520 l 1
  689 517 690 513 690 510 c 0
- 690 491 681 460 644 445 c 2
+ 690 491 682 459 644 445 c 2
  241 298 l 1
  582 154 l 2
- 603 143 607 126 607 115 c 0
+ 604 145 607 126 607 115 c 0
  607 103 603 91 595 78 c 1
  130 277 l 2
- 116 281 110 286 110 295 c 0
- 110 302 109 310 139 321 c 2
+ 111 285 110 289 110 296 c 0
+ 110 303 111 311 139 321 c 2
 603 60 m 1
  595 24 564 2 519 2 c 2
  47 2 l 1
  53 36 86 60 130 60 c 2
  603 60 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: greaterequal
@@ -9789,12 +10117,12 @@ Encoding: 8805 8805 337
 Width: 633
 VWidth: 1507
 Flags: W
-HStem: 2 58<67.8087 130 519 582.466>
+HStem: 2 58<92.4609 558.457>
 LayerCount: 2
 Fore
 SplineSet
 657 298 m 0
- 657 289 646 282 629 277 c 2
+ 657 289 646 283 629 277 c 2
  78 78 l 1
  77 84 76 90 76 95 c 0
  76 116 85 142 119 154 c 2
@@ -9805,11 +10133,12 @@ SplineSet
  638 321 l 2
  653 315 657 303 657 298 c 0
 519 2 m 2
- 564 2 595 24 603 60 c 1
- 130 60 l 2
- 86 60 53 37 47 2 c 1
- 519 2 l 2
+ 47 2 l 1
+ 53 37 86 60 130 60 c 2
+ 603 60 l 1
+ 595 24 564 2 519 2 c 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lozenge
@@ -9837,6 +10166,7 @@ SplineSet
  415 710 l 2
  426 724 449 727 464 727 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dottedcircle
@@ -9930,6 +10260,7 @@ SplineSet
  169 234 183 218 183 207 c 0x1c40
  183 192 160 170 130 170 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E10.alt1
@@ -9973,6 +10304,7 @@ SplineSet
  329 151 355 177 355 208 c 0
  355 224 347 247 315 247 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E34.alt1
@@ -9985,6 +10317,7 @@ VStem: -157 86<719 771.375>
 LayerCount: 2
 Fore
 Refer: 263 3636 N 1 0 0 1 -134 0 1
+Validated: 1
 EndChar
 
 StartChar: uni0E35.alt1
@@ -9996,6 +10329,7 @@ HStem: 701 48<-451.169 -192.741> 831 45<-376.648 -218.407>
 LayerCount: 2
 Fore
 Refer: 264 3637 N 1 0 0 1 -134 0 1
+Validated: 1
 EndChar
 
 StartChar: uni0E36.alt1
@@ -10008,6 +10342,7 @@ VStem: -70 59<821.723 882.641>
 LayerCount: 2
 Fore
 Refer: 265 3638 N 1 0 0 1 -134 0 1
+Validated: 1
 EndChar
 
 StartChar: uni0E37.alt1
@@ -10019,6 +10354,7 @@ HStem: 701 48<-451.169 -192.741> 831 45<-376.253 -251.631>
 LayerCount: 2
 Fore
 Refer: 266 3639 N 1 0 0 1 -134 0 1
+Validated: 1
 EndChar
 
 StartChar: uni0E48.alt1
@@ -10030,6 +10366,7 @@ HStem: 686 258<-106.734 -87.916>
 LayerCount: 2
 Fore
 Refer: 350 63242 N 1 0 0 1 -134 0 1
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E48.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E48.alt3
 EndChar
@@ -10044,6 +10381,7 @@ VStem: -356 55<825.727 893.67> -217 55<844.088 901.65> -66 72<849.536 935.524>
 LayerCount: 2
 Fore
 Refer: 351 63243 N 1 0 0 1 -152 0 1
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E49.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E49.alt3
 EndChar
@@ -10058,6 +10396,7 @@ VStem: -504 61<729.701 819.159> -359 53<737.677 805.716> -193 74<778.368 890.806
 LayerCount: 2
 Fore
 Refer: 352 63244 N 1 0 0 1 -154 0 1
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4A.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4A.alt3
 EndChar
@@ -10071,6 +10410,7 @@ HStem: 784 57<-330.868 -237 -138 -47.0129 -349 -29 -267 -267>
 LayerCount: 2
 Fore
 Refer: 353 63245 N 1 0 0 1 -225 0 1
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4B.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4B.alt3
 EndChar
@@ -10085,6 +10425,7 @@ VStem: -264 66<732.137 800.683> -116 56<739.937 809.111>
 LayerCount: 2
 Fore
 Refer: 354 63246 N 1 0 0 1 -134 0 1
+Validated: 1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4C.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4C.alt3
 EndChar
@@ -10104,6 +10445,7 @@ SplineSet
  15 926 49 944 110 944 c 1
  66 740 l 2
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 20 subtable" uni0E48.alt3
 Substitution2: "Single Substitution lookup 21 subtable" uni0E48
 Substitution2: "Single Substitution lookup 22 subtable" uni0E48.alt1
@@ -10142,6 +10484,7 @@ SplineSet
  -90 823 -65 845 -65 872 c 0
  -65 889 -78 904 -98 904 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 20 subtable" uni0E49.alt3
 Substitution2: "Single Substitution lookup 21 subtable" uni0E49
 Substitution2: "Single Substitution lookup 22 subtable" uni0E49.alt1
@@ -10190,6 +10533,7 @@ SplineSet
  -230 727 -205 752 -205 775 c 0
  -205 795 -221 808 -240 808 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 20 subtable" uni0E4A.alt3
 Substitution2: "Single Substitution lookup 21 subtable" uni0E4A
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4A.alt1
@@ -10221,6 +10565,7 @@ SplineSet
  87 841 l 1
  196 841 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 20 subtable" uni0E4B.alt3
 Substitution2: "Single Substitution lookup 21 subtable" uni0E4B
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4B.alt1
@@ -10255,6 +10600,7 @@ SplineSet
  -8 730 18 751 18 779 c 0
  18 798 5 811 -14 811 c 256
 EndSplineSet
+Validated: 1
 Substitution2: "Single Substitution lookup 20 subtable" uni0E4C.alt3
 Substitution2: "Single Substitution lookup 21 subtable" uni0E4C
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4C.alt1
@@ -10309,6 +10655,7 @@ SplineSet
  268 39 294 67 294 100 c 0
  294 115 286 136 255 136 c 256
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E31.alt1
@@ -10321,6 +10668,7 @@ VStem: -351 63<794.113 871.001> -188 59<804.341 873.042>
 LayerCount: 2
 Fore
 Refer: 260 3633 N 1 0 0 1 -134 0 1
+Validated: 1
 EndChar
 
 StartChar: uni0E4D.alt1
@@ -10333,6 +10681,7 @@ VStem: -285 55<729.687 818.378> -117 57<745.395 824.874>
 LayerCount: 2
 Fore
 Refer: 284 3661 N 1 0 0 1 -202 0 1
+Validated: 1
 EndChar
 
 StartChar: uni0E47.alt1
@@ -10345,6 +10694,7 @@ VStem: -456 77<759.648 862.18> -241 55<762.68 826.361> -110 56<766.289 832.637>
 LayerCount: 2
 Fore
 Refer: 278 3655 N 1 0 0 1 -134 0 1
+Validated: 1
 EndChar
 
 StartChar: uni0E48.alt3
@@ -10356,6 +10706,7 @@ HStem: 965.708 245.103<-46.0973 -28.2197>
 LayerCount: 2
 Fore
 Refer: 350 63242 N 0.950012 0 0 0.950012 -72 314 0
+Validated: 1
 EndChar
 
 StartChar: uni0E49.alt3
@@ -10368,6 +10719,7 @@ VStem: -216.578 52.1903<1096.07 1160.83> -84.6794 52.1903<1113.57 1168.44> 58.60
 LayerCount: 2
 Fore
 Refer: 351 63243 N 0.948914 0 0 0.953186 -23 309 0
+Validated: 1
 EndChar
 
 StartChar: uni0E4A.alt3
@@ -10380,6 +10732,7 @@ VStem: -280.607 55.0057<1004.15 1084.71> -149.855 47.7918<1011.33 1072.61> -0.16
 LayerCount: 2
 Fore
 Refer: 352 63244 N 0.901733 0 0 0.900574 35 347 0
+Validated: 1
 EndChar
 
 StartChar: uni0E4B.alt3
@@ -10391,6 +10744,7 @@ HStem: 1053.05 51.3327<-166.452 -81.8193 7.44016 89.4751 -182.8 105.716 -108.868
 LayerCount: 2
 Fore
 Refer: 353 63245 N 0.901611 0 0 0.900574 -71 347 0
+Validated: 1
 EndChar
 
 StartChar: uni0E4C.alt3
@@ -10403,6 +10757,7 @@ VStem: -185.543 59.6755<965.567 1027.32> -51.7248 50.6338<972.593 1034.91>
 LayerCount: 2
 Fore
 Refer: 354 63246 N 0.904175 0 0 0.900879 -68 306 0
+Validated: 1
 EndChar
 
 StartChar: uni0E38.alt1
@@ -10415,6 +10770,7 @@ VStem: -378 60<-414.758 -350.172> -228 61<-396.992 -341.317>
 LayerCount: 2
 Fore
 Refer: 267 3640 N 1 0 0 1 -50 -240 1
+Validated: 1
 EndChar
 
 StartChar: uni0E39.alt1
@@ -10427,6 +10783,7 @@ VStem: -506 60<-415.105 -350.615> -356 59<-396.969 -341.453>
 LayerCount: 2
 Fore
 Refer: 268 3641 N 1 0 0 1 -50 -240 1
+Validated: 1
 EndChar
 
 StartChar: uni0E3A.alt1
@@ -10439,6 +10796,7 @@ VStem: -279 140<-375.341 -311.112>
 LayerCount: 2
 Fore
 Refer: 269 3642 N 1 0 0 1 -50 -240 1
+Validated: 1
 EndChar
 
 StartChar: uni0E4F.liga
@@ -10452,6 +10810,7 @@ LayerCount: 2
 Fore
 Refer: 286 3663 N 1 0 0 1 2 0 2
 Refer: 97 34 N 1 0 0 1 170 72 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E4F quotedbl
 EndChar
@@ -10502,6 +10861,7 @@ SplineSet
  268 39 294 67 294 100 c 0
  294 115 286 136 255 136 c 256
 EndSplineSet
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E24 uni0E45
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E24 uni0E32
@@ -10553,6 +10913,7 @@ SplineSet
  195 39 222 66 222 100 c 0
  222 122 206 136 182 136 c 256
 EndSplineSet
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E26 uni0E45
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E26 uni0E32
@@ -10563,7 +10924,7 @@ Encoding: 64257 64257 370
 Width: 566
 VWidth: 1507
 Flags: W
-HStem: -9 21G<100.283 126.5 388.283 413.5> 458 54<126.594 196 298 484> 597 107<519.103 616.957> 669 56<349.518 445.196>
+HStem: -9 21G<100.283 126.5 388.283 413.5> 458 54<147.537 196 298 484> 597 107<519.103 616.957> 669 56<349.518 460.384>
 VStem: 498 139<617.364 682.719>
 LayerCount: 2
 Fore
@@ -10588,11 +10949,12 @@ SplineSet
  462 725 469 701 469 686 c 0
  469 675 465 664 457 653 c 1xd8
 580 704 m 256xe8
- 538 704 498 677 498 641 c 0
- 498 624 514 597 558 597 c 256
- 603 597 637 627 637 661 c 0
- 637 678 624 704 580 704 c 256xe8
+ 624 704 637 678 637 661 c 0
+ 637 627 603 597 558 597 c 256
+ 514 597 498 624 498 641 c 0
+ 498 677 538 704 580 704 c 256xe8
 EndSplineSet
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" f i
 EndChar
@@ -10633,6 +10995,7 @@ SplineSet
  621 60 622 56 622 51 c 0
  622 32 606 -9 550 -9 c 0
 EndSplineSet
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" f l
 EndChar
@@ -10851,6 +11214,7 @@ SplineSet
  379 248 462 264 550 323 c 1
  660 128 l 1x83ffc0
 EndSplineSet
+Validated: 1
 LCarets2: 12 0 0 0 0 0 0 0 0 0 0 0 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" K t w o D e s i g n parenleft c parenright
 EndChar
@@ -10874,6 +11238,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 219 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A dotbelowcomb
 EndChar
@@ -10889,6 +11254,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 166 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a dotbelowcomb
 EndChar
@@ -10904,6 +11270,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 243 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A hookabovecomb
 EndChar
@@ -10919,6 +11286,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 160 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a hookabovecomb
 EndChar
@@ -10935,6 +11303,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 130 211 2
 Refer: 490 769 N 1 0 0 1 389 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex acutecomb
 EndChar
@@ -10951,6 +11320,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 318 136 2
 Refer: 203 710 N 1 0 0 1 48 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex acutecomb
 EndChar
@@ -10967,6 +11337,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 130 211 2
 Refer: 492 768 N 1 0 0 1 298 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex gravecomb
 EndChar
@@ -10983,6 +11354,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
 Refer: 492 768 N 1 0 0 1 214 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex gravecomb
 EndChar
@@ -10999,6 +11371,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 130 211 2
 Refer: 488 777 N 1 0 0 1 392 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex hookabovecomb
 EndChar
@@ -11015,6 +11388,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
 Refer: 488 777 N 1 0 0 1 311 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex hookabovecomb
 EndChar
@@ -11031,6 +11405,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 130 211 2
 Refer: 489 771 N 1 0 0 1 222 377 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex tildecomb
 EndChar
@@ -11047,6 +11422,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
 Refer: 489 771 N 1 0 0 1 139 166 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex tildecomb
 EndChar
@@ -11063,6 +11439,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 219 0 2
 Refer: 203 710 N 1 0 0 1 130 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex dotbelowcomb
 EndChar
@@ -11079,6 +11456,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 166 0 2
 Refer: 203 710 N 1 0 0 1 48 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex dotbelowcomb
 EndChar
@@ -11095,6 +11473,7 @@ Fore
 Refer: 205 728 N 1 0 0 1 134 211 2
 Refer: 490 769 N 1 0 0 1 295 362 2
 Refer: 34 65 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve acutecomb
 EndChar
@@ -11111,6 +11490,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 53 0 2
 Refer: 490 769 N 1 0 0 1 214 151 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve acutecomb
 EndChar
@@ -11127,6 +11507,7 @@ Fore
 Refer: 205 728 N 1 0 0 1 134 211 2
 Refer: 492 768 N 1 0 0 1 173 362 2
 Refer: 34 65 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve gravecomb
 EndChar
@@ -11143,6 +11524,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 53 0 2
 Refer: 492 768 N 1 0 0 1 90 151 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve gravecomb
 EndChar
@@ -11159,6 +11541,7 @@ Fore
 Refer: 205 728 N 1 0 0 1 134 211 2
 Refer: 488 777 N 1 0 0 1 276 362 2
 Refer: 34 65 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve hookabovecomb
 EndChar
@@ -11175,6 +11558,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 53 0 2
 Refer: 488 777 N 1 0 0 1 191 151 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve hookabovecomb
 EndChar
@@ -11191,6 +11575,7 @@ Fore
 Refer: 205 728 N 1 0 0 1 134 211 2
 Refer: 489 771 N 1 0 0 1 219 362 2
 Refer: 34 65 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve tildecomb
 EndChar
@@ -11207,6 +11592,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 53 0 2
 Refer: 489 771 N 1 0 0 1 136 151 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve tildecomb
 EndChar
@@ -11223,6 +11609,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 219 0 2
 Refer: 205 728 N 1 0 0 1 134 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve dotbelowcomb
 EndChar
@@ -11239,6 +11626,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 166 0 2
 Refer: 205 728 N 1 0 0 1 53 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve dotbelowcomb
 EndChar
@@ -11254,6 +11642,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 264 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E dotbelowcomb
 EndChar
@@ -11269,6 +11658,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 181 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e dotbelowcomb
 EndChar
@@ -11284,6 +11674,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 288 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E hookabovecomb
 EndChar
@@ -11299,6 +11690,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 161 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e hookabovecomb
 EndChar
@@ -11314,6 +11706,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 231 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E tildecomb
 EndChar
@@ -11329,6 +11722,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 104 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e tildecomb
 EndChar
@@ -11345,6 +11739,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 175 211 2
 Refer: 490 769 N 1 0 0 1 455 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex acutecomb
 EndChar
@@ -11361,6 +11756,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
 Refer: 490 769 N 1 0 0 1 329 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex acutecomb
 EndChar
@@ -11377,6 +11773,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 175 211 2
 Refer: 492 768 N 1 0 0 1 350 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex gravecomb
 EndChar
@@ -11393,6 +11790,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
 Refer: 492 768 N 1 0 0 1 223 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex gravecomb
 EndChar
@@ -11409,6 +11807,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 -6 0 3
 Refer: 203 710 N 1 0 0 1 175 211 2
 Refer: 488 777 N 1 0 0 1 452 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex hookabovecomb
 EndChar
@@ -11425,6 +11824,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
 Refer: 488 777 N 1 0 0 1 326 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex hookabovecomb
 EndChar
@@ -11441,6 +11841,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 175 211 2
 Refer: 489 771 N 1 0 0 1 264 362 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex tildecomb
 EndChar
@@ -11457,6 +11858,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 48 0 2
 Refer: 489 771 N 1 0 0 1 136 151 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex tildecomb
 EndChar
@@ -11473,6 +11875,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 264 0 2
 Refer: 203 710 N 1 0 0 1 175 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex dotbelowcomb
 EndChar
@@ -11489,6 +11892,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 181 0 2
 Refer: 203 710 N 1 0 0 1 48 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex dotbelowcomb
 EndChar
@@ -11504,6 +11908,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 47 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I hookabovecomb
 EndChar
@@ -11519,6 +11924,7 @@ LayerCount: 2
 Fore
 Refer: 479 305 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i hookabovecomb
 EndChar
@@ -11534,6 +11940,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 23 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I dotbelowcomb
 EndChar
@@ -11549,6 +11956,7 @@ LayerCount: 2
 Fore
 Refer: 74 105 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 20 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i dotbelowcomb
 EndChar
@@ -11564,6 +11972,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 329 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O dotbelowcomb
 EndChar
@@ -11579,6 +11988,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 226 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o dotbelowcomb
 EndChar
@@ -11594,6 +12004,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 353 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O hookabovecomb
 EndChar
@@ -11609,6 +12020,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 207 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o hookabovecomb
 EndChar
@@ -11625,6 +12037,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 240 211 2
 Refer: 490 769 N 1 0 0 1 520 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex acutecomb
 EndChar
@@ -11641,6 +12054,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 93 0 2
 Refer: 490 769 N 1 0 0 1 374 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex acutecomb
 EndChar
@@ -11657,6 +12071,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 240 211 2
 Refer: 492 768 N 1 0 0 1 399 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex gravecomb
 EndChar
@@ -11673,6 +12088,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 93 0 2
 Refer: 492 768 N 1 0 0 1 253 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex gravecomb
 EndChar
@@ -11689,6 +12105,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 240 211 2
 Refer: 488 777 N 1 0 0 1 493 347 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex hookabovecomb
 EndChar
@@ -11705,6 +12122,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 93 0 2
 Refer: 488 777 N 1 0 0 1 345 136 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex hookabovecomb
 EndChar
@@ -11721,6 +12139,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 240 211 2
 Refer: 489 771 N 1 0 0 1 329 362 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex tildecomb
 EndChar
@@ -11737,6 +12156,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 93 0 2
 Refer: 489 771 N 1 0 0 1 181 151 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex tildecomb
 EndChar
@@ -11753,6 +12173,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 329 0 2
 Refer: 203 710 N 1 0 0 1 240 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex dotbelowcomb
 EndChar
@@ -11769,6 +12190,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 226 0 2
 Refer: 203 710 N 1 0 0 1 93 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex dotbelowcomb
 EndChar
@@ -11784,6 +12206,7 @@ LayerCount: 2
 Fore
 Refer: 490 769 N 1 0 0 1 371 211 2
 Refer: 484 416 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn acutecomb
 EndChar
@@ -11799,6 +12222,7 @@ LayerCount: 2
 Fore
 Refer: 490 769 N 1 0 0 1 225 0 2
 Refer: 485 417 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn acutecomb
 EndChar
@@ -11814,6 +12238,7 @@ LayerCount: 2
 Fore
 Refer: 492 768 N 1 0 0 1 250 211 2
 Refer: 484 416 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn gravecomb
 EndChar
@@ -11829,6 +12254,7 @@ LayerCount: 2
 Fore
 Refer: 492 768 N 1 0 0 1 104 0 2
 Refer: 485 417 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn gravecomb
 EndChar
@@ -11844,6 +12270,7 @@ LayerCount: 2
 Fore
 Refer: 488 777 N 1 0 0 1 353 211 2
 Refer: 484 416 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn hookabovecomb
 EndChar
@@ -11859,6 +12286,7 @@ LayerCount: 2
 Fore
 Refer: 488 777 N 1 0 0 1 207 0 2
 Refer: 485 417 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn hookabovecomb
 EndChar
@@ -11874,6 +12302,7 @@ LayerCount: 2
 Fore
 Refer: 489 771 N 1 0 0 1 295 211 2
 Refer: 484 416 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn tildecomb
 EndChar
@@ -11889,6 +12318,7 @@ LayerCount: 2
 Fore
 Refer: 489 771 N 1 0 0 1 149 0 2
 Refer: 485 417 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn tildecomb
 EndChar
@@ -11904,6 +12334,7 @@ LayerCount: 2
 Fore
 Refer: 491 803 N 1 0 0 1 329 0 2
 Refer: 484 416 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn dotbelowcomb
 EndChar
@@ -11919,6 +12350,7 @@ LayerCount: 2
 Fore
 Refer: 491 803 N 1 0 0 1 226 0 2
 Refer: 485 417 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn dotbelowcomb
 EndChar
@@ -11934,6 +12366,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 274 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U dotbelowcomb
 EndChar
@@ -11949,6 +12382,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 196 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u dotbelowcomb
 EndChar
@@ -11964,6 +12398,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 297 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U hookabovecomb
 EndChar
@@ -11979,6 +12414,7 @@ LayerCount: 2
 Fore
 Refer: 488 777 N 1 0 0 1 175 0 2
 Refer: 86 117 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u hookabovecomb
 EndChar
@@ -11994,6 +12430,7 @@ LayerCount: 2
 Fore
 Refer: 490 769 N 1 0 0 1 317 211 2
 Refer: 486 431 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn acutecomb
 EndChar
@@ -12009,6 +12446,7 @@ LayerCount: 2
 Fore
 Refer: 490 769 N 1 0 0 1 194 0 2
 Refer: 487 432 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn acutecomb
 EndChar
@@ -12024,6 +12462,7 @@ LayerCount: 2
 Fore
 Refer: 492 768 N 1 0 0 1 256 211 2
 Refer: 486 431 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn gravecomb
 EndChar
@@ -12039,6 +12478,7 @@ LayerCount: 2
 Fore
 Refer: 492 768 N 1 0 0 1 74 0 2
 Refer: 487 432 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn gravecomb
 EndChar
@@ -12054,6 +12494,7 @@ LayerCount: 2
 Fore
 Refer: 488 777 N 1 0 0 1 297 211 2
 Refer: 486 431 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn hookabovecomb
 EndChar
@@ -12069,6 +12510,7 @@ LayerCount: 2
 Fore
 Refer: 488 777 N 1 0 0 1 175 0 2
 Refer: 487 432 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn hookabovecomb
 EndChar
@@ -12084,6 +12526,7 @@ LayerCount: 2
 Fore
 Refer: 489 771 N 1 0 0 1 241 211 2
 Refer: 486 431 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn tildecomb
 EndChar
@@ -12099,6 +12542,7 @@ LayerCount: 2
 Fore
 Refer: 489 771 N 1 0 0 1 119 0 2
 Refer: 487 432 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn tildecomb
 EndChar
@@ -12114,6 +12558,7 @@ LayerCount: 2
 Fore
 Refer: 491 803 N 1 0 0 1 274 0 2
 Refer: 486 431 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn dotbelowcomb
 EndChar
@@ -12129,6 +12574,7 @@ LayerCount: 2
 Fore
 Refer: 491 803 N 1 0 0 1 196 0 2
 Refer: 487 432 N 1 0 0 1 0 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn dotbelowcomb
 EndChar
@@ -12143,6 +12589,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 125 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y gravecomb
 EndChar
@@ -12158,6 +12605,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 33 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y gravecomb
 EndChar
@@ -12173,6 +12621,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 203 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y dotbelowcomb
 EndChar
@@ -12188,6 +12637,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 491 803 N 1 0 0 1 133 -104 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y dotbelowcomb
 EndChar
@@ -12203,6 +12653,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 226 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y hookabovecomb
 EndChar
@@ -12218,6 +12669,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 488 777 N 1 0 0 1 136 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y hookabovecomb
 EndChar
@@ -12233,6 +12685,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 170 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y tildecomb
 EndChar
@@ -12248,6 +12701,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 489 771 N 1 0 0 1 78 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y tildecomb
 EndChar
@@ -12257,14 +12711,14 @@ Encoding: 8355 8355 464
 Width: 720
 VWidth: 1507
 Flags: W
-HStem: -9 21G<75.2066 102.5> 262 59<108.376 128 237 511.624> 396 61<265 540.263> 665 60<410.942 604.177>
+HStem: -9 21G<75.2066 102.5> 262 59<96.9394 128 237 488.129> 396 61<265 516.381> 665 60<411.566 604.177>
 VStem: 682 96<485.584 591.149>
 LayerCount: 2
 Fore
 SplineSet
 682 521 m 0
  682 579 634 665 511 665 c 256
- 386 665 289 573 273 490 c 2
+ 386 665 293 572 273 490 c 2
  265 457 l 1
  561 457 l 1
  552 416 523 396 476 396 c 2
@@ -12277,13 +12731,14 @@ SplineSet
  170 12 134 -9 71 -9 c 1
  128 262 l 1
  53 262 l 1
- 67 322 125 321 142 321 c 1
+ 67 321 122 321 142 321 c 1
  178 490 l 2
- 202 620 364 725 525 725 c 0
- 645 725 770 665 778 534 c 0
+ 206 619 364 725 525 725 c 0
+ 645 725 770 665 778 534 c 1
  778 478 717 458 669 458 c 1
  669 458 682 495 682 521 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dong
@@ -12373,6 +12828,7 @@ SplineSet
  508 -90 481 -109 434 -109 c 2
  35 -109 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Abreve
@@ -12386,6 +12842,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 134 211 2
+Validated: 1
 EndChar
 
 StartChar: abreve
@@ -12399,6 +12856,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 62 0 2
+Validated: 1
 EndChar
 
 StartChar: Cacute
@@ -12412,6 +12870,7 @@ LayerCount: 2
 Fore
 Refer: 36 67 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 304 211 2
+Validated: 1
 EndChar
 
 StartChar: cacute
@@ -12425,6 +12884,7 @@ LayerCount: 2
 Fore
 Refer: 68 99 N 1 0 0 1 0 0 3
 Refer: 490 769 N 1 0 0 1 179 0 2
+Validated: 1
 EndChar
 
 StartChar: Ccaron
@@ -12438,6 +12898,7 @@ LayerCount: 2
 Fore
 Refer: 203 710 N -0.999939 0 0 -0.999939 918 1494 2
 Refer: 36 67 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: ccaron
@@ -12451,6 +12912,7 @@ LayerCount: 2
 Fore
 Refer: 203 710 N -0.999939 0 0 -0.999939 782 1284 2
 Refer: 68 99 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar
 
 StartChar: Dcroat
@@ -12529,6 +12991,7 @@ SplineSet
  706 103 545 3 387 3 c 2
  137 3 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dcroat
@@ -12609,6 +13072,7 @@ SplineSet
  197 166 l 2
  196 159 195 152 195 145 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Gbreve
@@ -12622,6 +13086,7 @@ LayerCount: 2
 Fore
 Refer: 40 71 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 179 211 2
+Validated: 1
 EndChar
 
 StartChar: gbreve
@@ -12635,6 +13100,7 @@ LayerCount: 2
 Fore
 Refer: 72 103 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 51 0 2
+Validated: 1
 EndChar
 
 StartChar: Itilde
@@ -12648,6 +13114,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 209 732 N 1 0 0 1 -8 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I tildecomb
 EndChar
@@ -12663,6 +13130,7 @@ LayerCount: 2
 Fore
 Refer: 479 305 N 1 0 0 1 0 0 3
 Refer: 209 732 N 1 0 0 1 -56 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i tildecomb
 EndChar
@@ -12678,6 +13146,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 0 0 3
 Refer: 206 729 S 1 0 0 1 28 132 2
+Validated: 1
 EndChar
 
 StartChar: dotlessi
@@ -12695,6 +13164,7 @@ SplineSet
  177 10 143 -9 84 -9 c 1
  185 466 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Scedilla
@@ -12708,6 +13178,7 @@ LayerCount: 2
 Fore
 Refer: 52 83 N 1 0 0 1 0 0 3
 Refer: 122 184 N 1 0 0 1 214 0 2
+Validated: 5
 EndChar
 
 StartChar: scedilla
@@ -12721,6 +13192,7 @@ LayerCount: 2
 Fore
 Refer: 84 115 N 1 0 0 1 0 0 2
 Refer: 122 184 N 1 0 0 1 122 0 2
+Validated: 5
 EndChar
 
 StartChar: Utilde
@@ -12734,6 +13206,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 3
 Refer: 209 732 N 1 0 0 1 241 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U tildecomb
 EndChar
@@ -12749,6 +13222,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 209 732 N 1 0 0 1 119 0 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u tildecomb
 EndChar
@@ -12824,6 +13298,7 @@ SplineSet
  908 212 690 -9 437 -9 c 0
  248 -9 126 120 126 283 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: ohorn
@@ -12897,6 +13372,7 @@ SplineSet
  679 140 510 -9 335 -9 c 0
  205 -9 107 75 107 201 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Uhorn
@@ -12962,6 +13438,7 @@ SplineSet
  733 228 l 2
  698 76 523 -9 383 -9 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uhorn
@@ -13025,6 +13502,7 @@ SplineSet
  213 164 l 2
  211 155 210 147 210 139 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: hookabovecomb
@@ -13050,6 +13528,7 @@ SplineSet
  220 645 175 651 175 675 c 0
  175 701 218 746 289 746 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: tildecomb
@@ -13076,6 +13555,7 @@ SplineSet
  229 596 216 594 206 594 c 0
  182 594 168 610 168 628 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: acutecomb
@@ -13094,6 +13574,7 @@ SplineSet
  258 561 225 558 179 558 c 1
  295 690 l 2
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: dotbelowcomb
@@ -13112,6 +13593,7 @@ SplineSet
  156 -135 129 -173 75 -173 c 256
  41 -173 16 -156 16 -131 c 0
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: gravecomb
@@ -13130,6 +13612,7 @@ SplineSet
  312 719 338 709 345 690 c 2
  404 558 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Agrave
@@ -13142,6 +13625,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 0 0 3
 Refer: 492 768 N 1 0 0 1 140 211 2
+Validated: 1
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A gravecomb
 EndChar
@@ -13151,7 +13635,8 @@ Encoding: 960 960 494
 Width: 269
 VWidth: 1507
 Flags: W
-HStem: -9 534<84 291 291 291>
+HStem: -9 21G<88.2979 112> 505 20G<263 286.754>
+VStem: 84 207
 LayerCount: 2
 Fore
 SplineSet
@@ -13160,12 +13645,11 @@ SplineSet
  191 54 l 2
  182 11 140 -9 84 -9 c 1
  185 461 l 2
-185 461 m 2
- 194 502 235 525 291 525 c 1
- 191 54 l 2
- 182 11 140 -9 84 -9 c 1
- 185 461 l 2
+291 525 m 1
+291 525 m 1
+291 525 m 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni03A9
