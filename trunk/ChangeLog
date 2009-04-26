@@ -1,3 +1,12 @@
+2009-04-26  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 09-SP-Sutsakhorn/SPSutsakhorn*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions,
+	    fix self-intersections)
+	  - Remove unused 'nonunicode-3-1-bd' glyph
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
 2009-04-25  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 08-SP-Sida/SPSida*.sfd:
