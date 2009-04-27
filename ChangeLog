@@ -1,3 +1,10 @@
+2009-04-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 13-SP-Hanuman/SPHanuman*.sfd:
+	  - Find & fix problems (round to int, add extremas)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
 2009-04-26  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 12-SP-Aphaimanee/SPAphaimanee*.sfd:
