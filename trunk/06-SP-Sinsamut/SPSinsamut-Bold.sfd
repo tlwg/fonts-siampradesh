@@ -13,13 +13,14 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 375 425136265 5892016]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1157457032
-ModificationTime: 1240637508
+ModificationTime: 1241002611
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -464,7 +465,7 @@ ShortTable: cvt  6
   716
   792
 EndShort
-LangName: 1033 "" "" "" "" "" "" "" "TH Kodchasal Bold is a trademark of Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group.." "IPTH" "Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group." "AS;Aksaramatee is a trademark of Kansuda Peamprajakpong,  AS Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+-----------------66)  Tel. 0 1562 1554+AA0ACgAA-e-mail : noppavorn@yahoo.com+AA0ACgANAAoA-Typeface (c) Kansuda Peamprajakpong.+AA0ACgAA-Data (c) Kansuda Peamprajakpongl.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com" "Font Computer Program License Agreement+AAoACgAA-Reserved Font Names for this Font Computer Program:+AAoA-TH Krub, TH Krub Italic, TH Krub Bold, TH Krub Bold Italic,+AAoA-TH Niramit AS, TH Niramit AS Italic, TH Niramit AS Bold, TH Niramit AS Bold Italic,+AAoA-TH Kodchasal, TH Kodchasal Italic, TH Kodchasal Bold, TH Kodchasal Bold Italic,+AAoA-TH Sarabun PSK, TH Sarabun PSK Italic, TH Sarabun PSK Bold, TH Sarabun PSK Bold Italic,+AAoA-TH K2D July8, TH K2D July8 Italic, TH K2D July8 Bold, TH K2D July8 Bold Italic,+AAoA-TH Mali Grade 6, TH Mali Grade 6 Italic, TH Mali Grade 6 Bold, TH Mali Grade 6 Bold Italic,+AAoA-TH Chakra Petch, TH Chakra Petch Italic, TH Chakra Petch Bold, TH Chakra Petch Bold Italic,+AAoA-TH Baijam, TH Baijam Italic, TH Baijam Bold, TH Baijam Bold Italic,+AAoA-TH KoHo, TH KoHo Italic, TH KoHo Bold, TH KoHo Bold Italic,+AAoA-TH Fah Kwang, TH Fah Kwang Italic, TH Fah Kwang Bold, TH Fah Kwang Bold Italic.+AAoACgAA-This Font Computer Program is the copyright of the Department of Intellectual Property (DIP), Ministry of Commerce and the Software Industry Promotion Agency (Public Organization) (SIPA) +AAoACgAA-The purposes of this Font Computer Program License are to stimulate worldwide development of cooperative font creation, to benefit for academic, to share and to develop in partnership with others.+AAoACgAA-Terms and Conditions of the Font Computer Program+AAoACgAA(1) Allow to use without any charges and allow to reproduce, study, adapt and distribute this Font Computer Program. Neither the original version nor adapted version of Font Computer Program may be sold by itself, except bundled and/or sold with any computer program.+AAoACgAA(2) If you wish to adapt this Font Computer Program, you must notify copyright owners (DIP & SIPA) in writing.+AAoACgAA(3) No adapted version of Font Computer Program may use the Reserved Font Name(s), the name(s) of the copyright owners and the author(s) of the Font Computer Program must not be used to promote or advertise any adapted version, except obtaining written permission from copyright owners and the author(s).+AAoACgAA(4) The adapted version of Font Computer Program must be released under the term and condition of this license.+AAoACgAA-DISCLAIMER+AAoA-THE FONT COMPUTER PROGRAM AND RELATED FILES ARE PROVIDED +IBwA-AS IS+IB0A AND WITHOUT WARRANTY OF ANY KIND.  NO GUARANTEES ARE MADE THAT THIS FONT COMPUTER PROGRAM WILL WORK AS EXPECTED OR WILL BE DEVELOPED FURTHUR IN ANY SPECIFIC WAY.  THERE IS NO OFFER OR GUARANTEE OF TECHNICAL SUPPORT." "" "" "SP Sinsamut" "Bold" "SP Sinsamut Bold" 
+LangName: 1033 "" "" "" "" "" "" "" "TH Kodchasal Bold is a trademark of Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group.." "IPTH" "Mrs. Kansuda Peamprajakpong, AS Aksaramatee Group." "AS;Aksaramatee is a trademark of Kansuda Peamprajakpong,  AS Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+------------------66)  Tel. 0 1562 1554+AA0ACgAA-e-mail : noppavorn@yahoo.com+AA0ACgANAAoA-Typeface (c) Kansuda Peamprajakpong.+AA0ACgAA-Data (c) Kansuda Peamprajakpongl.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com" "Font Computer Program License Agreement+AAoACgAA-Reserved Font Names for this Font Computer Program:+AAoA-TH Krub, TH Krub Italic, TH Krub Bold, TH Krub Bold Italic,+AAoA-TH Niramit AS, TH Niramit AS Italic, TH Niramit AS Bold, TH Niramit AS Bold Italic,+AAoA-TH Kodchasal, TH Kodchasal Italic, TH Kodchasal Bold, TH Kodchasal Bold Italic,+AAoA-TH Sarabun PSK, TH Sarabun PSK Italic, TH Sarabun PSK Bold, TH Sarabun PSK Bold Italic,+AAoA-TH K2D July8, TH K2D July8 Italic, TH K2D July8 Bold, TH K2D July8 Bold Italic,+AAoA-TH Mali Grade 6, TH Mali Grade 6 Italic, TH Mali Grade 6 Bold, TH Mali Grade 6 Bold Italic,+AAoA-TH Chakra Petch, TH Chakra Petch Italic, TH Chakra Petch Bold, TH Chakra Petch Bold Italic,+AAoA-TH Baijam, TH Baijam Italic, TH Baijam Bold, TH Baijam Bold Italic,+AAoA-TH KoHo, TH KoHo Italic, TH KoHo Bold, TH KoHo Bold Italic,+AAoA-TH Fah Kwang, TH Fah Kwang Italic, TH Fah Kwang Bold, TH Fah Kwang Bold Italic.+AAoACgAA-This Font Computer Program is the copyright of the Department of Intellectual Property (DIP), Ministry of Commerce and the Software Industry Promotion Agency (Public Organization) (SIPA) +AAoACgAA-The purposes of this Font Computer Program License are to stimulate worldwide development of cooperative font creation, to benefit for academic, to share and to develop in partnership with others.+AAoACgAA-Terms and Conditions of the Font Computer Program+AAoACgAA(1) Allow to use without any charges and allow to reproduce, study, adapt and distribute this Font Computer Program. Neither the original version nor adapted version of Font Computer Program may be sold by itself, except bundled and/or sold with any computer program.+AAoACgAA(2) If you wish to adapt this Font Computer Program, you must notify copyright owners (DIP & SIPA) in writing.+AAoACgAA(3) No adapted version of Font Computer Program may use the Reserved Font Name(s), the name(s) of the copyright owners and the author(s) of the Font Computer Program must not be used to promote or advertise any adapted version, except obtaining written permission from copyright owners and the author(s).+AAoACgAA(4) The adapted version of Font Computer Program must be released under the term and condition of this license.+AAoACgAA-DISCLAIMER+AAoA-THE FONT COMPUTER PROGRAM AND RELATED FILES ARE PROVIDED +IBwA-AS IS+IB0A AND WITHOUT WARRANTY OF ANY KIND.  NO GUARANTEES ARE MADE THAT THIS FONT COMPUTER PROGRAM WILL WORK AS EXPECTED OR WILL BE DEVELOPED FURTHUR IN ANY SPECIFIC WAY.  THERE IS NO OFFER OR GUARANTEE OF TECHNICAL SUPPORT." "" "" "SP Sinsamut" "Bold" "SP Sinsamut Bold" 
 LangName: 1054 "" "" "" "" "" "" "" "" "" "" "" "" "" "+DioOMQ4NDg0OMg4tDhkOOA4NDjIOFQ5DDisOSQ5DDgoOSQ5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwACgAKDgoONw5IDi0OFw41DkgOKg4HDicOGQ5EDicOSQ4qDjMOKw4jDjEOGg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkACgAA-TH Krub, TH Krub Italic, TH Krub Bold, TH Krub Bold Italic,+AAoA-TH Niramit AS, TH Niramit AS Italic, TH Niramit AS Bold, TH Niramit AS Bold Italic,+AAoA-TH Kodchasal, TH Kodchasal Italic, TH Kodchasal Bold, TH Kodchasal Bold Italic,+AAoA-TH Sarabun PSK, TH Sarabun PSK Italic, TH Sarabun PSK Bold, TH Sarabun PSK Bold Italic,+AAoA-TH K2D July8, TH K2D July8 Italic, TH K2D July8 Bold, TH K2D July8 Bold Italic,+AAoA-TH Mali Grade 6, TH Mali Grade 6 Italic, TH Mali Grade 6 Bold, TH Mali Grade 6 Bold Italic,+AAoA-TH Chakra Petch, TH Chakra Petch Italic, TH Chakra Petch Bold, TH Chakra Petch Bold Italic,+AAoA-TH Baijam, TH Baijam Italic, TH Baijam Bold, TH Baijam Bold Italic,+AAoA-TH KoHo, TH KoHo Italic, TH KoHo Bold, TH KoHo Bold Italic,+AAoA-TH Fah Kwang, TH Fah Kwang Italic, TH Fah Kwang Bold, TH Fah Kwang Bold Italic.+AAoACg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkA +DkAOGw5HDhkOJQ40DgIOKg40DhcOGA40DkwOIw5IDicOIQ4BDjEOGQ4CDi0OBw4BDiMOIQ4XDiMOMQ4eDiIOTA4qDjQOGQ4XDjIOBw4bDjEODQ4NDjIA +DgEOIw4wDhcOIw4nDgcOHg4yDhMONA4KDiIOTAAA +DkEOJQ4wDioOMw4ZDjEOAQ4HDjIOGQ4qDkgOBw5ADioOIw40DiEOLQ44DhUOKg4yDisOAQ4jDiMOIQ4LDi0OHw4VDkwOQQ4nDiMOTA5BDisOSA4HDgoOMg4VDjQA (+Di0OBw4EDkwOAQ4yDiMOIQ4rDjIOCg4Z)+AAoACg4qDjEODQ4NDjIOLQ4ZDjgODQ4yDhUOQw4rDkkOQw4KDkkOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhkONQ5J +DiEONQ4nDjEOFQ4WDjgOGw4jDjAOKg4HDgQOTA5ADh4ONw5IDi0OAQ5IDi0OQw4rDkkOQA4BDjQOFA4EDicOMg4hDiMOSA4nDiEOIQ43Di0OQw4ZDgEOMg4jDioOIw5JDjIOBw4qDiMOIw4EDkwOHw4tDhkOFQ5MDkMOGQ4nDgcOAQ4nDkkOMg4H +DiMOJw4hDhcOMQ5JDgcOQA4eDjcOSA4tDhsOIw4wDkIOIg4KDhkOTA4XDjIOBw4UDkkOMg4ZDgEOMg4jDigONg4BDikOMg5BDiUOMA4BDjIOIw5BDhoOSA4HDhsOMQ4ZDgQOJw4yDiEOIw45DkkOQQ4lDjAOHg4xDhIOGQ4yDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQAKAAoOAg5JDi0OAQ4zDisOGQ4UDkEOJQ4wDkAOBw43DkgOLQ4ZDkQOAg4CDi0OBw4qDjEODQ4NDjIOLQ4ZDjgODQ4yDhUOQw4rDkkOQw4KDkkOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhkONQ5JAAoACgAA(1)  +Di0OGQ44Dg0OMg4VDkMOKw5JDkMOCg5JDkQOFA5JDkIOFA4iDkQOIQ5IDgQONA4UDgQOSA4yDkMOCg5JDggOSA4yDiIOQQ4lDjAOLQ4ZDjgODQ4yDhUOQw4rDkkOFw4zDgsOSQ4zDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQ5EDhQOSQAA +DiMOJw4hDhcOMQ5JDgcOLQ4ZDjgODQ4yDhUOQw4rDkkORA4UDkkOKA42DgEOKQ4y +DhQOMQ4UDkEOGw4lDgcA +DkEOJQ4wDkEOCA4BDggOSA4yDiIOQw4rDkkOQQ4BDkgOHA45DkkOLQ43DkgOGQ5EDhQOSQAA +DhcOMQ5JDgcOGQ41DkkOCA4wDhUOSQ4tDgcORA4hDkgOGQ4zDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQ5BDiUOMA5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOFw41DkgOFA4xDhQOQQ4bDiUOBw4tDi0OAQ4IDjMOKw4ZDkgOMg4i +DkAOJw5JDhkOQQ4VDkgOQA4bDkcOGQ4BDjIOIw4IDjMOKw4ZDkgOMg4iDiMOJw4hDhUONA4UDkQOGw4BDjEOGg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4tDjcOSA4ZAAoACgAA(2)  +DgEOSA4tDhkOFA4zDkAOGQ40DhkOAQ4yDiMOFA4xDhQOQQ4bDiUOBw5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwA +DggOMA4VDkkOLQ4HDkEOCA5JDgcOQw4rDkkOQA4IDkkOMg4CDi0OBw4lDjQOAg4qDjQOFw4YDjQOTA4XDiMOMg4aDkAOGw5HDhkOJQ4yDiIOJQ4xDgEOKQ4TDkwOLQ4xDgEOKQ4jAAoACgAA(3)  +DkAOIQ43DkgOLQ4UDjEOFA5BDhsOJQ4HDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQ5BDiUOSQ4n +DisOSQ4yDiEOHA45DkkOFA4xDhQOQQ4bDiUOBw5DDgoOSQ4KDjcOSA4tDh8OLQ4ZDhUOTA5ADhQONA4h +DiMOJw4hDhcOMQ5JDgcOKw5JDjIOIQ5DDgoOSQ4KDjcOSA4tDkAOCA5JDjIOAg4tDgcOJQ40DgIOKg40DhcOGA40DkwOQQ4lDjAOHA45DkkOKg4jDkkOMg4HDioOIw4jDgQOTA5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkA +DkMOGQ4BDjIOIw5CDgYOKQ4TDjIOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhcONQ5IDkQOFA5JDhQOMQ4UDkEOGw4lDgcA +DkAOJw5JDhkOQQ4VDkgORA4UDkkOIw4xDhoOLQ4ZDjgODQ4yDhUOQA4bDkcOGQ4lDjIOIg4lDjEOAQ4pDhMOTA4tDjEOAQ4pDiMOCA4yDgEOQA4IDkkOMg4CDi0OBw4lDjQOAg4qDjQOFw4YDjQOTAAKAAoA(4)  +DhwOOQ5JDhQOMQ4UDkEOGw4lDgcOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOGQ41DkkOCA4wDhUOSQ4tDgcOIg40DhkOIg4tDiEOQw4rDkkOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5M +DhcONQ5IDhQOMQ4UDkEOGw4lDgcOAg42DkkOGQ5DDisOIQ5IDiEONQ4CDkkOLQ4BDjMOKw4ZDhQOQQ4lDjAOQA4HDjcOSA4tDhkORA4CDioOMQ4NDg0OMg4tDhkOOA4NDjIOFQ5DDisOSQ5DDgoOSQ5CDhsOIw5BDgEOIw4hDkAOCg5IDhkOQA4UDjUOIg4nDgEOMQ4ZDgEOMQ4aDgIOSQ4tDgEOMw4rDhkOFAAA +DkEOJQ4wDkAOBw43DkgOLQ4ZDkQOAg4CDi0OBw4qDjEODQ4NDjIOLQ4ZDjgODQ4yDhUOGQ41DkkOQA4KDkgOGQ4BDjEOGQAKAAoOAg5JDi0OFg43Di0OKg40DhcOGA40AAoOQA4IDkkOMg4CDi0OBw4lDjQOAg4qDjQOFw4YDjQOTA5EDiEOSA4jDjEOGg4bDiMOMA4BDjEOGQ4BDjIOIw5DDgoOSQ4HDjIOGQ5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOQQ4lDjAORA4fDiUOTA4XDjUOSA5ADgEONQ5IDiIOJw4CDkkOLQ4HDhkONQ5JDkEOFQ5IDi0OIg5IDjIOBw5DDhQA  +DkQOIQ5IDiEONQ4BDjIOIw4jDjEOGg4jDi0OBw4nDkgOMg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkOCA4wDhcOMw4HDjIOGQ5EDhQOSQ4tDiIOSA4yDgcOFw41DkgOBA4nDiMOCA4wDkAOGw5HDhkA +DkEOJQ4wDkQOIQ5IDiEONQ4BDjIOIw4jDjEOGg4jDi0OBw4nDkgOMg4IDjAOIQ41DgEOMg4jDh4OMQ4SDhkOMg4VDkgOLQ4iDi0OFA5DDhkOLQ4ZDjIOBA4V +DkQOIQ5IDiEONQ5BDiUOMA5EDiEOSA4jDjEOGg4jDi0OBw4nDkgOMg4IDjAOIQ41DgEOMg4jDkMOKw5JDgQOMw5BDhkOMA4ZDjMOFw4yDgcOQA4XDgQOGQ40DgQOKg4zDisOIw4xDhoOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhkONQ5J" 
 GaspTable: 3 8 2 16 1 65535 3
 Encoding: Custom
@@ -474,7 +475,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 24 7
+WinInfo: 24 24 7
 BeginPrivate: 6
 BlueValues 31 [-13 1 527 535 594 610 716 730]
 ForceBold 4 true
@@ -4855,13 +4856,38 @@ Encoding: 199 199 136
 Width: 701
 VWidth: 1473
 Flags: W
-HStem: -224 67<259.578 376.799> -8 110<289.978 483.812> 610 110<286.474 493.22>
-VStem: 43 112<243.172 476.718> 379 99<-154.137 -95.4497>
+HStem: -224 67<259.578 376.799> 610 110<286.474 493.032>
+VStem: 43 112<243.643 476.718> 379 99<-154.137 -95.4497>
 LayerCount: 2
 Fore
-Refer: 36 67 N 1 0 0 1 0 0 2
-Refer: 122 184 N 1 0 0 1 199 0 2
-Validated: 32773
+SplineSet
+43 358 m 0
+ 43 568 183 720 397 720 c 0
+ 420 720 543 719 648 613 c 0
+ 658 603 664 590 664 575 c 0
+ 664 543 642 518 610 518 c 0
+ 584 518 570 532 567 535 c 0
+ 520 585 463 610 396 610 c 0
+ 290 610 155 559 155 357 c 0
+ 155 182 280 102 384 102 c 0
+ 453 102 521 134 567 180 c 0
+ 578 192 598 196 611 196 c 0
+ 641 196 663 165 663 144 c 0
+ 663 140 658 114 647 102 c 0
+ 567 17 472 -2 419 -7 c 1
+ 376 -47 l 1
+ 383 -46 390 -46 396 -46 c 0
+ 446 -46 478 -80 478 -118 c 0
+ 478 -164 436 -224 344 -224 c 0
+ 301 -224 266 -212 237 -197 c 1
+ 270 -136 l 1
+ 291 -153 328 -157 339 -157 c 0
+ 356 -157 379 -151 379 -125 c 0
+ 379 -97 357 -89 287 -84 c 1
+ 339 -5 l 1
+ 122 22 43 230 43 358 c 0
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: Egrave
@@ -5470,13 +5496,34 @@ Encoding: 231 231 168
 Width: 596
 VWidth: 1473
 Flags: W
-HStem: -224 67<184.578 301.799> -13 102<236.634 415.879> 424 103<240.608 421.036>
-VStem: 49 106<169.918 338.741> 304 99<-154.137 -95.4497>
+HStem: -224 67<184.578 301.799> -13 102<338 416.741> 424 103<240.608 421.036>
+VStem: 49 106<167.27 338.741> 304 99<-154.137 -95.4497>
 LayerCount: 2
 Fore
-Refer: 68 99 N 1 0 0 1 0 0 2
-Refer: 122 184 N 1 0 0 1 124 0 2
-Validated: 32773
+SplineSet
+403 -118 m 0
+ 403 -164 361 -224 269 -224 c 0
+ 226 -224 191 -212 162 -197 c 1
+ 195 -136 l 1
+ 216 -153 253 -157 264 -157 c 0
+ 281 -157 304 -151 304 -125 c 0
+ 304 -97 282 -89 212 -84 c 1
+ 263 -6 l 1
+ 162 14 49 81 49 252 c 0
+ 49 433 181 527 331 527 c 0
+ 449 527 552 460 552 402 c 0
+ 552 366 520 350 500 350 c 0
+ 448 350 453 424 331 424 c 0
+ 239 424 155 368 155 253 c 0
+ 155 122 262 89 327 89 c 0
+ 451 89 446 164 499 164 c 0
+ 519 164 552 149 552 112 c 0
+ 552 49 440 -11 338 -13 c 1
+ 301 -47 l 1
+ 308 -46 315 -46 321 -46 c 0
+ 371 -46 403 -80 403 -118 c 0
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: egrave
@@ -14064,7 +14111,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -3 0 2
 Refer: 205 728 N 1 0 0 1 150 147 2
 Refer: 493 769 N 1 0 0 1 256 368 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve acutecomb
 EndChar
@@ -14081,7 +14128,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 2
 Refer: 205 728 N 1 0 0 1 88 -37 2
 Refer: 493 769 N 1 0 0 1 189 180 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve acutecomb
 EndChar
@@ -14098,7 +14145,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -3 0 2
 Refer: 205 728 N 1 0 0 1 149 150 2
 Refer: 495 768 N 1.00714 0 0 1.01978 137 364 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve gravecomb
 EndChar
@@ -14115,7 +14162,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 91 -40 2
 Refer: 495 768 N 1 0 0 1 85 175 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve gravecomb
 EndChar
@@ -14132,7 +14179,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -4 0 2
 Refer: 205 728 N 1 0 0 1 143 150 2
 Refer: 491 777 N 1 0 0 1 91 221 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve hookabovecomb
 EndChar
@@ -14149,7 +14196,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 2
 Refer: 205 728 N 1 0 0 1 88 -27 2
 Refer: 491 777 N 1 0 0 1 37 47 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve hookabovecomb
 EndChar
@@ -14166,7 +14213,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 205 728 N 1 0 0 1 143 138 2
 Refer: 492 771 N 1 0 0 1 149 385 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve tildecomb
 EndChar
@@ -14183,7 +14230,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 88 -37 2
 Refer: 492 771 N 1 0 0 1 94 203 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve tildecomb
 EndChar
@@ -14200,7 +14247,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 233 0 2
 Refer: 205 728 N 1 0 0 1 149 153 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve dotbelowcomb
 EndChar
@@ -14217,7 +14264,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 171 0 2
 Refer: 205 728 N 1 0 0 1 85 -34 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve dotbelowcomb
 EndChar
@@ -15022,7 +15069,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 2
 Refer: 493 769 N 1 0 0 1 220 200 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn acutecomb
 EndChar
@@ -15038,7 +15085,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 180 15 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn acutecomb
 EndChar
@@ -15054,7 +15101,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 2
 Refer: 495 768 N 1 0 0 1 186 200 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn gravecomb
 EndChar
@@ -15070,7 +15117,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 0 0 2
 Refer: 495 768 N 1 0 0 1 146 15 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn gravecomb
 EndChar
@@ -15086,7 +15133,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 2
 Refer: 491 777 N 1 0 0 1 118 57 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn hookabovecomb
 EndChar
@@ -15102,7 +15149,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 55 -131 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn hookabovecomb
 EndChar
@@ -15118,7 +15165,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 2
 Refer: 492 771 N 1 0 0 1 159 200 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn tildecomb
 EndChar
@@ -15134,7 +15181,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 0 0 2
 Refer: 492 771 N 1 0 0 1 115 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn tildecomb
 EndChar
@@ -15150,7 +15197,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 236 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn dotbelowcomb
 EndChar
@@ -15166,7 +15213,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 181 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn dotbelowcomb
 EndChar
@@ -15391,7 +15438,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 29 0 2
 Refer: 205 728 N 1 0 0 1 181 150 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: abreve
@@ -15405,7 +15452,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 2
 Refer: 205 728 N 1 0 0 1 91 -40 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Cacute
@@ -15599,7 +15646,7 @@ LayerCount: 2
 Fore
 Refer: 40 71 N 1 0 0 1 0 0 2
 Refer: 205 728 N 1 0 0 1 178 153 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: gbreve
@@ -15613,7 +15660,7 @@ LayerCount: 2
 Fore
 Refer: 72 103 N 1 0 0 1 0 0 2
 Refer: 205 728 N 1 0 0 1 115 -40 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Itilde
@@ -15695,13 +15742,40 @@ Encoding: 350 350 483
 Width: 674
 VWidth: 1473
 Flags: W
-HStem: -224 67<243.578 360.799> -9 112<216.431 468.198> 303 112<201.506 476.814> 611 111<210.335 469.709>
-VStem: 41 106<457.137 560.896> 363 99<-154.137 -95.4497> 532 110<155.691 260.603>
+HStem: -224 67<243.578 360.799> -8 111<216.171 321> 303 112<201.506 476.814> 611 111<210.335 469.709>
+VStem: 41 106<457.137 560.896> 363 99<-154.137 -95.4497> 532 110<154.242 260.603>
 LayerCount: 2
 Fore
-Refer: 52 83 N 1 0 0 1 0 0 2
-Refer: 122 184 N 1 0 0 1 183 0 2
-Validated: 32773
+SplineSet
+321 -8 m 1
+ 145 0 41 92 41 145 c 0
+ 41 178 70 201 98 201 c 0
+ 107 201 131 198 144 174 c 1
+ 183 118 286 103 343 103 c 0
+ 419 103 532 121 532 211 c 0
+ 532 285 430 303 343 303 c 0
+ 218 303 41 353 41 504 c 0
+ 41 664 203 722 343 722 c 0
+ 517 722 643 629 643 568 c 0
+ 643 535 616 512 588 512 c 0
+ 578 512 554 515 539 541 c 0
+ 512 589 409 611 343 611 c 0
+ 249 611 147 590 147 505 c 0
+ 147 433 245 415 343 415 c 0
+ 465 415 642 374 642 211 c 0
+ 642 66 512 10 406 -5 c 1
+ 360 -47 l 1
+ 367 -46 374 -46 380 -46 c 0
+ 430 -46 462 -80 462 -118 c 0
+ 462 -164 420 -224 328 -224 c 0
+ 285 -224 250 -212 221 -197 c 1
+ 254 -136 l 1
+ 275 -153 312 -157 323 -157 c 0
+ 340 -157 363 -151 363 -125 c 0
+ 363 -97 341 -89 271 -84 c 1
+ 321 -8 l 1
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: scedilla
@@ -15709,13 +15783,40 @@ Encoding: 351 351 484
 Width: 534
 VWidth: 1473
 Flags: W
-HStem: -224 67<168.578 285.799> -10 94<197.68 358.126> 438 97<188.043 349.651>
-VStem: 44 108<122.152 177.497> 63 109<351.632 420.47> 288 99<-154.137 -95.4497> 382 107<107.008 179.771>
+HStem: -224 67<168.578 285.799> 438 97<188.043 349.651>
+VStem: 44 108<122.686 177.497> 63 109<351.632 420.47> 288 99<-154.137 -95.4497> 382 107<107.142 179.701>
 LayerCount: 2
 Fore
-Refer: 84 115 N 1 0 0 1 0 0 2
-Refer: 122 184 N 1 0 0 1 108 0 2
-Validated: 32773
+SplineSet
+489 415 m 0xd4
+ 489 382 457 363 434 363 c 0
+ 414 363 394 372 385 385 c 0
+ 357 424 306 438 262 438 c 0
+ 223 438 172 425 172 387 c 0
+ 172 334 291 311 321 302 c 0
+ 486 253 489 185 489 146 c 0xd4
+ 489 68 425 14 331 -4 c 1
+ 285 -47 l 1
+ 292 -46 299 -46 305 -46 c 0
+ 355 -46 387 -80 387 -118 c 0
+ 387 -164 345 -224 253 -224 c 0
+ 210 -224 175 -212 146 -197 c 1
+ 179 -136 l 1
+ 200 -153 237 -157 248 -157 c 0
+ 265 -157 288 -151 288 -125 c 0
+ 288 -97 266 -89 196 -84 c 1
+ 245 -9 l 1
+ 110 -2 44 93 44 133 c 0
+ 44 152 55 187 97 187 c 0
+ 111 187 139 182 152 153 c 0xe8
+ 169 112 221 84 277 84 c 0
+ 320 84 382 102 382 143 c 0
+ 382 208 223 226 164 250 c 0
+ 92 278 63 335 63 382 c 0
+ 63 475 160 535 278 535 c 0
+ 406 535 489 464 489 415 c 0xd4
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: Utilde

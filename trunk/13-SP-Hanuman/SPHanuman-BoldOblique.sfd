@@ -13,13 +13,14 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 375 425136265 7870191]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158373020
-ModificationTime: 1240813908
+ModificationTime: 1241005062
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -474,7 +475,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 24 7
+WinInfo: 24 24 7
 BeginPrivate: 7
 BlueValues 39 [-29 0 534 547 613 624 702 708 714 739]
 OtherBlues 11 [-204 -198]
@@ -3079,7 +3080,7 @@ EndSplineSet
 Fore
 Refer: 261 3634 N 1 0 0 1 0 0 2
 Refer: 284 3661 N 1 0 0 1 -284 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: quotedbl
@@ -3176,7 +3177,7 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 285 3662 N 1 0 0 1 -37 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: exclamdown
@@ -4130,7 +4131,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 493 769 N 1 0 0 1 310 58 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A acutecomb
 EndChar
@@ -4145,7 +4146,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 124 87 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Atilde
@@ -4158,7 +4159,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 492 771 N 1 0 0 1 278 67 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A tildecomb
 EndChar
@@ -4174,7 +4175,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 107 168 N 1 0 0 1 264 104 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Aring
@@ -4252,13 +4253,35 @@ Encoding: 199 199 136
 Width: 903
 VWidth: 1533
 Flags: W
-HStem: -241 39<358.71 469.921> -117 40<472 488.017> -23 58<387.215 592.9> -20 20<452.984 523> 679 60<489.606 696.072>
-VStem: 95 144<188.123 416.972> 489 105<-186.625 -120.222>
+HStem: -241 39<358.71 469.921> -117 40<472 488.017> -22 57<508 591.652> 679 60<489.606 696.072>
+VStem: 95 144<186.948 416.972> 489 105<-186.625 -120.222>
 LayerCount: 2
 Fore
-Refer: 36 67 N 1 0 0 1 0 0 3
-Refer: 122 184 N 1 0 0 1 357 0 2
-Validated: 98309
+SplineSet
+606 679 m 0
+ 402 679 239 499 239 299 c 0
+ 239 150 337 35 492 35 c 0
+ 608 35 699 116 750 207 c 1
+ 902 207 l 1
+ 778 22 616 -17 508 -22 c 1
+ 472 -77 l 1
+ 487 -77 495 -72 510 -72 c 0
+ 539 -72 594 -85 594 -133 c 0
+ 594 -197 518 -241 433 -241 c 0
+ 380 -241 356 -237 324 -221 c 1
+ 347 -173 l 1
+ 368 -194 402 -202 422 -202 c 0
+ 468 -202 489 -167 489 -144 c 0
+ 489 -128 476 -117 442 -117 c 0
+ 425 -117 406 -120 384 -126 c 1
+ 452 -22 l 1
+ 232 -10 95 129 95 297 c 0
+ 95 510 302 739 618 739 c 0
+ 817 739 920 631 955 509 c 1
+ 801 509 l 1
+ 787 572 741 679 606 679 c 0
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: Egrave
@@ -4272,7 +4295,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 495 768 N 1 0 0 1 287 58 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E gravecomb
 EndChar
@@ -4288,7 +4311,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 493 769 N 1 0 0 1 236 55 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E acutecomb
 EndChar
@@ -4303,7 +4326,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 66 83 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Edieresis
@@ -4317,7 +4340,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 107 168 N 1 0 0 1 224 107 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Igrave
@@ -4331,7 +4354,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 5 0 2
 Refer: 495 768 N 1 0 0 1 18 44 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I gravecomb
 EndChar
@@ -4347,7 +4370,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 5 0 2
 Refer: 493 769 N 1 0 0 1 8 58 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I acutecomb
 EndChar
@@ -4363,7 +4386,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 5 0 2
 Refer: 203 710 N 1 0 0 1 -178 87 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Idieresis
@@ -4377,7 +4400,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 5 0 2
 Refer: 107 168 N 1 0 0 1 -35 112 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Eth
@@ -4426,7 +4449,7 @@ LayerCount: 2
 Fore
 Refer: 47 78 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 258 57 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Ograve
@@ -4440,7 +4463,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 356 58 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O gravecomb
 EndChar
@@ -4456,7 +4479,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 345 54 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O acutecomb
 EndChar
@@ -4472,7 +4495,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 166 83 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Otilde
@@ -4486,7 +4509,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 316 72 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O tildecomb
 EndChar
@@ -4502,7 +4525,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 316 126 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: multiply
@@ -4579,7 +4602,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 2
 Refer: 495 768 N 1 0 0 1 337 54 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U gravecomb
 EndChar
@@ -4595,7 +4618,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 2
 Refer: 493 769 N 1 0 0 1 314 54 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U acutecomb
 EndChar
@@ -4611,7 +4634,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 135 87 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Udieresis
@@ -4625,7 +4648,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 2
 Refer: 107 168 N 1 0 0 1 281 109 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Yacute
@@ -4639,7 +4662,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 2
 Refer: 493 769 N 1 0 0 1 282 57 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y acutecomb
 EndChar
@@ -4720,7 +4743,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 179 -117 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a gravecomb
 EndChar
@@ -4736,7 +4759,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 158 -123 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a acutecomb
 EndChar
@@ -4752,7 +4775,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -29 -86 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: atilde
@@ -4766,7 +4789,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 135 -120 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a tildecomb
 EndChar
@@ -4782,7 +4805,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 120 -66 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: aring
@@ -4796,7 +4819,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 207 730 N 1 0 0 1 176 -37 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: ae
@@ -4848,13 +4871,36 @@ Encoding: 231 231 168
 Width: 693
 VWidth: 1533
 Flags: W
-HStem: -241 39<272.71 383.921> -117 40<386 402.017> -20 20<366.984 437> -15 59<283.053 452.682> 491 59<359.13 524.652>
+HStem: -241 39<272.71 383.921> -117 40<386 402.017> -15 59<284.433 370> 491 59<359.13 524.652>
 VStem: 81 131<123.044 325.433> 403 105<-186.625 -120.222> 590 128<360 417.885>
 LayerCount: 2
 Fore
-Refer: 68 99 N 1 0 0 1 0 0 2
-Refer: 122 184 N 1 0 0 1 271 0 2
-Validated: 98309
+SplineSet
+446 491 m 0
+ 313 491 212 363 212 214 c 0
+ 212 114 263 44 367 44 c 0
+ 444 44 507 87 558 173 c 1
+ 686 173 l 1
+ 626 52 523 4 431 -10 c 1
+ 386 -77 l 1
+ 401 -77 409 -72 424 -72 c 0
+ 453 -72 508 -85 508 -133 c 0
+ 508 -197 432 -241 347 -241 c 0
+ 294 -241 270 -237 238 -221 c 1
+ 261 -173 l 1
+ 282 -194 316 -202 336 -202 c 0
+ 382 -202 403 -167 403 -144 c 0
+ 403 -128 390 -117 356 -117 c 0
+ 339 -117 320 -120 298 -126 c 1
+ 370 -15 l 1
+ 367 -15 365 -15 362 -15 c 0
+ 205 -15 81 77 81 220 c 0
+ 81 399 257 550 462 550 c 0
+ 570 550 698 513 718 360 c 1
+ 590 360 l 1
+ 568 461 513 491 446 491 c 0
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: egrave
@@ -4868,7 +4914,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 2
 Refer: 495 768 N 1 0 0 1 219 -118 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e gravecomb
 EndChar
@@ -4884,7 +4930,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 2
 Refer: 493 769 N 1 0 0 1 192 -109 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e acutecomb
 EndChar
@@ -4900,7 +4946,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 11 -80 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: edieresis
@@ -4914,7 +4960,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 0 0 2
 Refer: 107 168 N 1 0 0 1 155 -63 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: igrave
@@ -4928,7 +4974,7 @@ LayerCount: 2
 Fore
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 495 768 N 1 0 0 1 -11 -83 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i gravecomb
 EndChar
@@ -4944,7 +4990,7 @@ LayerCount: 2
 Fore
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 493 769 N 1 0 0 1 -20 -87 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i acutecomb
 EndChar
@@ -4960,7 +5006,7 @@ LayerCount: 2
 Fore
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 -199 -52 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: idieresis
@@ -4974,7 +5020,7 @@ LayerCount: 2
 Fore
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 107 168 N 1 0 0 1 -58 -11 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: eth
@@ -5023,7 +5069,7 @@ LayerCount: 2
 Fore
 Refer: 79 110 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 152 -120 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: ograve
@@ -5037,7 +5083,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 205 -112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o gravecomb
 EndChar
@@ -5053,7 +5099,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 196 -109 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o acutecomb
 EndChar
@@ -5069,7 +5115,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 5 -84 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: otilde
@@ -5083,7 +5129,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 166 -112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o tildecomb
 EndChar
@@ -5099,7 +5145,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 150 -66 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: divide
@@ -5179,7 +5225,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 186 -112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u gravecomb
 EndChar
@@ -5195,7 +5241,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 181 -112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u acutecomb
 EndChar
@@ -5211,7 +5257,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -8 -80 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: udieresis
@@ -5225,7 +5271,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 124 -63 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: yacute
@@ -5239,7 +5285,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 143 -117 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y acutecomb
 EndChar
@@ -5284,7 +5330,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 107 168 N 1 0 0 1 133 -66 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Lslash
@@ -5458,7 +5504,7 @@ LayerCount: 2
 Fore
 Refer: 52 83 N 1 0 0 1 6 0 2
 Refer: 204 711 N 1 0 0 1 261 124 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: scaron
@@ -5472,7 +5518,7 @@ LayerCount: 2
 Fore
 Refer: 84 115 N 1 0 0 1 0 0 2
 Refer: 204 711 N 1 0 0 1 152 -51 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Ydieresis
@@ -5486,7 +5532,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 -2 0 2
 Refer: 107 168 N 1 0 0 1 251 107 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Zcaron
@@ -5499,7 +5545,7 @@ LayerCount: 2
 Fore
 Refer: 59 90 N 1 0 0 1 0 0 2
 Refer: 204 711 N 1 0 0 1 251 109 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: zcaron
@@ -5512,7 +5558,7 @@ LayerCount: 2
 Fore
 Refer: 91 122 N 1 0 0 1 0 0 3
 Refer: 204 711 N 1 0 0 1 170 -48 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: florin
@@ -7900,7 +7946,7 @@ EndSplineSet
 Fore
 Refer: 261 3634 N 1 0 0 1 0 0 2
 Refer: 284 3661 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Substitution2: "Single Substitution lookup 22 subtable" uni0E33.alt1
 Substitution2: "Single Substitution lookup 22 subtable" uni0E33.alt1
 EndChar
@@ -10393,7 +10439,7 @@ HStem: 690 44<-613 -267> 833 46<-526.742 -322.383>
 LayerCount: 2
 Fore
 Refer: 263 3636 N 1 0 0 1 -184 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E35.alt1
@@ -10405,7 +10451,7 @@ HStem: 690 44<-628 -282> 833 46<-541.742 -337.459>
 LayerCount: 2
 Fore
 Refer: 264 3637 N 1 0 0 1 -199 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E36.alt1
@@ -10418,7 +10464,7 @@ VStem: -114 59<794.381 885.582>
 LayerCount: 2
 Fore
 Refer: 265 3638 N 1 0 0 1 -199 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E37.alt1
@@ -10430,7 +10476,7 @@ HStem: 690 44<-628 -282> 833 46<-545.024 -381>
 LayerCount: 2
 Fore
 Refer: 266 3639 N 1 0 0 1 -199 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E48.alt1
@@ -10443,7 +10489,7 @@ VStem: -265 164
 LayerCount: 2
 Fore
 Refer: 350 63242 N 1 0 0 1 -203 0 2
-Validated: 98305
+Validated: 32769
 Substitution2: "Single Substitution lookup 22 subtable" uni0E48.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E48.alt3
 EndChar
@@ -10458,7 +10504,7 @@ VStem: -447 51<834.61 909.177> -288 58<842.584 919.791>
 LayerCount: 2
 Fore
 Refer: 351 63243 N 1 0 0 1 -179 0 2
-Validated: 98305
+Validated: 32769
 Substitution2: "Single Substitution lookup 22 subtable" uni0E49.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E49.alt3
 EndChar
@@ -10473,7 +10519,7 @@ VStem: -611 90<741.214 816.646> -425 49<750.9 824.094> -260 97<786.129 898.598>
 LayerCount: 2
 Fore
 Refer: 352 63244 N 1 0 0 1 -147 0 2
-Validated: 98305
+Validated: 32769
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4A.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4A.alt3
 EndChar
@@ -10487,7 +10533,7 @@ HStem: 797 60<-438 -330 -197 -89>
 LayerCount: 2
 Fore
 Refer: 353 63245 N 1 0 0 1 -169 0 2
-Validated: 98305
+Validated: 32769
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4B.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4B.alt3
 EndChar
@@ -10502,7 +10548,7 @@ VStem: -337 60<744.308 834.372> -157 53<758.735 847.691>
 LayerCount: 2
 Fore
 Refer: 354 63246 N 1 0 0 1 -154 0 2
-Validated: 98305
+Validated: 32769
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4C.alt3
 Substitution2: "Single Substitution lookup 22 subtable" uni0E4C.alt3
 EndChar
@@ -10736,7 +10782,7 @@ VStem: -496 54<775.222 869.09> -315 58<790.381 882.659> -82 117<860.656 938>
 LayerCount: 2
 Fore
 Refer: 260 3633 N 1 0 0 1 -230 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E4D.alt1
@@ -10749,7 +10795,7 @@ VStem: -287 53<756.727 858.634> -66 53<775.59 878.072>
 LayerCount: 2
 Fore
 Refer: 284 3661 N 1 0 0 1 -170 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E47.alt1
@@ -10762,7 +10808,7 @@ VStem: -590 102<757.924 857.927> -382 51<766.985 799> -272 48<771.198 838.347> -
 LayerCount: 2
 Fore
 Refer: 278 3655 N 1 0 0 1 -104 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E48.alt3
@@ -10775,7 +10821,7 @@ VStem: -210 157
 LayerCount: 2
 Fore
 Refer: 279 3656 N 1 0 0 1 -200 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E49.alt3
@@ -10788,7 +10834,7 @@ VStem: -302 47<1108.67 1180.93> -159 52<1116.67 1187.76>
 LayerCount: 2
 Fore
 Refer: 280 3657 N 1 0 0 1 -153 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E4A.alt3
@@ -10801,7 +10847,7 @@ VStem: -360 83<1025.94 1096.07> -191 45<1033.11 1101.48> -43 86<1063.24 1169.17>
 LayerCount: 2
 Fore
 Refer: 281 3658 N 1 0 0 1 -153 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E4B.alt3
@@ -10814,7 +10860,7 @@ VStem: -293 332
 LayerCount: 2
 Fore
 Refer: 282 3659 N 1 0 0 1 -200 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E4C.alt3
@@ -10827,7 +10873,7 @@ VStem: -332 54<965.466 1048.27> -170 49<976.617 1059.72>
 LayerCount: 2
 Fore
 Refer: 283 3660 N 1 0 0 1 -200 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E38.alt1
@@ -10840,7 +10886,7 @@ VStem: -423 56<-484.7 -383.045> -219 83<-465.656 -364.602>
 LayerCount: 2
 Fore
 Refer: 267 3640 N 1 0 0 1 -26 -238 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E39.alt1
@@ -10853,7 +10899,7 @@ VStem: -622 56<-484.7 -382.215> -418 83<-466.406 -364.602>
 LayerCount: 2
 Fore
 Refer: 268 3641 N 1 0 0 1 -26 -238 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E3A.alt1
@@ -10866,7 +10912,7 @@ VStem: -297 170<-420.372 -331.133>
 LayerCount: 2
 Fore
 Refer: 269 3642 N 1 0 0 1 -50 -238 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0E0E.alt1
@@ -11280,7 +11326,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 494 803 N 1 0 0 1 227 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A dotbelowcomb
 EndChar
@@ -11296,7 +11342,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 147 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a dotbelowcomb
 EndChar
@@ -11312,7 +11358,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 491 777 N 1 0 0 1 317 14 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A hookabovecomb
 EndChar
@@ -11328,7 +11374,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 159 -159 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" a hookabovecomb
 EndChar
@@ -11345,7 +11391,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 115 84 2
 Refer: 493 769 N 1 0 0 1 575 186 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex acutecomb
 EndChar
@@ -11362,7 +11408,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 -28 -87 2
 Refer: 493 769 N 1 0 0 1 443 6 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex acutecomb
 EndChar
@@ -11379,7 +11425,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 101 86 2
 Refer: 495 768 N 1 0 0 1 431 189 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex gravecomb
 EndChar
@@ -11396,7 +11442,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -17 -84 2
 Refer: 495 768 N 1 0 0 1 302 9 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex gravecomb
 EndChar
@@ -11413,7 +11459,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 123 86 2
 Refer: 491 777 N 1 0 0 1 492 140 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex hookabovecomb
 EndChar
@@ -11430,7 +11476,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 -28 -83 2
 Refer: 491 777 N 1 0 0 1 371 -37 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex hookabovecomb
 EndChar
@@ -11446,7 +11492,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 113 84 2
 Refer: 492 771 N 1 0 0 1 310 273 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex tildecomb
 EndChar
@@ -11463,7 +11509,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -21 -84 2
 Refer: 492 771 N 1 0 0 1 167 113 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex tildecomb
 EndChar
@@ -11480,7 +11526,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 494 803 N 1 0 0 1 256 0 2
 Refer: 203 710 N 1 0 0 1 115 84 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Acircumflex dotbelowcomb
 EndChar
@@ -11497,7 +11543,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 138 3 2
 Refer: 203 710 N 1 0 0 1 -28 -87 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" acircumflex dotbelowcomb
 EndChar
@@ -11514,7 +11560,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 205 728 N 1 0 0 1 297 123 2
 Refer: 493 769 N 1 0 0 1 377 235 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve acutecomb
 EndChar
@@ -11531,7 +11577,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 156 -44 2
 Refer: 493 769 N 1 0 0 1 241 78 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve acutecomb
 EndChar
@@ -11548,7 +11594,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 205 728 N 1 0 0 1 291 127 2
 Refer: 495 768 N 1 0 0 1 308 255 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve gravecomb
 EndChar
@@ -11565,7 +11611,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 159 -48 2
 Refer: 495 768 N 1 0 0 1 173 78 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve gravecomb
 EndChar
@@ -11582,7 +11628,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 205 728 N 1 0 0 1 302 124 2
 Refer: 491 777 N 1 0 0 1 342 192 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve hookabovecomb
 EndChar
@@ -11599,7 +11645,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 152 -48 2
 Refer: 491 777 N 1 0 0 1 187 23 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve hookabovecomb
 EndChar
@@ -11616,7 +11662,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 205 728 N 1 0 0 1 297 135 2
 Refer: 492 771 N 1 0 0 1 322 273 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve tildecomb
 EndChar
@@ -11633,7 +11679,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 149 -48 2
 Refer: 492 771 N 1 0 0 1 158 83 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve tildecomb
 EndChar
@@ -11650,7 +11696,7 @@ Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 494 803 N 1 0 0 1 262 0 2
 Refer: 205 728 N 1 0 0 1 305 144 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Abreve dotbelowcomb
 EndChar
@@ -11667,7 +11713,7 @@ Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 133 0 2
 Refer: 205 728 N 1 0 0 1 147 -52 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" abreve dotbelowcomb
 EndChar
@@ -11683,7 +11729,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 198 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E dotbelowcomb
 EndChar
@@ -11699,7 +11745,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 -6 0 2
 Refer: 494 803 N 1 0 0 1 163 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e dotbelowcomb
 EndChar
@@ -11715,7 +11761,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 491 777 N 1 0 0 1 264 12 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E hookabovecomb
 EndChar
@@ -11731,7 +11777,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 -6 0 2
 Refer: 491 777 N 1.00574 0 0 0.962341 193 -129 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e hookabovecomb
 EndChar
@@ -11746,7 +11792,7 @@ LayerCount: 2
 Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 492 771 N 1 0 0 1 219 49 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" E tildecomb
 EndChar
@@ -11762,7 +11808,7 @@ LayerCount: 2
 Fore
 Refer: 70 101 N 1 0 0 1 -6 0 2
 Refer: 492 771 N 1 0 0 1 140 -120 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" e tildecomb
 EndChar
@@ -11779,7 +11825,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 67 83 2
 Refer: 493 769 N 1 0 0 1 541 182 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex acutecomb
 EndChar
@@ -11796,7 +11842,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 0 -83 2
 Refer: 493 769 N 1 0 0 1 483 2 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex acutecomb
 EndChar
@@ -11813,7 +11859,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 5 0 2
 Refer: 203 710 N 1 0 0 1 51 80 2
 Refer: 495 768 N 1 0 0 1 379 189 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex gravecomb
 EndChar
@@ -11830,7 +11876,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 3 0 2
 Refer: 203 710 N 1 0 0 1 -12 -87 2
 Refer: 495 768 N 1 0 0 1 334 11 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex gravecomb
 EndChar
@@ -11847,7 +11893,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 46 83 2
 Refer: 491 777 N 1 0 0 1 437 140 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex hookabovecomb
 EndChar
@@ -11864,7 +11910,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 -9 -83 2
 Refer: 491 777 N 1 0 0 1 368 -37 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex hookabovecomb
 EndChar
@@ -11880,7 +11926,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 46 84 2
 Refer: 492 771 N 1 0 0 1 245 271 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex tildecomb
 EndChar
@@ -11897,7 +11943,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 -6 0 2
 Refer: 203 710 N 1 0 0 1 -9 -83 2
 Refer: 492 771 N 1 0 0 1 186 113 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex tildecomb
 EndChar
@@ -11914,7 +11960,7 @@ Fore
 Refer: 38 69 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 202 0 2
 Refer: 203 710 N 1 0 0 1 61 89 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ecircumflex dotbelowcomb
 EndChar
@@ -11931,7 +11977,7 @@ Fore
 Refer: 70 101 N 1 0 0 1 -6 0 2
 Refer: 494 803 N 1 0 0 1 161 0 2
 Refer: 203 710 N 1 0 0 1 -3 -86 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ecircumflex dotbelowcomb
 EndChar
@@ -11947,7 +11993,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 5 0 2
 Refer: 491 777 N 1 0 0 1 2 9 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I hookabovecomb
 EndChar
@@ -11963,7 +12009,7 @@ LayerCount: 2
 Fore
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 491 777 N 1 0 0 1 -17 -112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i hookabovecomb
 EndChar
@@ -11979,7 +12025,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 5 0 2
 Refer: 494 803 N 1 0 0 1 -41 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I dotbelowcomb
 EndChar
@@ -11995,7 +12041,7 @@ LayerCount: 2
 Fore
 Refer: 74 105 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 -46 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i dotbelowcomb
 EndChar
@@ -12011,7 +12057,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 296 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O dotbelowcomb
 EndChar
@@ -12027,7 +12073,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 172 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o dotbelowcomb
 EndChar
@@ -12043,7 +12089,7 @@ LayerCount: 2
 Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 347 9 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" O hookabovecomb
 EndChar
@@ -12059,7 +12105,7 @@ LayerCount: 2
 Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 186 -159 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" o hookabovecomb
 EndChar
@@ -12076,7 +12122,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 141 92 2
 Refer: 493 769 N 1 0 0 1 626 187 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex acutecomb
 EndChar
@@ -12093,7 +12139,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 2
 Refer: 203 710 N 1 0 0 1 -2 -86 2
 Refer: 493 769 N 1 0 0 1 468 8 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex acutecomb
 EndChar
@@ -12110,7 +12156,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 5 0 2
 Refer: 203 710 N 1 0 0 1 166 84 2
 Refer: 495 768 N 1 0 0 1 503 187 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex gravecomb
 EndChar
@@ -12127,7 +12173,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 5 0 2
 Refer: 203 710 N 1 0 0 1 9 -83 2
 Refer: 495 768 N 1 0 0 1 359 6 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex gravecomb
 EndChar
@@ -12144,7 +12190,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 152 86 2
 Refer: 491 777 N 1 0 0 1 547 138 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex hookabovecomb
 EndChar
@@ -12161,7 +12207,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 -3 -81 2
 Refer: 491 777 N 1 0 0 1 374 -41 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex hookabovecomb
 EndChar
@@ -12178,7 +12224,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 150 90 2
 Refer: 492 771 N 1 0 0 1 347 281 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex tildecomb
 EndChar
@@ -12195,7 +12241,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 203 710 N 1 0 0 1 5 -86 2
 Refer: 492 771 N 1 0 0 1 198 86 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex tildecomb
 EndChar
@@ -12212,7 +12258,7 @@ Fore
 Refer: 48 79 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 304 0 2
 Refer: 203 710 N 1 0 0 1 170 112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ocircumflex dotbelowcomb
 EndChar
@@ -12229,7 +12275,7 @@ Fore
 Refer: 80 111 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 170 0 2
 Refer: 203 710 N 1 0 0 1 5 -86 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ocircumflex dotbelowcomb
 EndChar
@@ -12245,7 +12291,7 @@ LayerCount: 2
 Fore
 Refer: 487 416 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 357 78 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn acutecomb
 EndChar
@@ -12261,7 +12307,7 @@ LayerCount: 2
 Fore
 Refer: 488 417 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 193 -117 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn acutecomb
 EndChar
@@ -12277,7 +12323,7 @@ LayerCount: 2
 Fore
 Refer: 487 416 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 370 78 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn gravecomb
 EndChar
@@ -12293,7 +12339,7 @@ LayerCount: 2
 Fore
 Refer: 488 417 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 205 -115 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn gravecomb
 EndChar
@@ -12309,7 +12355,7 @@ LayerCount: 2
 Fore
 Refer: 487 416 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 347 9 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn hookabovecomb
 EndChar
@@ -12325,7 +12371,7 @@ LayerCount: 2
 Fore
 Refer: 488 417 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 187 -158 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn hookabovecomb
 EndChar
@@ -12341,7 +12387,7 @@ LayerCount: 2
 Fore
 Refer: 487 416 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 308 80 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn tildecomb
 EndChar
@@ -12357,7 +12403,7 @@ LayerCount: 2
 Fore
 Refer: 488 417 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 158 -115 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn tildecomb
 EndChar
@@ -12373,7 +12419,7 @@ LayerCount: 2
 Fore
 Refer: 487 416 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 304 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Ohorn dotbelowcomb
 EndChar
@@ -12389,7 +12435,7 @@ LayerCount: 2
 Fore
 Refer: 488 417 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 166 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" ohorn dotbelowcomb
 EndChar
@@ -12405,7 +12451,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 2
 Refer: 494 803 N 1 0 0 1 274 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U dotbelowcomb
 EndChar
@@ -12421,7 +12467,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 138 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u dotbelowcomb
 EndChar
@@ -12437,7 +12483,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 2
 Refer: 491 777 N 1 0 0 1 340 17 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U hookabovecomb
 EndChar
@@ -12453,7 +12499,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 193 -159 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u hookabovecomb
 EndChar
@@ -12469,7 +12515,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 322 55 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn acutecomb
 EndChar
@@ -12485,7 +12531,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 -6 0 2
 Refer: 493 769 N 1 0 0 1 166 -117 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn acutecomb
 EndChar
@@ -12501,7 +12547,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 337 52 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn gravecomb
 EndChar
@@ -12517,7 +12563,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 -6 0 2
 Refer: 495 768 N 1 0 0 1 189 -112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn gravecomb
 EndChar
@@ -12533,7 +12579,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 334 5 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn hookabovecomb
 EndChar
@@ -12549,7 +12595,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 -6 0 2
 Refer: 491 777 N 1 0 0 1 189 -159 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn hookabovecomb
 EndChar
@@ -12565,7 +12611,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 290 57 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn tildecomb
 EndChar
@@ -12581,7 +12627,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 -6 0 2
 Refer: 492 771 N 1 0 0 1 129 -112 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn tildecomb
 EndChar
@@ -12597,7 +12643,7 @@ LayerCount: 2
 Fore
 Refer: 489 431 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 278 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Uhorn dotbelowcomb
 EndChar
@@ -12613,7 +12659,7 @@ LayerCount: 2
 Fore
 Refer: 490 432 N 1 0 0 1 -6 0 2
 Refer: 494 803 N 1 0 0 1 146 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uhorn dotbelowcomb
 EndChar
@@ -12629,7 +12675,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 495 768 N 1 0 0 1 314 51 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y gravecomb
 EndChar
@@ -12645,7 +12691,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 2
 Refer: 495 768 N 1 0 0 1 173 -110 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y gravecomb
 EndChar
@@ -12661,7 +12707,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 212 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y dotbelowcomb
 EndChar
@@ -12677,7 +12723,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 494 803 N 1 0 0 1 121 -95 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y dotbelowcomb
 EndChar
@@ -12693,7 +12739,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 313 8 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y hookabovecomb
 EndChar
@@ -12709,7 +12755,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 491 777 N 1 0 0 1 204 -163 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y hookabovecomb
 EndChar
@@ -12724,7 +12770,7 @@ LayerCount: 2
 Fore
 Refer: 58 89 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 255 49 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" Y tildecomb
 EndChar
@@ -12739,7 +12785,7 @@ LayerCount: 2
 Fore
 Refer: 90 121 N 1 0 0 1 0 0 3
 Refer: 492 771 N 1 0 0 1 149 -109 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" y tildecomb
 EndChar
@@ -12829,7 +12875,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 205 728 N 1 0 0 1 304 144 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: abreve
@@ -12843,7 +12889,7 @@ LayerCount: 2
 Fore
 Refer: 66 97 N 1 0 0 1 0 0 3
 Refer: 205 728 N 1 0 0 1 152 -43 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Cacute
@@ -12857,7 +12903,7 @@ LayerCount: 2
 Fore
 Refer: 36 67 N 1 0 0 1 0 0 3
 Refer: 493 769 N 1 0 0 1 337 81 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: cacute
@@ -12871,7 +12917,7 @@ LayerCount: 2
 Fore
 Refer: 68 99 N 1 0 0 1 -6 0 2
 Refer: 493 769 N 1 0 0 1 175 -115 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Ccaron
@@ -12885,7 +12931,7 @@ LayerCount: 2
 Fore
 Refer: 36 67 N 1 0 0 1 0 0 3
 Refer: 204 711 N 1 0 0 1 325 123 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: ccaron
@@ -12899,7 +12945,7 @@ LayerCount: 2
 Fore
 Refer: 68 99 N 1 0 0 1 -6 0 2
 Refer: 204 711 N 1 0 0 1 170 -51 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Dcroat
@@ -12986,7 +13032,7 @@ LayerCount: 2
 Fore
 Refer: 40 71 N 1 0 0 1 2 0 2
 Refer: 205 728 N 1 0 0 1 334 152 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: gbreve
@@ -13000,7 +13046,7 @@ LayerCount: 2
 Fore
 Refer: 72 103 N 1 0 0 1 0 0 2
 Refer: 205 728 N 1 0 0 1 164 -41 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: Itilde
@@ -13014,7 +13060,7 @@ LayerCount: 2
 Fore
 Refer: 42 73 N 1 0 0 1 5 0 3
 Refer: 209 732 N 1 0 0 1 -18 89 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" I tildecomb
 EndChar
@@ -13030,7 +13076,7 @@ LayerCount: 2
 Fore
 Refer: 482 305 N 1 0 0 1 0 0 2
 Refer: 209 732 N 1 0 0 1 -51 -34 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" i tildecomb
 EndChar
@@ -13083,13 +13129,39 @@ Encoding: 350 350 483
 Width: 789
 VWidth: 1533
 Flags: W
-HStem: -241 39<282.71 393.921> -117 40<396 412.017> -25 60<312.44 519.325> -20 20<376.984 447> 678 58<395.492 618.537>
-VStem: 79 147<118.714 236> 153 140<487.352 581.192> 413 105<-186.625 -120.222> 650 142<154.29 354.928> 696 135<524 608.074>
+HStem: -241 39<282.71 393.921> -117 40<396 412.017> -25 60<310.015 374> 678 58<395.492 618.537>
+VStem: 79 147<119.996 236> 153 140<487.352 581.192> 413 105<-186.625 -120.222> 650 142<153.723 354.928> 696 135<524 608.074>
 LayerCount: 2
 Fore
-Refer: 52 83 N 1 0 0 1 0 0 3
-Refer: 122 184 N 1 0 0 1 281 0 2
-Validated: 98309
+SplineSet
+514 678 m 0xf680
+ 362 678 293 591 293 534 c 0xf680
+ 293 382 792 460 792 242 c 0
+ 792 140 703 -10 431 -24 c 1
+ 396 -77 l 1
+ 411 -77 419 -72 434 -72 c 0
+ 463 -72 518 -85 518 -133 c 0
+ 518 -197 442 -241 357 -241 c 0
+ 304 -241 280 -237 248 -221 c 1
+ 271 -173 l 1
+ 292 -194 326 -202 346 -202 c 0
+ 392 -202 413 -167 413 -144 c 0
+ 413 -128 400 -117 366 -117 c 0
+ 349 -117 330 -120 308 -126 c 1
+ 374 -25 l 1
+ 216 -20 79 57 79 212 c 0
+ 79 220 79 228 80 236 c 1
+ 228 236 l 1
+ 226 226 226 215 226 205 c 0
+ 226 115 288 35 400 35 c 0
+ 554 35 650 124 650 201 c 0xfb
+ 650 358 153 279 153 498 c 0
+ 153 641 317 736 524 736 c 0
+ 704 736 831 669 831 524 c 1
+ 696 524 l 1
+ 696 569 682 678 514 678 c 0xf680
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: scedilla
@@ -13097,13 +13169,40 @@ Encoding: 351 351 484
 Width: 636
 VWidth: 1533
 Flags: W
-HStem: -241 39<231.71 342.921> -117 40<345 361.017> -20 20<325.984 396> -18 59<245.205 437.225> 488 59<307.504 486.145>
-VStem: 69 115<105.697 178> 139 117<351.132 439.666> 362 105<-186.625 -120.222> 507 121<104.993 189.496> 542 116<353 430.095>
+HStem: -241 39<231.71 342.921> -117 40<345 361.017> -18 59<246.164 327> 488 59<307.504 486.145>
+VStem: 69 115<105.697 178> 139 117<352.405 439.666> 362 105<-186.625 -120.222> 507 121<103.535 189.496> 542 116<353 430.095>
 LayerCount: 2
 Fore
-Refer: 84 115 N 1 0 0 1 0 0 3
-Refer: 122 184 N 1 0 0 1 230 0 2
-Validated: 98309
+SplineSet
+410 488 m 0xf680
+ 294 488 256 431 256 393 c 0xf680
+ 256 344 314 335 354 324 c 0
+ 436 302 628 305 628 184 c 0
+ 628 79 533 4 387 -14 c 1
+ 345 -77 l 1
+ 360 -77 368 -72 383 -72 c 0
+ 412 -72 467 -85 467 -133 c 0
+ 467 -197 391 -241 306 -241 c 0
+ 253 -241 229 -237 197 -221 c 1
+ 220 -173 l 1
+ 241 -194 275 -202 295 -202 c 0
+ 341 -202 362 -167 362 -144 c 0
+ 362 -128 349 -117 315 -117 c 0
+ 298 -117 279 -120 257 -126 c 1
+ 327 -18 l 1
+ 324 -18 320 -18 317 -18 c 0
+ 201 -18 75 32 69 178 c 1
+ 184 178 l 1
+ 186 118 221 41 327 41 c 0
+ 434 41 507 90 507 153 c 0xfb
+ 507 205 420 215 320 229 c 0
+ 210 244 139 285 139 363 c 0
+ 139 510 326 547 421 547 c 0
+ 566 547 658 478 658 353 c 1
+ 542 353 l 1
+ 540 419 504 488 410 488 c 0xf680
+EndSplineSet
+Validated: 3073
 EndChar
 
 StartChar: Utilde
@@ -13117,7 +13216,7 @@ LayerCount: 2
 Fore
 Refer: 54 85 N 1 0 0 1 0 0 2
 Refer: 209 732 N 1 0 0 1 287 86 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" U tildecomb
 EndChar
@@ -13133,7 +13232,7 @@ LayerCount: 2
 Fore
 Refer: 86 117 N 1 0 0 1 0 0 3
 Refer: 209 732 N 1 0 0 1 133 -92 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" u tildecomb
 EndChar
@@ -13375,7 +13474,7 @@ LayerCount: 2
 Fore
 Refer: 34 65 N 1 0 0 1 -6 0 2
 Refer: 495 768 N 1 0 0 1 316 61 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" A gravecomb
 EndChar

@@ -13,13 +13,14 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
 XUID: [1021 375 425136265 11227877]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1157457519
-ModificationTime: 1240566191
+ModificationTime: 1241001572
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -207,7 +208,7 @@ MacName: 0 0 12 "All Features"
 MacFeat: 1 0 0
 MacName: 0 0 16 "Common Ligatures"
 EndMacFeatures
-LangName: 1033 "" "" "" "" "" "" "" "TH Niramit AS Italic is a trademark of Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group." "IPTH" "Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group" "AS;Aksaramatee is a trademark of Pairoj Peamprajakpong & Borwon Joradol, AS-Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+---------------66)  Tel. 0 1832 6682, 0 9824 6600+AA0ACgAA-e-mail : noppavorn@yahoo.com , borwornjoradol@yahoo.com+AA0ACgANAAoA-Typeface (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-Data (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com, borwornjoradol@yahoo.com" "Font Computer Program License Agreement+AAoACgAA-Reserved Font Names for this Font Computer Program:+AAoA-TH Krub, TH Krub Italic, TH Krub Bold, TH Krub Bold Italic,+AAoA-TH Niramit AS, TH Niramit AS Italic, TH Niramit AS Bold, TH Niramit AS Bold Italic,+AAoA-TH Kodchasal, TH Kodchasal Italic, TH Kodchasal Bold, TH Kodchasal Bold Italic,+AAoA-TH Sarabun PSK, TH Sarabun PSK Italic, TH Sarabun PSK Bold, TH Sarabun PSK Bold Italic,+AAoA-TH K2D July8, TH K2D July8 Italic, TH K2D July8 Bold, TH K2D July8 Bold Italic,+AAoA-TH Mali Grade 6, TH Mali Grade 6 Italic, TH Mali Grade 6 Bold, TH Mali Grade 6 Bold Italic,+AAoA-TH Chakra Petch, TH Chakra Petch Italic, TH Chakra Petch Bold, TH Chakra Petch Bold Italic,+AAoA-TH Baijam, TH Baijam Italic, TH Baijam Bold, TH Baijam Bold Italic,+AAoA-TH KoHo, TH KoHo Italic, TH KoHo Bold, TH KoHo Bold Italic,+AAoA-TH Fah Kwang, TH Fah Kwang Italic, TH Fah Kwang Bold, TH Fah Kwang Bold Italic.+AAoACgAA-This Font Computer Program is the copyright of the Department of Intellectual Property (DIP), Ministry of Commerce and the Software Industry Promotion Agency (Public Organization) (SIPA) +AAoACgAA-The purposes of this Font Computer Program License are to stimulate worldwide development of cooperative font creation, to benefit for academic, to share and to develop in partnership with others.+AAoACgAA-Terms and Conditions of the Font Computer Program+AAoACgAA(1) Allow to use without any charges and allow to reproduce, study, adapt and distribute this Font Computer Program. Neither the original version nor adapted version of Font Computer Program may be sold by itself, except bundled and/or sold with any computer program.+AAoACgAA(2) If you wish to adapt this Font Computer Program, you must notify copyright owners (DIP & SIPA) in writing.+AAoACgAA(3) No adapted version of Font Computer Program may use the Reserved Font Name(s), the name(s) of the copyright owners and the author(s) of the Font Computer Program must not be used to promote or advertise any adapted version, except obtaining written permission from copyright owners and the author(s).+AAoACgAA(4) The adapted version of Font Computer Program must be released under the term and condition of this license.+AAoACgAA-DISCLAIMER+AAoA-THE FONT COMPUTER PROGRAM AND RELATED FILES ARE PROVIDED +IBwA-AS IS+IB0A AND WITHOUT WARRANTY OF ANY KIND.  NO GUARANTEES ARE MADE THAT THIS FONT COMPUTER PROGRAM WILL WORK AS EXPECTED OR WILL BE DEVELOPED FURTHUR IN ANY SPECIFIC WAY.  THERE IS NO OFFER OR GUARANTEE OF TECHNICAL SUPPORT." "" "" "SP Rama" "Oblique" "SP Rama Oblique" 
+LangName: 1033 "" "" "" "" "" "" "" "TH Niramit AS Italic is a trademark of Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group." "IPTH" "Mr. Pairoj Peamprajakpong & Mr. Borwon Joradol of AS;Aksaramatee Group" "AS;Aksaramatee is a trademark of Pairoj Peamprajakpong & Borwon Joradol, AS-Aksaramatee Group.+AA0ACgANAAoA-AS TypeDesign LTD. can be contacted at:+AA0ACgANAAoA-Thailand (+----------------66)  Tel. 0 1832 6682, 0 9824 6600+AA0ACgAA-e-mail : noppavorn@yahoo.com , borwornjoradol@yahoo.com+AA0ACgANAAoA-Typeface (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-Data (c) Pairoj Peamprajakpong & Borwon Joradol.+AA0ACgAA-2000-2006. All rights reserved." "" "e-mail : noppavorn@yahoo.com, borwornjoradol@yahoo.com" "Font Computer Program License Agreement+AAoACgAA-Reserved Font Names for this Font Computer Program:+AAoA-TH Krub, TH Krub Italic, TH Krub Bold, TH Krub Bold Italic,+AAoA-TH Niramit AS, TH Niramit AS Italic, TH Niramit AS Bold, TH Niramit AS Bold Italic,+AAoA-TH Kodchasal, TH Kodchasal Italic, TH Kodchasal Bold, TH Kodchasal Bold Italic,+AAoA-TH Sarabun PSK, TH Sarabun PSK Italic, TH Sarabun PSK Bold, TH Sarabun PSK Bold Italic,+AAoA-TH K2D July8, TH K2D July8 Italic, TH K2D July8 Bold, TH K2D July8 Bold Italic,+AAoA-TH Mali Grade 6, TH Mali Grade 6 Italic, TH Mali Grade 6 Bold, TH Mali Grade 6 Bold Italic,+AAoA-TH Chakra Petch, TH Chakra Petch Italic, TH Chakra Petch Bold, TH Chakra Petch Bold Italic,+AAoA-TH Baijam, TH Baijam Italic, TH Baijam Bold, TH Baijam Bold Italic,+AAoA-TH KoHo, TH KoHo Italic, TH KoHo Bold, TH KoHo Bold Italic,+AAoA-TH Fah Kwang, TH Fah Kwang Italic, TH Fah Kwang Bold, TH Fah Kwang Bold Italic.+AAoACgAA-This Font Computer Program is the copyright of the Department of Intellectual Property (DIP), Ministry of Commerce and the Software Industry Promotion Agency (Public Organization) (SIPA) +AAoACgAA-The purposes of this Font Computer Program License are to stimulate worldwide development of cooperative font creation, to benefit for academic, to share and to develop in partnership with others.+AAoACgAA-Terms and Conditions of the Font Computer Program+AAoACgAA(1) Allow to use without any charges and allow to reproduce, study, adapt and distribute this Font Computer Program. Neither the original version nor adapted version of Font Computer Program may be sold by itself, except bundled and/or sold with any computer program.+AAoACgAA(2) If you wish to adapt this Font Computer Program, you must notify copyright owners (DIP & SIPA) in writing.+AAoACgAA(3) No adapted version of Font Computer Program may use the Reserved Font Name(s), the name(s) of the copyright owners and the author(s) of the Font Computer Program must not be used to promote or advertise any adapted version, except obtaining written permission from copyright owners and the author(s).+AAoACgAA(4) The adapted version of Font Computer Program must be released under the term and condition of this license.+AAoACgAA-DISCLAIMER+AAoA-THE FONT COMPUTER PROGRAM AND RELATED FILES ARE PROVIDED +IBwA-AS IS+IB0A AND WITHOUT WARRANTY OF ANY KIND.  NO GUARANTEES ARE MADE THAT THIS FONT COMPUTER PROGRAM WILL WORK AS EXPECTED OR WILL BE DEVELOPED FURTHUR IN ANY SPECIFIC WAY.  THERE IS NO OFFER OR GUARANTEE OF TECHNICAL SUPPORT." "" "" "SP Rama" "Oblique" "SP Rama Oblique" 
 LangName: 1054 "" "" "" "" "" "" "" "" "" "" "" "" "" "+DioOMQ4NDg0OMg4tDhkOOA4NDjIOFQ5DDisOSQ5DDgoOSQ5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwACgAKDgoONw5IDi0OFw41DkgOKg4HDicOGQ5EDicOSQ4qDjMOKw4jDjEOGg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkACgAA-TH Krub, TH Krub Italic, TH Krub Bold, TH Krub Bold Italic,+AAoA-TH Niramit AS, TH Niramit AS Italic, TH Niramit AS Bold, TH Niramit AS Bold Italic,+AAoA-TH Kodchasal, TH Kodchasal Italic, TH Kodchasal Bold, TH Kodchasal Bold Italic,+AAoA-TH Sarabun PSK, TH Sarabun PSK Italic, TH Sarabun PSK Bold, TH Sarabun PSK Bold Italic,+AAoA-TH K2D July8, TH K2D July8 Italic, TH K2D July8 Bold, TH K2D July8 Bold Italic,+AAoA-TH Mali Grade 6, TH Mali Grade 6 Italic, TH Mali Grade 6 Bold, TH Mali Grade 6 Bold Italic,+AAoA-TH Chakra Petch, TH Chakra Petch Italic, TH Chakra Petch Bold, TH Chakra Petch Bold Italic,+AAoA-TH Baijam, TH Baijam Italic, TH Baijam Bold, TH Baijam Bold Italic,+AAoA-TH KoHo, TH KoHo Italic, TH KoHo Bold, TH KoHo Bold Italic,+AAoA-TH Fah Kwang, TH Fah Kwang Italic, TH Fah Kwang Bold, TH Fah Kwang Bold Italic.+AAoACg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkA +DkAOGw5HDhkOJQ40DgIOKg40DhcOGA40DkwOIw5IDicOIQ4BDjEOGQ4CDi0OBw4BDiMOIQ4XDiMOMQ4eDiIOTA4qDjQOGQ4XDjIOBw4bDjEODQ4NDjIA +DgEOIw4wDhcOIw4nDgcOHg4yDhMONA4KDiIOTAAA +DkEOJQ4wDioOMw4ZDjEOAQ4HDjIOGQ4qDkgOBw5ADioOIw40DiEOLQ44DhUOKg4yDisOAQ4jDiMOIQ4LDi0OHw4VDkwOQQ4nDiMOTA5BDisOSA4HDgoOMg4VDjQA (+Di0OBw4EDkwOAQ4yDiMOIQ4rDjIOCg4Z)+AAoACg4qDjEODQ4NDjIOLQ4ZDjgODQ4yDhUOQw4rDkkOQw4KDkkOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhkONQ5J +DiEONQ4nDjEOFQ4WDjgOGw4jDjAOKg4HDgQOTA5ADh4ONw5IDi0OAQ5IDi0OQw4rDkkOQA4BDjQOFA4EDicOMg4hDiMOSA4nDiEOIQ43Di0OQw4ZDgEOMg4jDioOIw5JDjIOBw4qDiMOIw4EDkwOHw4tDhkOFQ5MDkMOGQ4nDgcOAQ4nDkkOMg4H +DiMOJw4hDhcOMQ5JDgcOQA4eDjcOSA4tDhsOIw4wDkIOIg4KDhkOTA4XDjIOBw4UDkkOMg4ZDgEOMg4jDigONg4BDikOMg5BDiUOMA4BDjIOIw5BDhoOSA4HDhsOMQ4ZDgQOJw4yDiEOIw45DkkOQQ4lDjAOHg4xDhIOGQ4yDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQAKAAoOAg5JDi0OAQ4zDisOGQ4UDkEOJQ4wDkAOBw43DkgOLQ4ZDkQOAg4CDi0OBw4qDjEODQ4NDjIOLQ4ZDjgODQ4yDhUOQw4rDkkOQw4KDkkOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhkONQ5JAAoACgAA(1)  +Di0OGQ44Dg0OMg4VDkMOKw5JDkMOCg5JDkQOFA5JDkIOFA4iDkQOIQ5IDgQONA4UDgQOSA4yDkMOCg5JDggOSA4yDiIOQQ4lDjAOLQ4ZDjgODQ4yDhUOQw4rDkkOFw4zDgsOSQ4zDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQ5EDhQOSQAA +DiMOJw4hDhcOMQ5JDgcOLQ4ZDjgODQ4yDhUOQw4rDkkORA4UDkkOKA42DgEOKQ4y +DhQOMQ4UDkEOGw4lDgcA +DkEOJQ4wDkEOCA4BDggOSA4yDiIOQw4rDkkOQQ4BDkgOHA45DkkOLQ43DkgOGQ5EDhQOSQAA +DhcOMQ5JDgcOGQ41DkkOCA4wDhUOSQ4tDgcORA4hDkgOGQ4zDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQ5BDiUOMA5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOFw41DkgOFA4xDhQOQQ4bDiUOBw4tDi0OAQ4IDjMOKw4ZDkgOMg4i +DkAOJw5JDhkOQQ4VDkgOQA4bDkcOGQ4BDjIOIw4IDjMOKw4ZDkgOMg4iDiMOJw4hDhUONA4UDkQOGw4BDjEOGg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4tDjcOSA4ZAAoACgAA(2)  +DgEOSA4tDhkOFA4zDkAOGQ40DhkOAQ4yDiMOFA4xDhQOQQ4bDiUOBw5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwA +DggOMA4VDkkOLQ4HDkEOCA5JDgcOQw4rDkkOQA4IDkkOMg4CDi0OBw4lDjQOAg4qDjQOFw4YDjQOTA4XDiMOMg4aDkAOGw5HDhkOJQ4yDiIOJQ4xDgEOKQ4TDkwOLQ4xDgEOKQ4jAAoACgAA(3)  +DkAOIQ43DkgOLQ4UDjEOFA5BDhsOJQ4HDkIOGw4jDkEOAQ4jDiEOBA4tDiEOHg40DicOQA4VDi0OIw5MDh8OLQ4ZDhUOTA4ZDjUOSQ5BDiUOSQ4n +DisOSQ4yDiEOHA45DkkOFA4xDhQOQQ4bDiUOBw5DDgoOSQ4KDjcOSA4tDh8OLQ4ZDhUOTA5ADhQONA4h +DiMOJw4hDhcOMQ5JDgcOKw5JDjIOIQ5DDgoOSQ4KDjcOSA4tDkAOCA5JDjIOAg4tDgcOJQ40DgIOKg40DhcOGA40DkwOQQ4lDjAOHA45DkkOKg4jDkkOMg4HDioOIw4jDgQOTA5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkA +DkMOGQ4BDjIOIw5CDgYOKQ4TDjIOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhcONQ5IDkQOFA5JDhQOMQ4UDkEOGw4lDgcA +DkAOJw5JDhkOQQ4VDkgORA4UDkkOIw4xDhoOLQ4ZDjgODQ4yDhUOQA4bDkcOGQ4lDjIOIg4lDjEOAQ4pDhMOTA4tDjEOAQ4pDiMOCA4yDgEOQA4IDkkOMg4CDi0OBw4lDjQOAg4qDjQOFw4YDjQOTAAKAAoA(4)  +DhwOOQ5JDhQOMQ4UDkEOGw4lDgcOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOGQ41DkkOCA4wDhUOSQ4tDgcOIg40DhkOIg4tDiEOQw4rDkkOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5M +DhcONQ5IDhQOMQ4UDkEOGw4lDgcOAg42DkkOGQ5DDisOIQ5IDiEONQ4CDkkOLQ4BDjMOKw4ZDhQOQQ4lDjAOQA4HDjcOSA4tDhkORA4CDioOMQ4NDg0OMg4tDhkOOA4NDjIOFQ5DDisOSQ5DDgoOSQ5CDhsOIw5BDgEOIw4hDkAOCg5IDhkOQA4UDjUOIg4nDgEOMQ4ZDgEOMQ4aDgIOSQ4tDgEOMw4rDhkOFAAA +DkEOJQ4wDkAOBw43DkgOLQ4ZDkQOAg4CDi0OBw4qDjEODQ4NDjIOLQ4ZDjgODQ4yDhUOGQ41DkkOQA4KDkgOGQ4BDjEOGQAKAAoOAg5JDi0OFg43Di0OKg40DhcOGA40AAoOQA4IDkkOMg4CDi0OBw4lDjQOAg4qDjQOFw4YDjQOTA5EDiEOSA4jDjEOGg4bDiMOMA4BDjEOGQ4BDjIOIw5DDgoOSQ4HDjIOGQ5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOQQ4lDjAORA4fDiUOTA4XDjUOSA5ADgEONQ5IDiIOJw4CDkkOLQ4HDhkONQ5JDkEOFQ5IDi0OIg5IDjIOBw5DDhQA  +DkQOIQ5IDiEONQ4BDjIOIw4jDjEOGg4jDi0OBw4nDkgOMg5CDhsOIw5BDgEOIw4hDgQOLQ4hDh4ONA4nDkAOFQ4tDiMOTA4fDi0OGQ4VDkwOGQ41DkkOCA4wDhcOMw4HDjIOGQ5EDhQOSQ4tDiIOSA4yDgcOFw41DkgOBA4nDiMOCA4wDkAOGw5HDhkA +DkEOJQ4wDkQOIQ5IDiEONQ4BDjIOIw4jDjEOGg4jDi0OBw4nDkgOMg4IDjAOIQ41DgEOMg4jDh4OMQ4SDhkOMg4VDkgOLQ4iDi0OFA5DDhkOLQ4ZDjIOBA4V +DkQOIQ5IDiEONQ5BDiUOMA5EDiEOSA4jDjEOGg4jDi0OBw4nDkgOMg4IDjAOIQ41DgEOMg4jDkMOKw5JDgQOMw5BDhkOMA4ZDjMOFw4yDgcOQA4XDgQOGQ40DgQOKg4zDisOIw4xDhoOQg4bDiMOQQ4BDiMOIQ4EDi0OIQ4eDjQOJw5ADhUOLQ4jDkwOHw4tDhkOFQ5MDhkONQ5J" 
 GaspTable: 3 8 2 16 1 65535 3
 Encoding: Custom
@@ -217,7 +218,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 168 24 6
+WinInfo: 72 24 6
 BeginPrivate: 6
 BlueValues 39 [-19 0 520 537 598 610 709 727 743 755]
 OtherBlues 11 [-235 -223]
@@ -4170,13 +4171,33 @@ Encoding: 199 199 136
 Width: 594
 VWidth: 1494
 Flags: W
-HStem: -212 46<225.822 353.94> -17 64<274.566 471.033> 654 62<391.994 583.002>
-VStem: 115 66<144.314 383.397> 360 56<-156.676 -98.5123>
+HStem: -212 46<225.822 353.94> 654 62<391.994 583.002>
+VStem: 115 66<144.32 383.397> 360 56<-156.676 -98.5123>
 LayerCount: 2
 Fore
-Refer: 36 67 N 1 0 0 1 0 0 2
-Refer: 122 184 N 1 0 0 1 202 0 2
-Validated: 5
+SplineSet
+489 654 m 0
+ 302 654 181 439 181 255 c 0
+ 181 138 235 47 371 47 c 0
+ 429 47 490 64 537 108 c 1
+ 567 58 l 1
+ 555 49 486 -6 385 -16 c 1
+ 351 -52 l 1
+ 375 -57 416 -74 416 -112 c 0
+ 416 -145 383 -212 278 -212 c 0
+ 270 -212 228 -210 209 -194 c 1
+ 237 -151 l 1
+ 254 -161 271 -166 296 -166 c 0
+ 322 -166 360 -158 360 -125 c 0
+ 360 -102 335 -91 274 -87 c 1
+ 331 -16 l 1
+ 230 -7 115 59 115 238 c 0
+ 115 474 276 716 504 716 c 0
+ 597 716 649 675 675 647 c 1
+ 635 589 l 1
+ 627 600 585 654 489 654 c 0
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Egrave
@@ -4777,13 +4798,33 @@ Encoding: 231 231 168
 Width: 452
 VWidth: 1494
 Flags: W
-HStem: -212 46<149.822 277.94> -14 54<200.571 364.252> 469 56<281.467 437.036>
-VStem: 86 57<100.891 299.674> 284 56<-156.676 -98.5123>
+HStem: -212 46<149.822 277.94> -14 54<201.238 256> 469 56<281.467 437.036>
+VStem: 86 57<101.948 299.674> 284 56<-156.676 -98.5123>
 LayerCount: 2
 Fore
-Refer: 68 99 N 1 0 0 1 0 0 2
-Refer: 122 184 N 1 0 0 1 126 0 2
-Validated: 5
+SplineSet
+357 469 m 0
+ 231 469 143 321 143 190 c 0
+ 143 95 195 40 277 40 c 0
+ 325 40 369 56 398 87 c 1
+ 424 45 l 1
+ 412 36 374 4 316 -8 c 1
+ 275 -52 l 1
+ 299 -57 340 -74 340 -112 c 0
+ 340 -145 307 -212 202 -212 c 0
+ 194 -212 152 -210 133 -194 c 1
+ 161 -151 l 1
+ 178 -161 195 -166 220 -166 c 0
+ 246 -166 284 -158 284 -125 c 0
+ 284 -102 259 -91 198 -87 c 1
+ 256 -14 l 1
+ 180 -11 86 32 86 172 c 0
+ 86 341 201 525 373 525 c 0
+ 457 525 495 478 501 471 c 1
+ 466 417 l 1
+ 445 453 405 469 357 469 c 0
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: egrave
@@ -7342,6 +7383,7 @@ SplineSet
  347 459 371 489 371 519 c 0
  371 541 356 555 332 555 c 256x3b80
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni0E23
@@ -14680,13 +14722,37 @@ Encoding: 350 350 483
 Width: 579
 VWidth: 1494
 Flags: W
-HStem: -212 46<153.822 281.94> -19 55<194.479 399.682> 667 58<324.045 531.974>
-VStem: 172 64<459.962 585.08> 288 56<-156.676 -98.5123> 506 64<124.18 245.152>
+HStem: -212 46<153.822 281.94> -19 55<193.745 256> 667 58<324.045 531.974>
+VStem: 172 64<459.962 585.08> 288 56<-156.676 -98.5123> 506 64<124.439 245.152>
 LayerCount: 2
 Fore
-Refer: 52 83 N 1 0 0 1 0 0 3
-Refer: 122 184 N 1 0 0 1 130 0 2
-Validated: 5
+SplineSet
+172 510 m 0
+ 172 607 268 725 434 725 c 0
+ 511 725 589 696 625 664 c 1
+ 584 613 l 1
+ 552 641 499 667 420 667 c 0
+ 293 667 236 578 236 519 c 0
+ 236 399 445 378 530 301 c 0
+ 553 280 570 253 570 213 c 0
+ 570 139 518 -1 311 -17 c 1
+ 279 -52 l 1
+ 303 -57 344 -74 344 -112 c 0
+ 344 -145 311 -212 206 -212 c 0
+ 198 -212 156 -210 137 -194 c 1
+ 165 -151 l 1
+ 182 -161 199 -166 224 -166 c 0
+ 250 -166 288 -158 288 -125 c 0
+ 288 -102 263 -91 202 -87 c 1
+ 256 -19 l 1
+ 132 -13 82 55 59 75 c 1
+ 117 121 l 1
+ 158 74 200 36 294 36 c 0
+ 396 36 506 91 506 188 c 0
+ 506 311 288 302 206 414 c 0
+ 187 440 172 472 172 510 c 0
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: scedilla
@@ -14694,13 +14760,36 @@ Encoding: 351 351 484
 Width: 424
 VWidth: 1494
 Flags: W
-HStem: -212 46<101.822 229.94> -13 49<125.342 311.382> 477 52<229.025 396.87>
-VStem: 120 60<332.926 430.705> 236 56<-156.676 -98.5123> 369 60<84.3145 187.753>
+HStem: -212 46<101.822 229.94> -13 49<124.705 209> 477 52<229.025 396.87>
+VStem: 120 60<332.926 430.705> 236 56<-156.676 -98.5123> 369 60<84.9314 187.753>
 LayerCount: 2
 Fore
-Refer: 84 115 N 1 0 0 1 0 0 3
-Refer: 122 184 N 1 0 0 1 78 0 2
-Validated: 5
+SplineSet
+120 362 m 0
+ 120 427 189 529 323 529 c 0
+ 354 529 414 518 468 483 c 1
+ 433 433 l 1
+ 428 438 378 477 310 477 c 0
+ 217 477 180 416 180 377 c 0
+ 180 276 429 290 429 159 c 0
+ 429 117 402 18 269 -7 c 1
+ 227 -52 l 1
+ 251 -57 292 -74 292 -112 c 0
+ 292 -145 259 -212 154 -212 c 0
+ 146 -212 104 -210 85 -194 c 1
+ 113 -151 l 1
+ 130 -161 147 -166 172 -166 c 0
+ 198 -166 236 -158 236 -125 c 0
+ 236 -102 211 -91 150 -87 c 1
+ 209 -13 l 1
+ 96 -13 57 28 31 55 c 1
+ 78 96 l 1
+ 129 36 190 36 209 36 c 0
+ 333 36 369 98 369 141 c 0
+ 369 227 219 219 144 300 c 0
+ 128 318 120 339 120 362 c 0
+EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: Utilde
