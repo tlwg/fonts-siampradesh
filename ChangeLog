@@ -1,3 +1,21 @@
+2009-04-29  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-SP-Thotsakan/SPThotsakan*.sfd:
+	* 04-SP-Rama/SPRama*.sfd:
+	* 06-SP-Sinsamut/SPSinsamut*.sfd:
+	* 07-SP-Laksaman/SPLaksaman*.sfd:
+	* 08-SP-Sida/SPSida*.sfd:
+	* 09-SP-Sutsakhorn/SPSutsakhorn*.sfd:
+	* 12-SP-Aphaimanee/SPAphaimanee*.sfd:
+	* 13-SP-Hanuman/SPHanuman*.sfd:
+	  - Unreference {CcSs}cedilla glyphs; eliminate overlap
+
+	* 07-SP-Laksaman/SPLaksaman*.sfd:
+	  - Unreference RUE, LUE; eliminate overlap
+
+	* 08-SP-Sida/SPSida*.sfd:
+	  - Unreference Oslash; eliminate overlap
+
 2009-04-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* 13-SP-Hanuman/SPHanuman*.sfd:
