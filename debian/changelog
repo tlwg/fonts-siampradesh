@@ -1,4 +1,4 @@
-thaifonts-siampradesh (0.2.0-1) UNRELEASED; urgency=low
+thaifonts-siampradesh (0.2.1-1) unstable; urgency=low
 
   * Initial upload to Debian. (Closes: #524835)
   * Adjust description.
@@ -13,8 +13,12 @@ thaifonts-siampradesh (0.2.0-1) UNRELEASED; urgency=low
   * Add '${misc:Depends}' to fix lintian warnings.
   * Bump Standards-Version to 3.8.1 (no changes needed)
   * Add Vcs-*: and Homepage: fields.
+  * New upstream release
+    - Drop fontconfig files from debian/ and install from upstream instead
+  * Add DM-Upload-Allowed.
+  * Add watch file.
 
- -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Mon, 20 Apr 2009 16:40:21 +0700
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Thu, 30 Apr 2009 13:06:58 +0700
 
 thaifonts-siampradesh (0.2.0-0thep2) unstable; urgency=low
 
