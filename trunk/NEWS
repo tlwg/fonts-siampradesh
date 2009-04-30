@@ -1,3 +1,14 @@
+0.2.1 (2009-04-30)
+=====
+* Fontforge format 3.0 (requires fontforge >= 20080110)
+* Correct ZWNJ, ZWJ, LRM, RLM glyphs
+* Add ZWSP glyph
+* Fontconfig configs for registering generic families and for synthesizing
+  DIP/SIPA original counterpart families
+* Fix glyph problems (round to int, extremas, directions, overlaps).
+  All outline-based arts generated from the glyphs are now properly drawn,
+  for example.
+
 0.2.0 (2008-03-10)
 =====
 * First release for fonts modified from DIP-SIPA contested fonts
