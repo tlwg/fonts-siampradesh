@@ -8,4 +8,4 @@
 11-SP-Laweng/*.ttf              usr/share/fonts/truetype/ttf-thai-siampradesh
 12-SP-Aphaimanee/*.ttf          usr/share/fonts/truetype/ttf-thai-siampradesh
 13-SP-Hanuman/*.ttf             usr/share/fonts/truetype/ttf-thai-siampradesh
-debian/fontconfig/*             etc/fonts/conf.avail
+fontconfig/*                    etc/fonts/conf.avail

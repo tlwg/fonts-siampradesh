@@ -2,6 +2,7 @@ Source: thaifonts-siampradesh
 Section: non-free/fonts
 Priority: optional
 Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
+DM-Upload-Allowed: yes
 Build-Depends: debhelper (>= 7)
 Build-Depends-Indep: defoma (>= 0.7.0), fontforge, xfonts-utils
 Vcs-Svn: http://linux.thai.net/svn/software/thaifonts-dip-sipa
