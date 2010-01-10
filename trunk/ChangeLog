@@ -1,5 +1,20 @@
 2010-01-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
+	Borrow fontconfig changes from thaifonts-scalable project.
+
+	* fontconfig/90-ttf-thai-siampradesh-synthetic.conf:
+	  - Fix 'mode="eq"' non-attribute with 'compare="eq"' attribute for
+	    'test' elements
+	  - Directly assign scaling matrix instead of multiplying to existing
+	    one, working around small synthetic font problem due to double
+	    multiplication
+	* fontconfig/Makefile.am,
+	  fontconfig/90-ttf-thai-siampradesh-synthetic.conf
+	  -> fontconfig/89-ttf-thai-siampradesh-synthetic.conf:
+	  Bump rules order to be applied before fontconfig's 90-synthetic.conf
+
+2010-01-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
 	* configure.ac: Post-release version suffix added.
 
 2009-04-30  Theppitak Karoonboonyanan  <thep@linux.thai.net>
