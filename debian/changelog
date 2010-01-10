@@ -1,6 +1,5 @@
-thaifonts-siampradesh (0.2.1-1) unstable; urgency=low
+thaifonts-siampradesh (0.2.1-0thep1) unstable; urgency=low
 
-  * Initial upload to Debian. (Closes: #524835)
   * Adjust description.
   * Section moved from 'non-free/x11' to 'non-free/fonts'.
   * Update debian/copyright according to format proposal rev 454.
