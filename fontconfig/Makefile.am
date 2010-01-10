@@ -1,6 +1,6 @@
 CONFIG_FILES = \
 	64-ttf-thai-siampradesh.conf		\
-	90-ttf-thai-siampradesh-synthetic.conf
+	89-ttf-thai-siampradesh-synthetic.conf
 
 EXTRA_DIST = $(CONFIG_FILES)
 
