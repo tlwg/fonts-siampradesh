@@ -1,0 +1,91 @@
+thaifonts-siampradesh (0.2.2-0thep1) unstable; urgency=low
+
+  * New upstream release
+    - debian/ttf-thai-siampradesh.links: Update link for fontconfig file
+    - debian/ttf-thai-siampradesh.preinst: Added to clean up obsolete conffile
+      /etc/fonts/conf.avail/90-ttf-thai-siampradesh-synthetic.conf
+  * Drop defoma support, according to
+    http://wiki.debian.org/OldPkgRemovals#defoma :
+    - debian/control: Drop Build-Depends on defoma; drop Depends on defoma,
+      x-ttcidfont-conf
+    - debian/rules: Drop dh_installdefoma call 
+    - debian/ttf-thai-siampradesh.defoma-hints: Removed 
+    - debian/ttf-thai-siampradesh.preinst: Remove obsolete defoma hints file
+  * debian/control: Drop DM-Upload-Allowed.
+  * Bump Standards-Version to 3.8.3 (no changes needed)
+  * Switch to "3.0 (quilt)" source format.
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Thu, 14 Jan 2010 13:11:33 +0700
+
+thaifonts-siampradesh (0.2.1-0thep1) unstable; urgency=low
+
+  * Adjust description.
+  * Section moved from 'non-free/x11' to 'non-free/fonts'.
+  * Update debian/copyright according to format proposal rev 454.
+  * Bump debhelper compat to level 7
+    - Bump debian/compat to 7
+    - Build-dep on debhelper (>= 7)
+    - debian/rules:
+      + Replace obsoleted 'dh_clean -k' with 'dh_prep'
+      + Remove *-stamp clean-ups in clean target, as dh_clean now does it
+  * Add '${misc:Depends}' to fix lintian warnings.
+  * Bump Standards-Version to 3.8.1 (no changes needed)
+  * Add Vcs-*: and Homepage: fields.
+  * New upstream release
+    - Drop fontconfig files from debian/ and install from upstream instead
+  * Add DM-Upload-Allowed.
+  * Add watch file.
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Thu, 30 Apr 2009 13:06:58 +0700
+
+thaifonts-siampradesh (0.2.0-0thep2) unstable; urgency=low
+
+  * Move to non-free section, due to requirement for written notification
+    before modifying.
+  * debian/copyright:
+    - Update format to recent proposal
+  * Bump Standards-Version to 3.8.0, with following changes:
+    - Add Disclaimer field to debian/copyright, explaining why the package
+      is non-free [12.5]
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Fri, 29 Aug 2008 15:39:37 +0700
+
+thaifonts-siampradesh (0.2.0-0thep1) unstable; urgency=low
+
+  * New upstream release
+    - rename to thaifonts-siampradesh
+    - license reverted to original license
+    - fonts renamed as required by the license
+  * debian/copyright:
+    - rewrite in machine-interpretable format
+    - change the license back to original terms
+  * Drop meaningless Type 1 package
+    - debian/control: drop entry
+    - debian/t1-thai-*.*: remove
+    - debian/rules:
+      + remove dh_installxfonts
+      + remove --enable-pfb and --with-type1dir configure options
+      + also remove --with-ttfdir configure option, as we don't actually do
+        'make install' anyway
+  * Rename package
+    - debian/control:
+      + rename source and binary packages
+      + adjust package description
+    - debian/ttf-thai-dip-sipa.* -> ttf-thai-siampradesh.*
+    - debian/fontconfig/65-ttf-thai-dip-sipa.conf
+      -> 65-ttf-thai-siampradesh.conf
+  * Rename fonts
+    - debian/ttf-thai-siampradesh.install: rename font dirs
+    - debian/ttf-thai-siampradesh.defoma-hints: rename fonts
+    - debian/fontconfig/ttf-thai-siampradesh.conf: ditto
+  * debian/rules: do not ignore 'make distclean' errors
+  * Bump Standards-Version to 3.7.3, no additional changes needed.
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Mon, 10 Mar 2008 17:09:02 +0700
+
+thaifonts-dip-sipa (0.1.0-0thep1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Tue, 20 Mar 2007 18:08:49 +0700
+

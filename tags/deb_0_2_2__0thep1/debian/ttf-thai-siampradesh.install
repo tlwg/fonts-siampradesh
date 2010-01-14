@@ -1,0 +1,11 @@
+02-SP-Thotsakan/*.ttf           usr/share/fonts/truetype/ttf-thai-siampradesh
+04-SP-Rama/*.ttf                usr/share/fonts/truetype/ttf-thai-siampradesh
+06-SP-Sinsamut/*.ttf            usr/share/fonts/truetype/ttf-thai-siampradesh
+07-SP-Laksaman/*.ttf            usr/share/fonts/truetype/ttf-thai-siampradesh
+08-SP-Sida/*.ttf                usr/share/fonts/truetype/ttf-thai-siampradesh
+09-SP-Sutsakhorn/*.ttf          usr/share/fonts/truetype/ttf-thai-siampradesh
+10-SP-Ramasun/*.ttf             usr/share/fonts/truetype/ttf-thai-siampradesh
+11-SP-Laweng/*.ttf              usr/share/fonts/truetype/ttf-thai-siampradesh
+12-SP-Aphaimanee/*.ttf          usr/share/fonts/truetype/ttf-thai-siampradesh
+13-SP-Hanuman/*.ttf             usr/share/fonts/truetype/ttf-thai-siampradesh
+fontconfig/*                    etc/fonts/conf.avail
