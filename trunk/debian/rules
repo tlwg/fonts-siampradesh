@@ -56,7 +56,6 @@ binary-common:
 	dh_testroot
 	dh_installchangelogs ChangeLog
 	dh_installdocs
-	dh_installdefoma
 	dh_link
 	dh_compress 
 	dh_fixperms

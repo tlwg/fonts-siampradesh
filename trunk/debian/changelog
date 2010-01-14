@@ -1,3 +1,22 @@
+thaifonts-siampradesh (0.2.2-0thep1) unstable; urgency=low
+
+  * New upstream release
+    - debian/ttf-thai-siampradesh.links: Update link for fontconfig file
+    - debian/ttf-thai-siampradesh.preinst: Added to clean up obsolete conffile
+      /etc/fonts/conf.avail/90-ttf-thai-siampradesh-synthetic.conf
+  * Drop defoma support, according to
+    http://wiki.debian.org/OldPkgRemovals#defoma :
+    - debian/control: Drop Build-Depends on defoma; drop Depends on defoma,
+      x-ttcidfont-conf
+    - debian/rules: Drop dh_installdefoma call 
+    - debian/ttf-thai-siampradesh.defoma-hints: Removed 
+    - debian/ttf-thai-siampradesh.preinst: Remove obsolete defoma hints file
+  * debian/control: Drop DM-Upload-Allowed.
+  * Bump Standards-Version to 3.8.3 (no changes needed)
+  * Switch to "3.0 (quilt)" source format.
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Thu, 14 Jan 2010 13:11:33 +0700
+
 thaifonts-siampradesh (0.2.1-0thep1) unstable; urgency=low
 
   * Adjust description.
