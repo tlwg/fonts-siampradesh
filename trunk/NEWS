@@ -1,3 +1,10 @@
+0.2.2 (2010-01-14)
+=====
+* Fix fontconfig problems about synthetic fonts:
+  - DTD conformance
+  - Fix over-scaled-down synthetic font due to double multiplication
+  - Bump synthesizing rule order so it's applied before fontconfig's default
+
 0.2.1 (2009-04-30)
 =====
 * Fontforge format 3.0 (requires fontforge >= 20080110)

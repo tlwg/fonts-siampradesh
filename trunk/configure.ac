@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.61)
-AC_INIT(thaifonts-siampradesh, 0.2.1svn)
+AC_INIT(thaifonts-siampradesh, 0.2.2)
 AM_INIT_AUTOMAKE
 
 FONTFORGE_MIN_VER=20080110
