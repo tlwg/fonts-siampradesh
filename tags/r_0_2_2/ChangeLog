@@ -1,0 +1,472 @@
+2010-01-14  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* configure.ac, NEWS:
+	=== Version 0.2.2 ===
+
+2010-01-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	Borrow fontconfig changes from thaifonts-scalable project.
+
+	* fontconfig/90-ttf-thai-siampradesh-synthetic.conf:
+	  - Fix 'mode="eq"' non-attribute with 'compare="eq"' attribute for
+	    'test' elements
+	  - Directly assign scaling matrix instead of multiplying to existing
+	    one, working around small synthetic font problem due to double
+	    multiplication
+	* fontconfig/Makefile.am,
+	  fontconfig/90-ttf-thai-siampradesh-synthetic.conf
+	  -> fontconfig/89-ttf-thai-siampradesh-synthetic.conf:
+	  Bump rules order to be applied before fontconfig's 90-synthetic.conf
+
+2010-01-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* configure.ac: Post-release version suffix added.
+
+2009-04-30  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* NEWS, configure.ac:
+
+	=== Version 0.2.1 ===
+
+2009-04-29  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-SP-Thotsakan/SPThotsakan*.sfd:
+	* 04-SP-Rama/SPRama*.sfd:
+	* 06-SP-Sinsamut/SPSinsamut*.sfd:
+	* 07-SP-Laksaman/SPLaksaman*.sfd:
+	* 08-SP-Sida/SPSida*.sfd:
+	* 09-SP-Sutsakhorn/SPSutsakhorn*.sfd:
+	* 12-SP-Aphaimanee/SPAphaimanee*.sfd:
+	* 13-SP-Hanuman/SPHanuman*.sfd:
+	  - Unreference {CcSs}cedilla glyphs; eliminate overlap
+
+	* 07-SP-Laksaman/SPLaksaman*.sfd:
+	  - Unreference RUE, LUE; eliminate overlap
+
+	* 08-SP-Sida/SPSida*.sfd:
+	  - Unreference Oslash; eliminate overlap
+
+2009-04-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 13-SP-Hanuman/SPHanuman*.sfd:
+	  - Find & fix problems (round to int, add extremas)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-26  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 12-SP-Aphaimanee/SPAphaimanee*.sfd:
+	  - Find & fix problems (add extremas, fix directions,
+	    fix self-intersections)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+	* 12-SP-Aphaimanee/SPAphaimanee-Bold[Oblique].sfd:
+	  - Adjust OtherBlues to cover y lower stem
+
+2009-04-26  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 11-SP-Laweng/SPLaweng*.sfd:
+	  - Find & fix problems (add extremas, fix directions,
+	    fix self-intersections)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-26  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 10-SP-Ramasun/SPRamasun*.sfd:
+	  - Find & fix problems (fix directions, fix self-intersections)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-26  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 09-SP-Sutsakhorn/SPSutsakhorn*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions,
+	    fix self-intersections)
+	  - Remove unused 'nonunicode-3-1-bd' glyph
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-25  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 08-SP-Sida/SPSida*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions,
+	    fix self-intersections)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-25  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 07-SP-Laksaman/SPLaksaman*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions,
+	    fix self-intersections)
+	  - Remove top blue zone
+	  - Re-apply autohint to all glyphs
+	  - Add alternate glyphs for Do Chada, To Patak, Lo Chula, as required
+	    by the substitution rules
+	  - Remove watermark from Khomut, as it over-complicates auto-hinting
+	  - Bump font version to 2.2
+
+2009-04-25  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 06-SP-Sinsamut/SPSinsamut*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions,
+	    fix self-intersections)
+	  - Remove blue zone at alignment area
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+	* 06-SP-Sinsamut/SPSinsamut-Oblique.sfd:
+	  - Hack glyphs to fix broken lower stem tips when hinted for
+	    Tho Nangmontho, To Tao, Pho Samphao, Sara Aa and Sara Am
+
+2009-04-24  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 04-SP-Rama/SPRama*.sfd:
+	  - Find & fix problems (round to int, add extremas, fix directions)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-23  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-SP-Thotsakan/SPThotsakan*.sfd:
+	  - Find & fix problems (round to int, add extremas)
+	  - Remove blue zone at alignment area
+	  - Lower So Rusi head into blue zone (for normal weight)
+	  - Re-apply autohint to all glyphs
+	  - Bump font version to 2.2
+
+2009-04-23  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* configure.ac, Makefile.am, +fontconfig/Makefile.am:
+	* +fontconfig/64-ttf-thai-siampradesh.conf:
+	* +fontconfig/90-ttf-thai-siampradesh-synthetic.conf:
+	Add fontconfig files for registering fonts to generic families, and for
+	synthesizing DIP/SIPA original counterpart families.
+
+2008-07-13  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* README: Yet another change for DIP/SIPA's font contest project URL..
+
+2008-07-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* README: Fix link to DIP/SIPA's font contest project.
+
+2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* */*.sfd: Add ZWSP.
+
+2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* configure.ac: Also remove old fontforge check block.
+
+2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* configure.ac: Check fontforge required version >= 20080110, for
+	SplineFontDB 3.0 format. No more pfaedit check.
+
+2008-05-19  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* */*.sfd:
+	  - Clear ZWNJ, ZWJ, LRM, RLM glyphs
+	  - Save as SplineFontDB 3.0
+	  - Bump font version to 2.1
+
+2008-03-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* README: Write project info.
+	* NEWS, configure.ac:
+
+	=== thaifonts-siampradesh Version 0.2.0 ===
+
+2008-03-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/ -> 02-SP-Thotsakan/:
+	* 04-TH-Niramit-AS/ -> 04-SP-Rama/:
+	* 06-TH-Khodchasal/ -> 06-SP-Sinsamut/:
+	* 07-TH-Sarabun-PSK/ -> 07-SP-Laksaman/:
+	* 08-TH-K2D-July8/ -> 08-SP-Sida/:
+	* 09-TH-Mali-Grade-6/ -> 09-SP-Sutsakhorn/:
+	* 10-TH-Chakra-Petch/ -> 10-SP-Ramasun/:
+	* 11-TH-Baijam/ -> 11-SP-Laweng/:
+	* 12-TH-KoHo/ -> 12-SP-Aphaimanee/:
+	* 13-TH-Fah-Kwang/ -> 13-SP-Hanuman/:
+	* Makefile.am, configure.ac:
+	Rename font directories accordingly.
+
+2008-03-10  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/THKrub*.sfd -> 02-TH-Krub/SPThotsakan*.sfd:
+	* 04-TH-Niramit-AS/THNiramitAS*.sfd -> 04-TH-Niramit-AS/SPRama*.sfd:
+	* 06-TH-Khodchasal/THKodchasal*.sfd -> 06-TH-Khodchasal/SPSinsamut*.sfd:
+	* 07-TH-Sarabun-PSK/THSarabunPSK*.sfd
+	  -> 07-TH-Sarabun-PSK/SPLaksaman*.sfd:
+	* 08-TH-K2D-July8/THK2DJuly8*.sfd -> 08-TH-K2D-July8/SPSida*.sfd:
+	* 09-TH-Mali-Grade-6/THMaliGrade6*.sfd
+	  -> 09-TH-Mali-Grade-6/SPSutsakhorn*.sfd:
+	* 10-TH-Chakra-Petch/THChakraPetch*.sfd
+	  -> 10-TH-Chakra-Petch/SPRamasun*.sfd:
+	* 11-TH-Baijam/THBaijam*.sfd -> 11-TH-Baijam/SPLaweng*.sfd:
+	* 12-TH-KoHo/THKoHo*.sfd -> 12-TH-KoHo/SPAphaimanee*.sfd:
+	* 13-TH-Fah-Kwang/THFahkwang*.sfd -> 13-TH-Fah-Kwang/SPHanuman*.sfd:
+	  - Rename fonts as required by the license.
+	  - Set Fontname, Family Name, Name for Humans, Preferred Family,
+	    Preferred Styles, Compaitlble Full.
+	  - Change Italic style to Oblique for all fonts, except SPLaksaman,
+	    which is real Italic.
+	  - Set font version to 2.0.
+	
+	* */Makefile.am: Update source lists.
+	* AUTHORS: Change font names.
+
+2008-03-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* COPYING, */*.sfd: Replace license text with DIP & SIPA original
+	license terms.
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 13-TH-Fah-Kwang/THFahkwang*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	  - Manually hint Pho Phung, Fo Fa, Lo Chula
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 12-TH-KoHo/THKoHo*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 12-TH-KoHo/THKoHo[-Italic].sfd:
+	  - Extend blue zone to cover To Tao tips
+	  - Manually hint To Tao, Pho Phung, Fo Fa, Lo Ling, So Sua,
+	    Thai Digit Three, Thai Digit Seven, Thai Digit Eight
+	  - Lift up Mo Ma to reach blue zone
+	  - Adjust Thai Digit Two base to lie on base line
+	* 12-TH-KoHo/THKoHo-Bold[Italic].sfd:
+	  - Manually hint Pho Phung, Fo Fa
+	  - Lower down Thai Digit Nine to base line
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 11-TH-Baijam/THBaijam*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	  - Manually hint Maiyamok
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 10-TH-Chakra-Petch/THChakraPetch*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 10-TH-Chakra-Petch/THChakraPetch-Bold.sfd:
+	  - Manually hint 'I'
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 09-TH-Mali-Grade-6/THMaliGrade6*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	  - Refine many glyphs
+	* 09-TH-Mali-Grade-6/THMaliGrade6-BoldItalic.sfd:
+	  - Re-encode as compacted UnicodeBMP
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 08-TH-K2D-July8/THK2DJuly8*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 07-TH-Sarabun-PSK/THSarabunPSK*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 06-TH-Kodchasal/THKodchasal*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 06-TH-Kodchasal/THKodchasal[-Italic].sfd:
+	  - Lift up 'J', 'N', 'V' tips to reach blue zone
+	  - Extend blue zone to cover 'M' tips
+	* 06-TH-Kodchasal/THKodchasal-Bold[Italic].sfd:
+	  - Lift up dotlessi, Mo Ma to reach blue zone
+	  - Extend blue zone to cover 'c' bottom
+	  - Manually hint 'i'
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 04-TH-Niramit-AS/THNiramitAS*.sfd:
+	  - Add StdHW, StemSnapH, StdVW, StemSnapV
+	* 04-TH-Niramit-AS/THNiramitAS[-Italic].sfd:
+	  - Lift up '3' and 'h' tips to reach the blue zone
+	  - Adjust 'B' vertical stem.
+	  - Manually hint 'H', 'I', 'N', 'k'.
+	* 04-TH-Niramit-AS/THNiramitAS-Bold[Italic].sfd:
+	  - Move bottom horizontal stem of Kho Khai, Kho Khuat, Cho Chang,
+	    So So, Tho Thong, Bo Baimai, Po Pla, Yo Yak, So Rusi, O Ang,
+	    Ho Nokhuk to base line
+	  - Lower down blue zone to touch 'u', 'i', 'j' tips
+	  - Extend blue zone to cover Cho Ching tip
+	  - Manually hint 'I', Tho Phuthao, Yo Yak
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/THKrub*.sfd: Add StdHW, StemSnapH, StdVW, StemSnapV.
+	* 02-TH-Krub/THKrub[-Italic].sfd: Adjust 'B' vertical stem width.
+	* 02-TH-Krub/THKrub-Bold[Italic].sfd: Adjust 'a' vertical stem width.
+
+2008-03-06  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 13-TH-Fah-Kwang/THFahkwang*.sfd: Convert splines to cubic. Add
+	extremas. Simplify. Autohint. Use references. Fix unicodes for
+	zerowidth[non]joiner, righttoleftmark, lefttorightmark. Re-encode as
+	compacted UnicodeBMP.
+
+2008-03-04  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 12-TH-KoHo/THKoHo*.sfd: Convert splines to cubic. Add extremas.
+	Simplify. Autohint. Re-encode as compacted UnicodeBMP. Fix unicodes
+	for zerowidth[non]joiner, righttoleftmark, lefttorightmark.
+
+2008-02-07  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 11-TH-Baijam/THBaijam*.sfd: Convert splines to cubic. Add extremas.
+	Simplify. Autohint.
+	
+	* 11-TH-Baijam/THBaijam-Bold*.sfd: Add missing glyphs for quotedblbase.
+	Set unicode value for lower SARA UU.
+
+2008-01-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 10-TH-Chakra-Petch/THChakraPetch*.sfd: Convert splines to cubic.
+	Simplify. Auto/manual hint.
+
+2008-01-21  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 09-TH-Mali-Grade-6/THMaliGrade6.sfd: Convert splines to cubic.
+	Add extremas. Simplify splines. Use more references. Autohint.
+	Translate glyphs and set widths of ZWNJ, ZWJ, LRM, RLM to zero.
+	Flip quoteright vertically.
+
+2008-01-16  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 08-TH-K2D-July8/THK2DJuly8*.sfd: Convert splines to cubic.
+	Add extremas. Simplify splines. Autohint.
+
+2008-01-14  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 07-TH-Sarabun-PSK/THSarabunPSK*.sfd: Convert splines to cubic.
+	Add extremas. Simplify splines. Use more references. Autohint.
+
+2007-12-31  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 04-TH-Niramit-AS/THNiramitAS*.sfd: Convert splines to cubic.
+	Add extremas. Simplify splines. Use more references. Autohint.
+
+2007-12-12  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/THKrub*.sfd: Convert splines to cubic, for editing
+	convenience. Add extremas. Simplify splines. Apply autohint.
+
+2007-12-04  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 06-TH-Kodchasal/THKhodchasal-Bold.sfd: Convert splines to cubic,
+	for editing convenience. Add extremas. Simplify splines. Adjust some
+	glyphs as necessary (mostly for those that were too high). Apply
+	autohint.
+
+	* 06-TH-Kodchasal/THKhodchasal-BoldItalic.sfd: Convert splines to
+	cubic. Re-skew glyphs from upright face. Add extremas. Simplify
+	splines. Apply autohint.
+
+	* 06-TH-Kodchasal/THKhodchasal[-Italic].sfd: Simplify 'X' and 'x'
+	glyphs more.
+
+2007-12-01  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 06-TH-Kodchasal/THKhodchasal.sfd: Convert splines to cubic, for
+	editing convenience. Add extremas. Simplify splines. Adjust some
+	glyphs as necessary (mostly for those that were too high). Apply
+	autohint.
+
+	* 06-TH-Kodchasal/THKhodchasal-Italic.sfd: Convert splines to cubic.
+	Re-skew glyphs from upright face. Add extremas. Simplify splines.
+	Apply autohint.
+
+	* scripts/gen-ttf.pe: Add commands to convert splines to quadratic and
+	apply AutoInstr on the fly.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 13-TH-Fah-Kwang/*.sfd: Scale by 153.32% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 12-TH-KoHo/THKoHo-Bold[Italic].sfd: Remove junk in '7' glyph, which
+	caused absurdly large line height. Fix OS/2 WinAscent/WinDescent/
+	HHeadAscent/HHeadDescent accordingly.
+
+	* 12-TH-KoHo/*.sfd: Scale by 146.72% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 11-TH-Baijam/*.sfd: Scale by 150.74% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 10-TH-Chakra-Petch/*.sfd: Scale by 166.12% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-28  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 09-TH-Mali-Grade-6/THMaliGrade6-Italic.sfd: Remove junk reference in
+	uni1EAF with large translation vector that caused weird line height.
+	Fix OS/2 WinAscent/WinDescent/HHeadAscent/HHeadDescent accordingly.
+
+	* 09-TH-Mali-Grade-6/*.sfd: Scale by 176.88% (for Garuda X-Height
+	compatibility). Add ForceBold for bold faces. Apply AutoHint and
+	AutoInstr to all glyphs.
+
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 08-TH-K2D-July8/*.sfd: Scale by 150.73% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 07-TH-Sarabun-PSK/*.sfd: Scale by 150.42% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 06-TH-Kodchasal/*.sfd: Scale by 147.32% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 04-TH-Niramit-AS/*.sfd: Scale by 149.47% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-11-27  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* 02-TH-Krub/*.sfd: Scale by 147.32% (for Garuda X-Height
+	compatibility). Add BlueValues and OtherBlues. Also ForceBold for bold
+	faces. Apply AutoHint and AutoInstr to all glyphs.
+
+2007-03-21  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* */-[Bold]Italic.sfd: Set ItalicAngle for fonts that miss it.
+
+2007-03-20  Theppitak Karoonboonyanan  <thep@linux.thai.net>
+
+	* First created the fontforge project from TTF files:
+	  - Relicense to GPL with font exception, as agreed by DIP & SIPA.
+	  - Ensure that common fields in TTF Names are extracted from
+	    Postscript Names, for consistency.
+	  - Set Manufacturer (Foundry) to IPTH, retaining previous info in
+	    Designer field. Also update UniqueID accordingly.
+
