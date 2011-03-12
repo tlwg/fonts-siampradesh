@@ -1,0 +1,18 @@
+ThaiFonts-Siampradesh
+=====================
+
+This project is an attempt to adjust fonts from DIP & SIPA contested fonts [1]
+for use in GNU/Linux desktops. All fonts are renamed as required by the license.
+
+The difference from original fonts includes:
+
+  * Ready for editing with Fontforge, with all traps cleared
+  * Scaled up to match western fonts at the same point size
+  * Cleaner splines (for some fonts) and more reference usage
+    (i.e. smaller file size)
+  * Miscellaneous bug fixes
+
+
+Links:
+
+[1] http://www.ipthailand.org/ipthailand/index.php?option=com_content&task=view&id=346&Itemid=510
