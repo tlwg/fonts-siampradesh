@@ -1,3 +1,15 @@
+thaifonts-siampradesh (0.2.2-0thep2) unstable; urgency=low
+
+  * Replace fontforge B-Dep with fontforge-nox to reduce load on buildd.
+  * debian/copyright:
+    - Updated to DEP-5 rev 166.
+    - Update copyright year for debian/*.
+  * debian/rules: Switch to dh 7 rules.
+  * B-Dep on debhelper (>= 7.0.50~) for override_dh_ targets support.
+  * Bump Standards-Version to 3.9.1 (no changes needed)
+
+ -- Theppitak Karoonboonyanan <thep@linux.thai.net>  Sat, 12 Mar 2011 16:04:56 +0700
+
 thaifonts-siampradesh (0.2.2-0thep1) unstable; urgency=low
 
   * New upstream release

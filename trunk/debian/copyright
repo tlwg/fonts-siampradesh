@@ -1,16 +1,15 @@
-Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=454
+Format: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=166
 Upstream-Name: thaifonts-siampradesh
-Upstream-Maintainer: Theppitak Karoonboonyanan <thep@linux.thai.net>
-Upstream-Source:
- ftp://linux.thai.net/pub/thailinux/software/thaifonts-siampradesh
+Upstream-Contact: Theppitak Karoonboonyanan <thep@linux.thai.net>
+Source: ftp://linux.thai.net/pub/thailinux/software/thaifonts-siampradesh
 Disclaimer:
  This package is *not* part of the Debian GNU/Linux distribution. It is
  non-free because the license requires written notification before modifying.
 
 Files: *
-Copyright: © 2006 Department of Intellectual Property (DIP), Ministry of
-             Commerce and Software Industry Promotion Agency (Public
-             Organization) (SIPA)
+Copyright: 2006 Department of Intellectual Property (DIP), Ministry of
+                Commerce and Software Industry Promotion Agency (Public
+                Organization) (SIPA)
 License: other
  Reserved Font Names for this Font Computer Program:
    TH Krub, TH Krub Italic, TH Krub Bold, TH Krub Bold Italic,
@@ -64,7 +63,7 @@ License: other
  THERE IS NO OFFER OR GUARANTEE OF TECHNICAL SUPPORT.  
 
 Files: debian/*
-Copyright: © 2007-2009 Theppitak Karoonboonyanan <thep@linux.thai.net>
+Copyright: 2007-2011 Theppitak Karoonboonyanan <thep@linux.thai.net>
 License: GPL-2+
  On Debian systems, the complete text of the GNU General Public License,
  version 2, can be found in /usr/share/common-licenses/GPL-2.
