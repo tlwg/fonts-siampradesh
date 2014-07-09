@@ -1,5 +1,14 @@
 2014-07-09  Theppitak Karoonboonyanan  <theppitak@gmail.com>
 
+	SP Hanuman: Drop misleading RUE, LUE ligature patterns.
+
+	* 13-SP-Hanuman/SPHanuman*.sfd:
+	  - Drop 'rlig' and 'liga' entries which convert
+	    Ru/Lu + Sara Aa -> Rue/Lue.lig
+	  - Bump font version to 2.3.
+
+2014-07-09  Theppitak Karoonboonyanan  <theppitak@gmail.com>
+
 	SP Aphaimanee: Drop misleading RUE, LUE ligature patterns.
 
 	* 12-SP-Aphaimanee/SPAphaimanee*.sfd:

@@ -4,7 +4,7 @@ FullName: SP Hanuman Oblique
 FamilyName: SP Hanuman
 Weight: Book
 Copyright: Copyright (c) 2006 by Department of Intellectual Property (DIP), Ministry of Commerce and Software Industry Promotion Agency (Public Organization) (SIPA). All rights reserved.
-Version: 2.2
+Version: 2.3
 ItalicAngle: -10
 UnderlinePosition: -35
 UnderlineWidth: 30
@@ -13,14 +13,13 @@ Descent: 200
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 375 425136265 6686193]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1158667020
-ModificationTime: 1241004895
+ModificationTime: 1404908920
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -75,6 +74,7 @@ Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 19"  {"'liga' Standard 
 Lookup: 1 0 0 "Single Substitution lookup 20"  {"Single Substitution lookup 20 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 21"  {"Single Substitution lookup 21 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 22"  {"Single Substitution lookup 22 subtable"  } []
+MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: coverage "'liga' Standard Ligatures in Latin lookup 18 subtable"  0 0 0 1
  1 0 1
@@ -217,7 +217,7 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 24 24 7
+WinInfo: 336 24 7
 BeginPrivate: 6
 BlueValues 39 [-26 0 534 547 613 624 702 708 716 739]
 OtherBlues 11 [-204 -189]
@@ -10862,9 +10862,7 @@ SplineSet
  358 177 327 207 286 207 c 256
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E24 uni0E45
-Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E24 uni0E32
 EndChar
 
 StartChar: uni0E26.liga
@@ -10914,9 +10912,7 @@ SplineSet
  249 177 217 207 176 207 c 256
 EndSplineSet
 Validated: 1
-LCarets2: 1 0 
 Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E26 uni0E45
-Ligature2: "'liga' Standard Ligatures in Latin lookup 19 subtable" uni0E26 uni0E32
 EndChar
 
 StartChar: fi
