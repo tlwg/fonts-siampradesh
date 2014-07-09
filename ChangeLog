@@ -1,5 +1,14 @@
 2014-07-09  Theppitak Karoonboonyanan  <theppitak@gmail.com>
 
+	SP Laweng: Drop misleading RUE, LUE ligature patterns.
+
+	* 11-SP-Laweng/SPLaweng*.sfd:
+	  - Drop 'rlig' and 'liga' entries which convert
+	    Ru/Lu + Sara Aa -> Rue/Lue.lig
+	  - Bump font version to 2.3.
+
+2014-07-09  Theppitak Karoonboonyanan  <theppitak@gmail.com>
+
 	SP Ramasun: Drop misleading RUE, LUE ligature patterns.
 
 	* 10-SP-Ramasun/SPRamasun*.sfd:
