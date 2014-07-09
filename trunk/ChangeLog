@@ -1,5 +1,14 @@
 2014-07-09  Theppitak Karoonboonyanan  <theppitak@gmail.com>
 
+	SP Sinsamut: Drop misleading RUE, LUE ligature patterns.
+
+	* 06-SP-Sinsamut/SPSinsamut*.sfd:
+	  - Drop 'rlig' and 'liga' entries which convert
+	    Ru/Lu + Sara Aa -> Rue/Lue.lig
+	  - Bump font version to 2.3.
+
+2014-07-09  Theppitak Karoonboonyanan  <theppitak@gmail.com>
+
 	SP Rama: Drop misleading RUE, LUE ligature patterns.
 
 	* 04-SP-Rama/SPRama*.sfd:
