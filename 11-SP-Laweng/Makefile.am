@@ -4,10 +4,10 @@ FONTSOURCES = \
 	SPLaweng-Oblique.sfd		\
 	SPLaweng.sfd
 
-TTFFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.ttf/g')
-AFMFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.afm/g')
-PFAFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.pfa/g')
-PFBFILES = $(shell echo $(FONTSOURCES) | sed 's/.sfd/.pfb/g')
+TTFFILES = $(FONTSOURCES:.sfd=.ttf)
+AFMFILES = $(FONTSOURCES:.sfd=.afm)
+PFAFILES = $(FONTSOURCES:.sfd=.pfa)
+PFBFILES = $(FONTSOURCES:.sfd=.pfb)
 
 TYPE1FILES =
 if INCLUDE_PFA

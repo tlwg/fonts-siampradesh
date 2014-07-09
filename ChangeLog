@@ -1,3 +1,19 @@
+2014-07-09  Theppitak Karoonboonyanan  <theppitak@gmail.com>
+
+	Fix non-POSIX variables in Makefile.
+
+	* 02-SP-Thotsakan/Makefile.am:
+	* 04-SP-Rama/Makefile.am:
+	* 06-SP-Sinsamut/Makefile.am:
+	* 07-SP-Laksaman/Makefile.am:
+	* 08-SP-Sida/Makefile.am:
+	* 09-SP-Sutsakhorn/Makefile.am:
+	* 10-SP-Ramasun/Makefile.am:
+	* 11-SP-Laweng/Makefile.am:
+	* 12-SP-Aphaimanee/Makefile.am:
+	* 13-SP-Hanuman/Makefile.am:
+	  - Use make substitutions in variables instead of shell + sed.
+
 2013-04-29  Theppitak Karoonboonyanan  <thep@linux.thai.net>
 
 	* fontconfig/89-ttf-thai-siampradesh-synthetic.conf:
